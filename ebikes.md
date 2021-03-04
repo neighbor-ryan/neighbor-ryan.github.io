@@ -286,7 +286,7 @@ I definitely recommend seeing if you can rent a few different kinds of bikes –
 #### Stopping at stop signs + red lights <a id="stopping-at-stops"></a>
 
 
-### Route Planning <a id="route-planning></a>
+### Route Planning <a id="route-planning"></a>
 
 #### Streetview <a id="streetview"></a>
 
