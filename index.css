@@ -1,0 +1,19 @@
+.body {}
+
+.logo {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.logo>img {
+    width: 100%;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials .icon {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
