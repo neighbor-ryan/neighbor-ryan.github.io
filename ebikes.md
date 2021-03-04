@@ -290,11 +290,14 @@ I definitely recommend seeing if you can rent a few different kinds of bikes –
 #### Street View <a id="street-view"></a>
 Google Maps Street View has been indispensable for checking out roads before riding them.
 
-Ironically, it can even help identify when Google Maps directions are sending you somewhere unsafe, like [this 4-lane, 50mph no-shoulder highway that is apparently a bike-friendly road" (and prioritized by Google Maps' biking directions whenever I am planning routes in this area 😱)][22-streetview]:
+Ironically, it can even help identify when Google Maps directions are sending you somewhere unsafe, like [this 4-lane, 50mph no-shoulder highway][ny22-streetview]:
 
-[![Screenshot of Street View showing the 4-lane, 50mph approach to a bridge on NY-22, a 50mph speed limit, and an SUV parked in the last few feet of shoulder before a bridge railing goes right up to the edge of the lane](https://user-images.githubusercontent.com/465045/110041735-9ce3f300-7d12-11eb-8c1c-71a31588721f.png)][22-streetview]
+[![Screenshot of Street View showing the 4-lane, 50mph approach to a bridge on NY-22, a 50mph speed limit, and an SUV parked in the last few feet of shoulder before a bridge railing goes right up to the edge of the lane](https://user-images.githubusercontent.com/465045/110042517-e1bc5980-7d13-11eb-8580-d5a9bc5a3d81.png)][ny22-streetview]
 
-I also used it extensively when making https://bit.ly/mellowbikewestchester ([discussion below](#mellow-bike-maps)); after a while you can get pretty fast at warping ahead by many increments, zooming in to scan for speed limit signs, and using the map detail in the lower-left to teleport longer distances, but it gets a bit tedious after a while. An interface better tailored to this use case would help.
+[That is apparently a "bicycle-friendly road" (and prioritized by Google Maps' biking directions whenever I am planning routes in this area 😱)][ny22-gmaps]:
+[![Screenshot of the same road on Google Maps, showing a dotted green line along it and a legend that indicates it is a ](https://user-images.githubusercontent.com/465045/110041735-9ce3f300-7d12-11eb-8c1c-71a31588721f.png)][ny22-gmaps]
+
+I also used Street View extensively when making https://bit.ly/mellowbikewestchester ([discussion below](#mellow-bike-maps)); after a while you can get pretty fast at warping ahead by many increments, zooming in to scan for speed limit signs, and using the map detail in the lower-left to teleport longer distances, but it gets a bit tedious after a while. An interface better tailored to this use case would help.
 
 I've also been surprised not to find any decent map apps that make it easy to see roads' speed-limits at a glance. I suspect the required data may exist in [OSM], but haven't had a chance to explore it much yet.
 
@@ -428,5 +431,7 @@ horns are loud
 [rwgps]: https://ridewithgps.com
 [rwgps-bridge-loop]: https://ridewithgps.com/trips/51461847
 
-[22-streetview]: https://www.google.com/maps/@41.0907942,-73.7488006,3a,62.4y,78.16h,86.46t/data=!3m6!1e1!3m4!1sYvNGcVjsn2qqfjm5pxw0wg!2e0!7i16384!8i8192!5m1!1e3
+[ny22-streetview]: https://www.google.com/maps/@41.0907942,-73.7488006,3a,62.4y,78.16h,86.46t/data=!3m6!1e1!3m4!1sYvNGcVjsn2qqfjm5pxw0wg!2e0!7i16384!8i8192!5m1!1e3
+[ny22-gmaps]: https://www.google.com/maps/@41.0890094,-73.748844,15.56z/data=!5m1!1e3
+
 [OSM]: https://www.openstreetmap.org/#map=5/38.007/-95.844
