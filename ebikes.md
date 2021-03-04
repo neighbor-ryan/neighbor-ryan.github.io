@@ -6,7 +6,7 @@ I've incepted friends and family with e-bike mania and am overwhelmed with e-bik
 I'm documented my journey – and reflections about the e-bike space – here, in the hope it will help others.
 
 [![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)]([ebike-day-strava])
-(cf. [ride on Strava]([ebike-day-strava]))
+([see this ride on Strava]([ebike-day-strava]))
 
 
 ## Contents
@@ -270,6 +270,9 @@ I'm sorry to speak so negatively but there is enormous, real, preventable harm h
 
 ## Getting Started <a id="getting-started"></a>
 I'd [citibiked](https://www.citibikenyc.com/) in NYC and JC for years, and loved it. I'd started to want to do longer rides, and felt constrained by the limits of the Citibike network (neighboring Hoboken has a different bike share network… [for now][jc-hoboken-citibike]).
+
+### Bike Shares <a id="bike shares"></a>
+TODO
 
 ### Renting <a id="renting"></a>
 When I reached a tipping point and started researching buying bikes, I also rented a few bikes from my local [Grove Street Cycles](https://www.grovestreetbicycles.com/). One afternoon on [a modest "hybrid"](https://www.giant-bicycles.com/us/escape-2-disc) convinced me that, though I love Citibike, I'd outgrown it more than I realized, and a whole new class of mobility and freedom awaited from owning (vs. renting ≤45mins at a time) a nicer/lighter/faster bike.
