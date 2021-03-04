@@ -23,7 +23,7 @@ I'm documented my journey – and reflections about the e-bike space – here, i
   - [Cargo](#cargo)
     - [Children](#children)
     - [PoV: Grocery Runs](#pov-grocery-runs)
-    - [PoV: Moving House](#moving-house)
+    - [PoV: Moving House](#pov-moving-house)
   - [Health](#health)
   - [Fun](#fun)
   - [Car sewers](#car-sewers)
@@ -35,8 +35,8 @@ I'm documented my journey – and reflections about the e-bike space – here, i
     - [Riding on Sidewalks](#riding-on-sidewalks)
     - [Stopping at Stop Signs / Red Lights](#stopping-at-stops)
     - [Route Planning](#route-planning)
-      - [Streetview](#streetview)
-      - [RideWithGPS](#ride-with-gps)
+      - [Street View](#street-view)
+      - [Ride with GPS](#ride-with-gps)
   - [Reading](#reading)
     - [ElectricBikeReview.com](#ebr)
     - [r/ebikes](#r-ebikes)
@@ -47,7 +47,6 @@ I'm documented my journey – and reflections about the e-bike space – here, i
 - [E-bikes](#e-bikes)
 - [Accessories](#accessories)
 - [Gear](#gear)
-- [GoPro](#gopro)
 - [Heated Gear](#heated-gear)
   - [Gloves](#heated-gloves)
   - [Socks](#heated-socks)
@@ -105,7 +104,7 @@ My current e-bikes are:
 
 Each is useful in different contexts, and together they cost less than half [the $40k average new car in the US](#cost) (see below for [starter packs in the $2k-$4k range](#starter-packs), or 1/20th to 1/10th the avg new car price).
 
-I'll probably end up with 1 or 2 more, and the ability to take people+cargo on rides that would otherwise require an SUV (which would still be worse in various ways, and cost even more).
+I'll probably end up with 1 or 2 more. I want the ability to take people+cargo on rides that would otherwise require an SUV (and which would still be worse in various ways, and cost even more).
 
 ## Revelations <a id="revelations"></a>
 E-biking has brought a string of revelations about my city, cities in general, mobility as a fundamental human need and right, [turbulent flows][cgp-grey-traffic], and more. Here are some things that have struck me in learning to get around by (e)bike:
@@ -288,14 +287,28 @@ I definitely recommend seeing if you can rent a few different kinds of bikes –
 
 ### Route Planning <a id="route-planning"></a>
 
-#### Streetview <a id="streetview"></a>
+#### Street View <a id="street-view"></a>
+Google Maps Street View has been indispensable for checking out roads before riding them.
 
+Ironically, it can even help identify when Google Maps directions are sending you somewhere unsafe, like [this 4-lane, 50mph no-shoulder highway that is apparently a bike-friendly road" (and prioritized by Google Maps' biking directions whenever I am planning routes in this area 😱)][22-streetview]:
 
-#### RideWithGPS <a id="ride-with-gps"></a>
+[![Screenshot of Street View showing the 4-lane, 50mph approach to a bridge on NY-22, a 50mph speed limit, and an SUV parked in the last few feet of shoulder before a bridge railing goes right up to the edge of the lane](https://user-images.githubusercontent.com/465045/110041735-9ce3f300-7d12-11eb-8c1c-71a31588721f.png)][22-streetview]
 
+I also used it extensively when making https://bit.ly/mellowbikewestchester ([discussion below](#mellow-bike-maps)); after a while you can get pretty fast at warping ahead by many increments, zooming in to scan for speed limit signs, and using the map detail in the lower-left to teleport longer distances, but it gets a bit tedious after a while. An interface better tailored to this use case would help.
+
+I've also been surprised not to find any decent map apps that make it easy to see roads' speed-limits at a glance. I suspect the required data may exist in [OSM], but haven't had a chance to explore it much yet.
+
+#### Ride with GPS <a id="ride-with-gps"></a>
+I haven't used https://ridewithgps.com/ too much, but it seems to be a good place to look up and share routes that others have ridden.
+
+For example, [here is someone's route up Manhattan's West Side Highway, looping between the George Washington and Tappan Zee bridges][rwgps-bridge-loop]:
+
+[![Screenshot of a "Ride with GPS" route, showing a map view, elevation over distance, and summary statistics](https://user-images.githubusercontent.com/465045/110040762-4cb86100-7d11-11eb-8728-96871c71d024.png)][rwgps-bridge-loop]
 
 #### "mellow bike maps" <a id="mellow-bike-maps"></a>
+Inspired by [the Chicago "mellow bike map"][mellow-bike-chicago], I made a ["mellow bike Westchester" Google map][mellow-bike-westchester while staying up there for a few weeks and trying to plan rides (for myself and others less experienced, where it was extra important not to accidentally end up on no-shoulder 45mph roads):
 
+[![Screenshot of Google map of greater Westchester County, NY, with streets color-coded by bike-friendliness](https://user-images.githubusercontent.com/465045/110040245-78871700-7d10-11eb-93fd-e64988be65c9.png)][mellow-bike-westchester]
 
 ## Starter Packs <a id="starter-packs"></a>
 
@@ -408,3 +421,12 @@ horns are loud
 [ebr-vanmoof]: https://electricbikereview.com/brand/vanmoof/
 [ebr-specialized]: https://electricbikereview.com/brand/specialized/
 [ebr-q9]: https://electricbikereview.com/tern/vektron-q9/
+
+[mellow-bike-westchester]: https://bit.ly/mellowbikewestchester
+[mellow-bike-chicago]: https://mellowbikemap.com/
+
+[rwgps]: https://ridewithgps.com
+[rwgps-bridge-loop]: https://ridewithgps.com/trips/51461847
+
+[22-streetview]: https://www.google.com/maps/@41.0907942,-73.7488006,3a,62.4y,78.16h,86.46t/data=!3m6!1e1!3m4!1sYvNGcVjsn2qqfjm5pxw0wg!2e0!7i16384!8i8192!5m1!1e3
+[OSM]: https://www.openstreetmap.org/#map=5/38.007/-95.844
