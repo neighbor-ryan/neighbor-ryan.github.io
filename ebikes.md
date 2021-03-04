@@ -3,7 +3,7 @@ I bought an e-bike in November, it was life-changing, and I quickly bought two m
 
 I've incepted friends and family with e-bike mania and am overwhelmed with e-bikes' potential to improve the lives of millions of people who don't realize it yet.
 
-I've documented my journey – and reflections about the e-bike space – here, in the hope it will help others.
+I'm documented my journey – and reflections about the e-bike space – here, in the hope it will help others.
 
 [![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)]([ebike-day-strava])
 (cf. [ride on Strava]([ebike-day-strava]))
@@ -32,14 +32,14 @@ I've documented my journey – and reflections about the e-bike space – here, 
   - [Bike Shares](#bike-shares)
   - [Renting](#renting)
   - [Safety](#safety)
-    - sidewalks
-    - stop signs / red lights
-    - route planning
-      - Streetview
-      - ridewithgps
+    - [Riding on Sidewalks](#riding-on-sidewalks)
+    - [Stopping at Stop Signs / Red Lights](#stopping-at-stops)
+    - [Route Planning](#route-planning)
+      - [Streetview](#streetview)
+      - [RideWithGPS](#ride-with-gps)
   - [Reading](#reading)
-    - ebr
-    - r/ebikes
+    - [ElectricBikeReview.com](#ebr)
+    - [r/ebikes](#r-ebikes)
     - …
   - [Starter Packs](#starter-packs)
     - [VanMoof X3 + Gear](#vanmoof-x3-gear)
@@ -56,18 +56,19 @@ I've documented my journey – and reflections about the e-bike space – here, 
 - [Proselytization](#proselytization)
   - [Winter Cycling](#winter-cycling)
   - [War on Cars](#war-on-cars)
-  - macho cycling culture
-  - car culture
-    - cost
-    - violence
-    - air pollution
-    - noise pollution
-    - CO₂ emissions
-    - auto industry
-  - car counting
-- strava
-- gopro
-- ride hall of fame
+  - [macho cycling culture](#macho-cycling-culture)
+  - [vehicular cycling](#vehicular-cycling)
+  - [Car Culture](#car-culture)
+    - [Cost](#car-cost)
+    - [Traffic Violence](#traffic-violence)
+    - [Air Pollution](#air-pollution)
+    - [Noise Pollution](#noise-pollution)
+    - [CO₂ emissions](#co2-emissions)
+    - [Auto Industry](#auto-industry)
+  - [Counting Cars](#counting-cars)
+- [Strava](#strava)
+- [Gopro](#gopro)
+- [Favorite Rides](#favorite-rides)
 
 ## Bike-sharer → bike-owner → e-bike maniac <a id="progression"></a>
 The COVID "bike boom" hit me hard:
@@ -277,16 +278,20 @@ I definitely recommend seeing if you can rent a few different kinds of bikes –
 
 ### Safety <a id="safety"></a>
 
-#### Riding on sidewalks
+#### Riding on sidewalks <a id="riding-on-sidewalks"></a>
 
-#### Stopping at stop signs + red lights
+#### Stopping at stop signs + red lights <a id="stopping-at-stops"></a>
 
 
-### Route Planning
+### Route Planning <a id="route-planning></a>
 
-#### Streetview
+#### Streetview <a id="streetview"></a>
 
-#### RideWithGPS
+
+#### RideWithGPS <a id="ride-with-gps"></a>
+
+
+#### "mellow bike maps" <a id="mellow-bike-maps"></a>
 
 
 ## Starter Packs <a id="starter-packs"></a>
@@ -297,12 +302,14 @@ I definitely recommend seeing if you can rent a few different kinds of bikes –
 
 ## Reading <a id="reading"></a>
 
-### [electricbikereview.com](https://electricbikereview.com/)
+### [electricbikereview.com](https://electricbikereview.com/) <a id="ebr"></a>
 This was consistently one of the highest-quality review sites I saw. I learned to seek them out on a Google results page, or go there directly to search for a specific bike.
 
-They did the best job of showing critical stats about bikes in an easy-to-scan format (especially including stats that the industry is sheepish and user-hostile about, like *bike weight*).
+They did the best job of showing critical stats about bikes in an easy-to-scan format, especially including stats that the industry is sheepish and user-hostile about (<i>\*ahem\* bike weight \*ahem\*</i>).
 
-### [r/ebikes](https://www.reddit.com/r/ebikes/)
+Here's are their reviews of [a Creo similar to mine][ebr-creo] and my [Tern Vektron Q9][ebr-q9]. Their brand pages are great too: [the Specialized reviews page][ebr-specialized] was very useful in sorting through a bunch of confusingly-named models.
+
+### [r/ebikes](https://www.reddit.com/r/ebikes/) <a id="r-ebikes"></a>
 Nice forum with encouraging/inspirational stories and examples
 
 You might also find vendor-specific subreddits useful, like [r/vanmoof](https://www.reddit.com/r/VanMoof/).
@@ -393,3 +400,8 @@ horns are loud
 [school-run]: TODO
 [car-cost-800-mo]: https://www.motor1.com/news/370609/average-american-monthly-car-spendings/
 [jc-hoboken-citibike]: https://www.nj.com/hudson/2021/02/hoboken-jersey-city-take-final-steps-toward-a-merged-citi-bike-system.html
+[ebr]: https://electricbikereview.com/
+[ebr-creo]: https://electricbikereview.com/specialized/turbo-creo-sl-comp-carbon-evo/
+[ebr-vanmoof]: https://electricbikereview.com/brand/vanmoof/
+[ebr-specialized]: https://electricbikereview.com/brand/specialized/
+[ebr-q9]: https://electricbikereview.com/tern/vektron-q9/
