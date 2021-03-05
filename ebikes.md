@@ -59,8 +59,11 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Heated Socks](#heated-socks)
     - [Hand Warmers](#hand-warmers)
   - [Padded Shorts](#padded-shorts)
+- [Documenting Rides](#documenting-rides)
+  - [Strava](#strava)
+  - [Gopro](#gopro)
+- [Favorite Rides](#favorite-rides)
 - [Proselytization](#proselytization)
-  - [Winter Cycling](#winter-cycling)
   - [War on Cars](#war-on-cars)
   - [macho cycling culture](#macho-cycling-culture)
   - [vehicular cycling](#vehicular-cycling)
@@ -72,9 +75,6 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [CO₂ emissions](#co2-emissions)
     - [Auto Industry](#auto-industry)
   - [Counting Cars](#counting-cars)
-- [Strava](#strava)
-- [Gopro](#gopro)
-- [Favorite Rides](#favorite-rides)
 
 ## Background: Bike-sharer → Bike-owner → E-bike maniac <a id="background"></a>
 The COVID "bike boom" hit me hard:
@@ -155,7 +155,7 @@ and draft them for a while (until the next light, when you must bid them "🙏",
 You basically had to be a professional cyclist to access this ability to simply exist on car-dominated roads, but now almost everyone can.
 
 ### Speed (⟹ Inclusion) <a id="speed-inclusion"></a>
-The Speed⟹Safety effect is particularly true for people who are not stereotypic young/fit men (women, children of all ages, older people, differently abled people, …). I was brave enough – [some of the time](#near-misses TODO) – to bike around NYC before e-bikes, but it was not feasible for my wife (though she is in her 30's and reasonably athletic). This was due to the high baseline level of bullying from drivers (both inadvertent and intentional) as well as specific vitriol and threats she received as a woman taking space that some men motorists feel is theirs.
+The Speed⟹Safety effect is particularly true for people who are not stereotypic young/fit men (women, children of all ages, older people, differently abled people, …). I was brave enough – [some of the time][near-misses] – to bike around NYC before e-bikes, but it was not feasible for my wife (though she is in her 30's and reasonably athletic). This was due to the high baseline level of bullying from drivers (both inadvertent and intentional) as well as specific vitriol and threats she received as a woman taking space that some men motorists feel is theirs.
 
 - TODO: paris stat 60% new riders covid
 - TODO: other gender ridership: citibike
@@ -173,7 +173,7 @@ On average, [a new car in the US costs $40k][new-car-cost]; [owning+operating a 
 
 Lots of the US effectively levies a $40k tax to participate in society, which hits the least well off the hardest.
 
-[80% of car trips are under 5mi][TODO] and easily replaceable by a luxurious e-bike kit – including gear and accessories to the max – that costs 1/10th what a car costs.
+[80% of car trips are under 5mi][car-trip-length] and easily replaceable by a luxurious e-bike kit – including gear and accessories to the max – that costs 1/10th what a car costs.
 
 #### 1 car ⟹ 10 e-bikes + gear
 When I am passing cars stuck in traffic, one of the saddest things is that each of those cars could have paid for 10 families' e-bike mobility solutions™️.
@@ -402,7 +402,7 @@ It starts at $2k, but I added:
 This $2k-$3k package should let you replace/improve a wide class of trips that you'd otherwise use other modes for. [See my more in-depth review below for more info](#x3-review).
 
 ### RadPower: <$2k? <a id="radpower"></a>
-I actually have no experience with RadPower, but they are worth mentioning as a popular brand that [is aggressively going after a lower-pricepoint, mainstream audience](TODO).
+I actually have no experience with RadPower, but they are worth mentioning as a popular brand that [is aggressively going after a lower-pricepoint, mainstream audience][radpower-150mm].
 
 ## Reading <a id="reading"></a>
 
@@ -453,10 +453,10 @@ I love [Revelate's "Mountain Feedbags"][revelate-feedbag]; I've put a pair on mo
 
 ![Biking on 6th Ave with battery in feedbag charging phone mounted on handlebars](https://user-images.githubusercontent.com/465045/110157461-31ebf800-7db6-11eb-85e2-cde1656df909.png)
 
-Between them, I'll carry a battery that charges my phone while riding (and [sometimes other fun lights](https://user-images.githubusercontent.com/465045/110158221-17fee500-7db7-11eb-96bf-cd8e55165742.png), [GoPro batteries](#gopro), etc.), a glasses case, tissues/chapstick/[hand-warmers](#hand-warmers) ("it's like a deli up here", as someone who borrowed by bike said recently), airpods, extra masks, [resealable zip ties], etc. They are easily opened and closed with one hand, work on pretty much any bike, and are easy to transfer b/t bikes). Very useful.
+Between them, I'll carry a battery that charges my phone while riding (and [sometimes other fun lights](https://user-images.githubusercontent.com/465045/110158221-17fee500-7db7-11eb-96bf-cd8e55165742.png), [GoPro batteries](#gopro), etc.), a glasses case, tissues/chapstick/[hand-warmers](#hand-warmers)/snacks ("it's like a deli up here", someone who borrowed my bike said recently), airpods, extra masks, [resealable zip ties][zip ties 8"], etc. They are easily opened and closed with one hand, work on pretty much any bike, and are easy to transfer b/t bikes). Very useful.
 
 #### Top-Tube Bags <a id="top-tube-bags"></a>
-TODO
+[The Revelate Mag-Tank 2000][revelate mag-tank 2000] (and earlier/smaller [Mag-Tank][revelate mag-tank]) are great bags that can sit on top of your top tube and hold lots of good stuff. Sometimes I'll have one up front and another at the base of my seat, and between them store wallet/keys, [cable lock][OTTO cable lock], full flat-change kit (tire levers, spare tube, CO₂ cartridge, multi-tool, patch-kit), etc. They're also easily openable/closeable with one hand, and the magnetic clasp is nice.
 
 #### Back-Rack / Seat Bags <a id="back-bags"></a>
 TODO
@@ -518,6 +518,18 @@ I have [a 40-pair box of disposable hand warmers][hand-warmers-box], and keep 3 
 ### Padded Shorts <a id="padded-shorts"></a>
 I often wear [these BALEAF padded bike shorts](https://www.amazon.com/gp/product/B07WSBTQH7/) ($29); padded shorts seemed a little silly at first, but they're pretty good for biking but also misc other outdoor activities. I got some baggy swimsuit-style padded shorts and some spandex-y ones like this, and liked the latter better. The pockets on these are great as well. As it cooled down, I would wear them over tights.
 
+## Documenting Rides <a id="documenting-rides"></a>
+TODO
+
+### Strava <a id="strava"></a>
+TODO
+
+### Gopro <a id="gopro"></a>
+TODO
+
+## Favorite Rides <a id="favorite-rides"></a>
+TODO
+
 -------
 
 ## Proselytization
@@ -540,7 +552,7 @@ horns are loud
 [citibike]: https://www.citibikenyc.com/
 [new-car-cost]: https://www.cnet.com/roadshow/news/average-new-car-price-2020
 [cgp-grey-traffic]: https://www.youtube.com/watch?v=iHzzSao6ypE
-[ebike-classes]: TODO
+[ebike-classes]: https://www.wired.com/story/guide-to-ebike-classes/
 [oonee]: https://www.ooneepod.com/
 [oonee pod]: https://www.ooneepod.com/product
 [oonee mini]: https://www.ooneepod.com/mini
@@ -578,6 +590,10 @@ horns are loud
 
 [revelate jerrycan]: https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/Jerrycan
 [revelate feedbag]: https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/MountainFeedbag
+[revelate mag-tank]: https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/Magtank
+[revelate mag-tank 2000]: https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/magtank2000
+[revelate tangle]: https://www.revelatedesigns.com/index.cfm/store.catalog/frame-bags/TangleFrameBag
+
 [vanmoof rear carrier]: https://www.vanmoof.com/shop/en_us/accessories/x3-rear-carrier
 [vanmoof front basket]: https://www.vanmoof.com/shop/en_us/accessories/x3-front-waitress-carrier
 [fleece-lined pogies]: https://www.amazon.com/gp/product/B08M41KGZ8/
@@ -603,3 +619,11 @@ horns are loud
 [arris-vest-women]: https://www.amazon.com/gp/product/B07VKLKSYV/
 
 [hand-warmers-box]: https://www.amazon.com/gp/product/B0007ZF4OA/
+
+[near-misses]: TODO
+[car-trip-length]: TODO
+[radpower-150mm]: https://techcrunch.com/2021/02/04/rad-power-bikes-raises-150-million-as-electric-bike-sales-boom/
+
+[zip ties 8"]: https://www.amazon.com/gp/product/B00YARIYL6/
+[zip ties 14"]: https://www.amazon.com/gp/product/B00YARJ14A/
+[OTTO cable lock]: https://www.amazon.com/gp/product/B0799DBYBH/
