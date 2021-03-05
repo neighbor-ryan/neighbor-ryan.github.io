@@ -312,7 +312,7 @@ I think cyclists run lights and signs when they are afraid.
 
 When I was new to cycling in NYC, there was always a background hyper-vigilance and fear. I frequently see this in newer riders now. A bear is chasing you, some selfish survival instinct kicks in. It feels important to rush ahead, away from the cars waiting on the line with you at the light, or coming up from a light behind. Being around them – in front of them, in their headlights – is uncomfortable, you're very vulnerable. Your perspective can narrow so that the experience of a pedestrian you cut off feels very far away from your immediate visceral need to *go*.
 
-I used to be more brazen about rolling through stops and lights, and I believe this *fear* and discomfort is a big reason why. I still feel the fear, but have learned to [vehicular-cycle](#vehicular-cycling-TODO) more, and I'm not making decisions from as panicked a place. I still catch myself doing it though, and notice the fear driving it… maybe I just got close-passed, and I'm a little shaken, need to *go*. Or I'm getting bad vibes from a driver and need some distance.
+I used to be more brazen about rolling through stops and lights, and I believe this *fear* and discomfort is a big reason why. I still feel the fear, but have learned to [vehicular-cycle][vehicular-cycling] more, and I'm not making decisions from as panicked a place. I still catch myself doing it though, and notice the fear driving it… maybe I just got close-passed, and I'm a little shaken, need to *go*. Or I'm getting bad vibes from a driver and need some distance.
 
 Of course there's another argument for better cycling infrastructure here, it should not be so scary and dangerous. I think it's also good for cyclists to introspect about this dynamic, and how it may drive their choices.
 
@@ -476,3 +476,5 @@ horns are loud
 [desire paths]: https://en.wikipedia.org/wiki/Desire_path
 [Idaho stop]: https://en.wikipedia.org/wiki/Idaho_stop
 [LoAC-tips]: https://www.bikeleague.org/content/smart-cycling-tips-0
+
+[vehicular-cycling]: https://en.wikipedia.org/wiki/Vehicular_cycling
