@@ -268,22 +268,59 @@ It also underscores how ill-suited private cars are to urban environments: [watc
 I'm sorry to speak so negatively but there is enormous, real, preventable harm happening every day because of the level of car-dependence in the US, and most Americans have never known any kind of modern or functional public transit, so it's important to talk both about how much better we can make things but also what is bad about the status quo that most people don't realize or fully appreciate. The [War on Cars](#war-on-cars) section discusses this with more detail and rigor.
 
 ## Getting Started <a id="getting-started"></a>
-I'd [citibiked](https://www.citibikenyc.com/) in NYC and JC for years, and loved it. I'd started to want to do longer rides, and felt constrained by the limits of the Citibike network (neighboring Hoboken has a different bike share network… [for now][jc-hoboken-citibike]).
+Everyone's journey will be different, but here are some resources and intermediate steps I've found useful on the way to relying on (e)cycling more:
 
-### Bike Shares <a id="bike shares"></a>
-TODO
+### Bike Shares <a id="bike-shares"></a>
+I [citibiked](https://www.citibikenyc.com/) in NYC and JC for years. I loved it and still love it. Electric-citibike inventory is hitting critical mass, and the system is expanding all the time. I will always keep an annual Citibike membership on auto-renew (it used to comparable to a 1mo MetroCard, now it's closer to 2; still a great value).
+
+There's also a Cambrian explosion of scooter-shares, moped-shares, on-demand e-bike leasing services, etc. In my experience, most such things are worth signing up for and trying to use a few times, or for a few months, to see how they can fit in to your life.
+
+I "graduated" to owning a bike somewhat accidentally; my local ferry shut down during COVID and I needed to get to a ferry stop in Hoboken (outside the Citibike JC area… [for now][jc-hoboken-citibike] 🙏). I'd also started to want to do longer rides, and felt a bit constrained generally by the limits of the Citibike network.
 
 ### Renting <a id="renting"></a>
-When I reached a tipping point and started researching buying bikes, I also rented a few bikes from my local [Grove Street Cycles](https://www.grovestreetbicycles.com/). One afternoon on [a modest "hybrid"](https://www.giant-bicycles.com/us/escape-2-disc) convinced me that, though I love Citibike, I'd outgrown it more than I realized, and a whole new class of mobility and freedom awaited from owning (vs. renting ≤45mins at a time) a nicer/lighter/faster bike.
+When I reached a tipping point and started researching buying bikes, I rented a few bikes from my local [Grove Street Cycles](https://www.grovestreetbicycles.com/). One afternoon on [a modest "hybrid"](https://www.giant-bicycles.com/us/escape-2-disc) convinced me that, though I love Citibike, I'd outgrown it more than I realized, and a whole new class of mobility and freedom awaited from owning (vs. renting ≤45mins at a time) a nicer/lighter/faster bike.
 
 I definitely recommend seeing if you can rent a few different kinds of bikes – including e-bikes! – as a way of learning about the options in a way that is more visceral than anything you can get reading reviews.
 
 ### Safety <a id="safety"></a>
+This is a big topic and I am not an expert. [The League of American Cyclists has many resources and guides you should check out][LoAC-tips].
+
+I have a few takes to offer as a recent novice, now intermediate city rider who's also been taking greener riders out.
 
 #### Riding on sidewalks <a id="riding-on-sidewalks"></a>
+- Where planners, drivers, and the auto industry have teamed up to make it impossible to bike safely, cyclists will ride on the sidewalk. The solution is to provide cyclists with a reasonable non-sidewalk option. Shame or enforcement are regressive and ineffective.
+- Cyclists should make an extra effort to slow down and give a wide berth when mingling with pedestrians. The cyclist-pedestrian power dynamic is similar to the driver-cyclist or driver-pedestrian dynamics: your speed feels lower to you than to someone you are passing, especially who is not expecting you.
+
+While cycling, the constant implicit violence (and occasional explicit violence) from drivers makes it hard to keep sight of that there are also tiers of more vulnerable road users beyond you. I think as cycling grows in popularity and we benefit from a virtuous adoption↔️infrastructure↔️awareness cycle, these dynamics will improve.
+
+Unfortunately, the discourse around "bikes on sidewalks" is often poisoned by people advocating against anything that might promote cycling or make it safer or easier (which is ironic because sidewalk-riding is a [desire path][desire paths] that implies better cycling infrastructure is needed).
 
 #### Stopping at stop signs + red lights <a id="stopping-at-stops"></a>
+Cyclists should stop at stop signs and wait at red lights. Drivers shouldn't exceed the speed limit. Pedestrians shouldn't jaywalk.
 
+The interesting question about these rules is how bad it is when they are broken.
+
+##### Relative Harm
+How bad is it when cyclists rolling through (or outright running) stop signs/lights? It's somewhere between [a pedestrian jaywalking] and [a car running a light] in severity. That is a wide range; specifics matter.
+- A 200lb cyclist (+ 50lb bike) cruising through a stop sign at 8mph has the same kinetic energy as a 4000lb car inching through a stop at 2mph.
+  - Speed matters in other ways though (esp. reaction time), so the former is probably worse than the latter in this example.
+  - On the other hand, a cyclist failing to completely stop, but rolling through at 2mph, is definitely not as bad as a car doing the same thing (the car is a much deadlier vehicle with worse sight-lines).
+- Several states have ["Idaho stops"][Idaho stop], which allow cyclists to treat stops as yields and lights as stops. I like this policy, not least because it emphasizes yielding to pedestrians in a way that gets lost when cyclists have been left to the wolves and started breaking rules made for cars.
+
+##### Fear
+I think cyclists run lights and signs when they are afraid.
+
+When I was new to cycling in NYC, there was always a background hyper-vigilance and fear. I frequently see this in newer riders now. A bear is chasing you, some selfish survival instinct kicks in. It feels important to rush ahead, away from the cars waiting on the line with you at the light, or coming up from a light behind. Being around them – in front of them, in their headlights – is uncomfortable, you're very vulnerable. Your perspective can narrow so that the experience of a pedestrian you cut off feels very far away from your immediate visceral need to *go*.
+
+I used to be more brazen about rolling through stops and lights, and I believe this *fear* and discomfort is a big reason why. I still feel the fear, but have learned to [vehicular-cycle](#vehicular-cycling-TODO) more, and I'm not making decisions from as panicked a place. I still catch myself doing it though, and notice the fear driving it… maybe I just got close-passed, and I'm a little shaken, need to *go*. Or I'm getting bad vibes from a driver and need some distance.
+
+Of course there's another argument for better cycling infrastructure here, it should not be so scary and dangerous. I think it's also good for cyclists to introspect about this dynamic, and how it may drive their choices.
+
+#### Helmets
+
+#### Lights
+
+#### Hi-viz
 
 ### Route Planning <a id="route-planning"></a>
 
@@ -435,3 +472,7 @@ horns are loud
 [ny22-gmaps]: https://www.google.com/maps/@41.0890094,-73.748844,15.56z/data=!5m1!1e3
 
 [OSM]: https://www.openstreetmap.org/#map=5/38.007/-95.844
+
+[desire paths]: https://en.wikipedia.org/wiki/Desire_path
+[Idaho stop]: https://en.wikipedia.org/wiki/Idaho_stop
+[LoAC-tips]: https://www.bikeleague.org/content/smart-cycling-tips-0
