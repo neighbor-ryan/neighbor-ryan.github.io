@@ -34,9 +34,9 @@ I'm documented my journey – and reflections about the e-bike space – here, i
   - [Safety](#safety)
     - [Riding on Sidewalks](#riding-on-sidewalks)
     - [Stopping at Stop Signs / Red Lights](#stopping-at-stops)
-    - [Route Planning](#route-planning)
-      - [Street View](#street-view)
-      - [Ride with GPS](#ride-with-gps)
+  - [Route Planning](#route-planning)
+    - [Street View](#street-view)
+    - [Ride with GPS](#ride-with-gps)
   - [Reading](#reading)
     - [ElectricBikeReview.com](#ebr)
     - [r/ebikes](#r-ebikes)
@@ -317,10 +317,13 @@ I used to be more brazen about rolling through stops and lights, and I believe t
 Of course there's another argument for better cycling infrastructure here, it should not be so scary and dangerous. I think it's also good for cyclists to introspect about this dynamic, and how it may drive their choices.
 
 #### Helmets
+TODO
 
 #### Lights
+TODO
 
 #### Hi-viz
+TODO
 
 ### Route Planning <a id="route-planning"></a>
 
