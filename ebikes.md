@@ -3,15 +3,17 @@ I bought an e-bike in November, it was life-changing, and I quickly bought two m
 
 I've incepted friends and family with e-bike mania and am overwhelmed with e-bikes' potential to improve the lives of millions of people who don't realize it yet.
 
-I'm documented my journey – and reflections about the e-bike space – here, in the hope it will help others.
+I'm documenting my journey – and reflections about the e-bike space – here, in the hope it will help others.
 
 [![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)]([ebike-day-strava])
 ([see this ride on Strava]([ebike-day-strava]))
 
-
 ## Contents
-- [User Journey: Bike-sharer → Bike-owner → E-bike maniac](#progression)
-  - [My e-bikes](#my-ebikes)
+- [Background: Bike-sharer → Bike-owner → E-bike maniac](#background)
+- [My e-bikes](#my-ebikes)
+  - [VanMoof X3](#x3-review) (great all-around / starter e-bike)
+  - [Tern Vektron Q9](#q9-review) (large cargo capacity, folds up for easy storage)
+  - [Specialized Creo Comp Carbon](#creo-review) (light, fast, long-range)
 - [Revelations](#revelations)
   - [Speed](#speed-safety)
     - [⟹Safety](#speed-safety)
@@ -27,7 +29,6 @@ I'm documented my journey – and reflections about the e-bike space – here, i
   - [Health](#health)
   - [Fun](#fun)
   - [Car sewers](#car-sewers)
-- [Bikes](#bikes)
 - [Getting Started](#getting-started)
   - [Bike Shares](#bike-shares)
   - [Renting](#renting)
@@ -40,11 +41,9 @@ I'm documented my journey – and reflections about the e-bike space – here, i
   - [Reading](#reading)
     - [ElectricBikeReview.com](#ebr)
     - [r/ebikes](#r-ebikes)
-    - …
   - [Starter Packs](#starter-packs)
-    - [VanMoof X3 + Gear](#vanmoof-x3-gear)
+    - [VanMoof X3 + Gear](#vanmoof-x3-pack)
     - [RadPower](#radpower)
-- [E-bikes](#e-bikes)
 - [Accessories](#accessories)
 - [Gear](#gear)
 - [Heated Gear](#heated-gear)
@@ -69,7 +68,7 @@ I'm documented my journey – and reflections about the e-bike space – here, i
 - [Gopro](#gopro)
 - [Favorite Rides](#favorite-rides)
 
-## Bike-sharer → bike-owner → e-bike maniac <a id="progression"></a>
+## Background: Bike-sharer → Bike-owner → E-bike maniac <a id="background"></a>
 The COVID "bike boom" hit me hard:
 - **2012 → July 2020**:
   - Enthusiastic bike-share ([Citibike NYC][citibike]) user.
@@ -96,7 +95,7 @@ The COVID "bike boom" hit me hard:
 [![Home office with 2 bikes hanging on walls and one bike folded on ground](https://p199.p4.n0.cdn.getcloudapp.com/items/OAuWd8eA/3f6c62d2-cd07-4df4-bb86-71d5164c4715.jpg?v=81611949ce3a4f2c6d934b673464e063)](https://share.getcloudapp.com/OAuWd8eA)
 TODO: pic w/ all 5 bikes
 
-### E-bike Inventory <a id="my-ebikes"></a>
+## E-bike Inventory <a id="my-ebikes"></a>
 My current e-bikes are:
 1. [Tern Vekton Q9][Q9]: large cargo capacity, folds up for easy storage, one size fits all.
 2. [VanMoof X3][X3]: great all-around / "city bike" / starter/lender for newcomers. One size fits all, automatic shifting, "turbo" button for quick starts.
@@ -105,6 +104,31 @@ My current e-bikes are:
 Each is useful in different contexts, and together they cost less than half [the $40k average new car in the US](#cost) (see below for [starter packs in the $2k-$4k range](#starter-packs), or 1/20th to 1/10th the avg new car price).
 
 I'll probably end up with 1 or 2 more. I want the ability to take people+cargo on rides that would otherwise require an SUV (and which would still be worse in various ways, and cost even more).
+
+### VanMoof X3 <a id="x3-review"></a>
+- Excellent all-around / starter e-bike
+- You may want to be within range of a VanMoof shop, and prepared to lean on them to fix things that come up.
+
+#### Automatic Shifting <a id="x3-shifting"></a>
+The automatic gear shifting weirded me out at first (especially because I was temporarily in a very hilly place when I took delivery of it). My advice about it is:
+- Use the turbo button liberally on uphills, and when starting from a stop!
+- The gears shift based on your speed (not cadence, or torque).
+  - In the beginning I got frustrated not knowing why it wasn't shifting, or when it would, as I spun the pedals or slowed toward a stop up a hill.
+  - I spent some time in the app micro-managing what speed it would shift into which gear at. After a bunch of thrashing, I think I ended up back at almost exactly the factory defaults 😂 (having also learned the glory of the turbo button).
+
+#### Reliability / Shop Proximity <a id="x3-reliability"></a>
+A common refrain on [r/vanmoof] is that you should be prepared to take it to the shop for tune-ups or major issue troubleshooting.
+
+I've had to go in once because we transferred ownership of the bike between VanMoof accounts, and it ended up stuck in "EU mode" with a top speed of 20kph (instead of the US's 20mph). It was easy enough and fun to see the shop, etc., though obviously you'd rather the bike Just Work. I feel I can endorse the lifestyle where you just buy the theft+maintenance plan and enjoy a peace of mind back-stop to how wrong things could go with the bike.
+
+#### Shipping <a id="x3-shipping"></a>
+I've observed them to quote a 2-3mo timeframe for shipping, only to have the bike show up in a couple weeks!
+
+### Tern Vektron Q9 <a id="q9-review"></a>
+TODO
+
+### Specialized Creo Comp Carbon <a id="creo-review"></a>
+TODO
 
 ## Revelations <a id="revelations"></a>
 E-biking has brought a string of revelations about my city, cities in general, mobility as a fundamental human need and right, [turbulent flows][cgp-grey-traffic], and more. Here are some things that have struck me in learning to get around by (e)bike:
@@ -355,9 +379,20 @@ Inspired by [the Chicago "mellow bike map"][mellow-bike-chicago], I made a ["mel
 
 ## Starter Packs <a id="starter-packs"></a>
 
-### VanMoof X3 (+ Gear): <$4k <a id="vanmoof-x3-gear"></a>
+### VanMoof X3 ($2k; $3k w/ gear) <a id="vanmoof-x3-pack"></a>
+The [VanMoof X3][X3] is the cheapest of my 3 ebikes, but is the best all-around / my go-to e-bike for trips around the city.
+
+It starts at $2k, but I added:
+- VanMoof's 3yr theft+maintenance plan ($590); 
+- [front basket][vanmoof front basket] ($89), [back rack][vanmoof rear carrier] ($69)
+- 2x[handlebar-mounted "feed bags"][revelate feedbag] ($49ea), 1x["Jerry can" tube-top bag][revelate jerrycan] ($46)
+- [fleece-lined pogies] ($47) for toasty hands in below-freezing temps (I've only had it during winter months, so far)
+- [bungee cable set] ($14) for securing items in the front basket
+
+This $2k-$3k package should let you replace/improve a wide class of trips that you'd otherwise use other modes for. [See my more in-depth review below for more info](#x3-review).
 
 ### RadPower: <$2k? <a id="radpower"></a>
+I actually have no experience with RadPower, but they are worth mentioning as a popular brand that [is aggressively going after a lower-pricepoint, mainstream audience](TODO).
 
 ## Reading <a id="reading"></a>
 
@@ -481,3 +516,10 @@ horns are loud
 [LoAC-tips]: https://www.bikeleague.org/content/smart-cycling-tips-0
 
 [vehicular-cycling]: https://en.wikipedia.org/wiki/Vehicular_cycling
+
+[revelate jerrycan]: https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/Jerrycan
+[revelate feedbag]: https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/MountainFeedbag
+[vanmoof rear carrier]: https://www.vanmoof.com/shop/en_us/accessories/x3-rear-carrier
+[vanmoof front basket]: https://www.vanmoof.com/shop/en_us/accessories/x3-front-waitress-carrier
+[fleece-lined pogies]: https://www.amazon.com/gp/product/B08M41KGZ8/
+[bungee cable set]: https://www.amazon.com/gp/product/B00S7HKJ1I/
