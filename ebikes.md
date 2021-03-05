@@ -5,8 +5,8 @@ I've incepted friends and family with e-bike mania and am overwhelmed with e-bik
 
 I'm documenting my journey – and reflections about the e-bike space – here, in the hope it will help others.
 
-[![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)][ebike-day-strava]
-([see this ride on Strava][ebike-day-strava])
+[![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)][strava-ebike-day]
+([see this ride on Strava][strava-ebike-day])
 
 ## Contents
 - [Background: Bike-sharer → Bike-owner → E-bike maniac](#background)
@@ -23,7 +23,8 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Bike vs. Car Storage](#bike-vs-car-storage)
   - [Cost](#cost)
   - [Cargo](#cargo)
-    - [Children](#children)
+    - [Groceries, Bulk Items](#groceries)
+    - [Kids](#kids)
     - [PoV: Grocery Runs](#pov-grocery-runs)
     - [PoV: Moving House](#pov-moving-house)
   - [Health](#health)
@@ -46,11 +47,18 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [RadPower](#radpower)
 - [Accessories](#accessories)
 - [Gear](#gear)
-- [Heated Gear](#heated-gear)
-  - [Gloves](#heated-gloves)
-  - [Socks](#heated-socks)
-  - [Vests](#heated-vests)
-  - [Hand-warmers](#hand-warmers)
+  - [Bags](#bags)
+    - [Panniers](#panniers)
+    - [Cockpit Bags](#cockpit-bags)
+    - [Top-Tube Bags](#top-tube-bags)
+    - [Back-Rack / Seat Bags](#back-bags)
+  - [Phone mounts](#phone-mounts)
+  - [Winter Cycling Gear](#winter-cycling-gear)
+    - [Heated Gloves](#heated-gloves)
+    - [Heated Vests](#heated-vests)
+    - [Heated Socks](#heated-socks)
+    - [Hand Warmers](#hand-warmers)
+  - [Padded Shorts](#padded-shorts)
 - [Proselytization](#proselytization)
   - [Winter Cycling](#winter-cycling)
   - [War on Cars](#war-on-cars)
@@ -218,7 +226,9 @@ TODO: supermarkets
 
 
 ### Cargo <a id="cargo"></a>
+E-bikes can replace cars for a surprising variety of cargo-hauling tasks:
 
+#### Groceries, Bulk Items <a id="groceries"></a>
 There is a small (but growing), dedicated group of people that love to show off the things they haul on their (e-)bikes, that I recommend checking out (images link to tweets):
 [![Tern GSD with a huge amount of groceries on the front and back](https://user-images.githubusercontent.com/465045/109440506-854df700-7a00-11eb-8474-d96342f7828c.png)
 ](https://twitter.com/CourtneyCyclez/status/1353444517580578826)
@@ -228,7 +238,7 @@ There is a small (but growing), dedicated group of people that love to show off 
 
 [![cargo bike loaded with potting soil and a roll of chain-link fence](https://user-images.githubusercontent.com/465045/109441109-5a64a280-7a02-11eb-9756-6942cb5d34c4.png)](https://twitter.com/Ollie_Cycles/status/1358866369056563204)
 
-#### Children <a id="children"></a>
+#### Kids <a id="kids"></a>
 Even my X3 (VanMoof's smallest bike) supports [a Yepp child seat][yepp-maxi] (the most popular brand I see used):
 
 ![VanMoof X3 with a child seat on the back](https://user-images.githubusercontent.com/465045/109441255-c6dfa180-7a02-11eb-9b73-d177896842be.png)
@@ -270,11 +280,11 @@ My grocery runs since getting an e-bike have also been so surprising and delight
 #### PoV: Moving house <a id="pov-moving-house"></a>
 Recently, I moved to my brother's empty apartment for 9d (after a small-chance of COVID exposure, to avoid any risk of exposing my wife).
 
-I packed a comfortable >1wk vacation into 4 bags (2 [panniers][#panniers], 1 bag in front rack, 1 backpack), and [biked, ferried, and biked from Jersey City to the Flatiron][#vanmoof-move]:
-![VanMoof X3 with two panniers, small tube bags, and tote bag in front rack](https://user-images.githubusercontent.com/465045/109439794-ca245e80-79fd-11eb-8133-22e50555080d.png)
+I packed a comfortable >1wk vacation into 4 bags (2 [panniers](#panniers), 1 bag in front rack, 1 backpack), and [biked, ferried, and biked from Jersey City to the Flatiron][strava-vanmoof-move]:
+[![VanMoof X3 with two panniers, small tube bags, and tote bag in front rack](https://user-images.githubusercontent.com/465045/109439794-ca245e80-79fd-11eb-8133-22e50555080d.png)][strava-vanmoof-move]
 
-…and back 9d later (having added [pogies](#pogies) for no-nonsense hand-warming):
-![VanMoof at ferry dock with panniers, backpack, and fleece pogies on handlebars](https://user-images.githubusercontent.com/465045/109440048-c80ecf80-79fe-11eb-98a3-40e7e01fe1fe.png)
+…[and back 9d later][strava-vanmoof-move-back] (having added [pogies](#pogies) for no-nonsense hand-warming):
+[![VanMoof at ferry dock with panniers, backpack, and fleece pogies on handlebars](https://user-images.githubusercontent.com/465045/109440048-c80ecf80-79fe-11eb-98a3-40e7e01fe1fe.png)][strava-vanmoof-move-back]
 
 ### *Fun* <a id="fun"></a>
 TODO
@@ -406,64 +416,111 @@ Here's are their reviews of [a Creo similar to mine][ebr-creo] and my [Tern Vekt
 ### [r/ebikes](https://www.reddit.com/r/ebikes/) <a id="r-ebikes"></a>
 Nice forum with encouraging/inspirational stories and examples
 
-You might also find vendor-specific subreddits useful, like [r/vanmoof](https://www.reddit.com/r/VanMoof/).
+You might also find vendor-specific subreddits useful, like [r/vanmoof].
 
 ## Accessories <a id="accessories"></a>
-- topeak rack
-- baskets
-- panniers
 - bells
-- phone mounts
 - mirrors
 - lights
-- bags
 - kickstands
 - bar-ends
 
-## Gear <a id="gear"></a>
-See also: [heated gear](#heated-gear)
+## Gear / Accessories <a id="gear"></a>
 
-### Gloves
-- [MOREOK Mens Cycling Gloves,Half Finger Biking Glove MTB DH Road Bicycle Gloves Gel Pad Shock-Absorbing Anti-Slip Breathable Motorcycle Mountain Bike Gloves Unisex Women](https://www.amazon.com/gp/product/B07B3PX6TC/) ($17); padded, fingerless gloves for non-winter months.
-- [Brooks LSD Thermal Glove](https://www.jackrabbit.com/brooks-lsd-thermal-glove---color%3A-black-size%3A-s/609465426438.html) ($50); good touchscreen gloves with retractable, waterproof mitten cover.
+### Racks, Baskets <a id="racks-baskets"></a>
+- topeak rack
+- tern market basket
+- tern holdem basket
 
-### Padded shorts
-[BALEAF Men's Bike Cycling Underwear Shorts 3D Padded Bicycle MTB Liner Mountain Shorts](https://www.amazon.com/gp/product/B07WSBTQH7/) ($29)
+### Bags <a id="bags"></a>
 
-This seemed like ridiculous "serious-biker drag" at first, but quickly crossed over to "reasonable/preferred shorts for biking but also other running around / [aerobie](#TODO)." I got some baggy swimsuit-style padded shorts and some spandex-y ones like this, and the latter are just much better. The pockets on these are great as well. As it cooled down, I would wear them over [tights](#TODO).
+#### Panniers <a id="panniers"></a>
+Panniers are bags you can attach to a rack on the back of your bike, and are a great way to haul stuff by bike:
 
-## Heated Gear <a id="heated-gear"></a>
-I grew up in Miami and have bad hands/feet circulation; I don't like the cold and I'm bad at it. Biking in cold air (let alone cold rain/snow) generally sounds miserable to most people.
+[![VanMoof X3 outside apartment building with 2 Ortlieb panniers on the back rack](https://user-images.githubusercontent.com/465045/110146045-1974e100-7da8-11eb-9b80-911e44c17ffd.png)](#pov-moving-house)
 
-It turns out a a few $100 of new gear and technology basically solves this problem. Whether you winter cycle or not, you should probably buy heated gloves, socks, and a vest. My recs are below, and [more discussion of why winter cycling is actually great is here](#winter-cycling).
+[![Tern Vektron Q9 in elevator with two full panniers and front and rear baskets with grocery bags](https://user-images.githubusercontent.com/465045/110146839-0a426300-7da9-11eb-917a-57c83443d23b.png)](#pov-grocery-runs)
 
-### Heated Gloves <a id="heated-gloves"></a>
-- [VELAZZIO [Upgrade] Thermo1 Battery Heated Gloves - 3 Heating Levels w/Intelligent Control, up to 8hrs Warmth, 3M Thinsulate Waterproof Breathable Winter Gloves, Touchscreen Ski Gloves Men & Women](https://www.amazon.com/gp/product/B07YBW4LCL/) ($90-10%): these are my go-tos.
-  - **Good**:
-    - batteries charge via USB-C (no rotating the plug 180!)
-    - generally sleek form factor, good warmth
-  - **Bad**:
-    - on the high setting I've noticed an overheated spot under the mode-toggle button on top of the back of my hands. Battery-overheating risk is one of the diciest-seeming things about betting on wearing tons of Li-ion cells everywhere, so this is concerning, but it's not *that* bad, so they're still my favorite.
-    - I got size S, hoping they'd fit Cora, but they fit me about as comfortably as the size-L LUWATT's below (and are way too big for Cora and her sister – 5'2"-5'4").
-- [LUWATT Heated Gloves 8H Working Hours Rechargeable Lithium Battery Three Temperature Settings Electric Heat Resistant Gloves for Men Women for Sports Outdoor Climbing Hiking Skiing Winter Handwarmer](https://www.amazon.com/gp/product/B07YYNJ4JQ/) ($50): these are good, but became backups/loaners for me behind the Velazzio's above, mostly because they feel a bit bulkier, I think? Since I've noticed the Velazzio's overheat, I may try these again. Amazon only offers L and XL.
-- [WOMENS 7V ALL PURPOSE HEATED GLOVES](https://voltheat.com/collections/heated-gloves/products/all-purpose-womens-7v-heated-gloves) ($150): after the "S" Velazzio's were huge, I found this higher-end brand that made me believe their palm measurements etc. were actually accurate. Size S does fit Cora+Leah 🎉 and they generally seem sleek and good.
+I've tested a few kinds:
+- [Ortlieb Back-Roller Classics] ($190/pair, 40L ea) are [a well-regarded set][wirecutter-ortlieb] that I've had the best experience with.
+- I have [Tern-brand panniers][tern-bucketload-panniers] ($200/pair, 24L ea) for [my Tern](#q9-review), and they work well.
+- I ordered [VanMoof panniers][vanmoof-small-panniers] (€78/pair, 18L ea) for [my VanMoof](#x3-review), but they haven't arrived yet, and the Ortliebs fit and work well (and are larger), so I'm not sure I'll need them.
+- I also have a set of [Banjo Brothers Market Panniers] ($120/pair, 24L ea) that I've never really gotten in to using.
+- Finally, I got [this backpack that converts to a pannier][backpack-pannier] ($180, 30L), and it's been very useful.
 
-### Heated Socks <a id="heated-socks"></a>
+#### Cockpit Bags <a id="cockpit-bags"></a>
+I love [Revelate's "Mountain Feedbags"][revelate-feedbag]; I've put a pair on most of my bikes:
+
+![Biking on 6th Ave with battery in feedbag charging phone mounted on handlebars](https://user-images.githubusercontent.com/465045/110157461-31ebf800-7db6-11eb-85e2-cde1656df909.png)
+
+Between them, I'll carry a battery that charges my phone while riding (and [sometimes other fun lights](https://user-images.githubusercontent.com/465045/110158221-17fee500-7db7-11eb-96bf-cd8e55165742.png), [GoPro batteries](#gopro), etc.), a glasses case, tissues/chapstick/[hand-warmers](#hand-warmers) ("it's like a deli up here", as someone who borrowed by bike said recently), airpods, extra masks, [resealable zip ties], etc. They are easily opened and closed with one hand, work on pretty much any bike, and are easy to transfer b/t bikes). Very useful.
+
+#### Top-Tube Bags <a id="top-tube-bags"></a>
+TODO
+
+#### Back-Rack / Seat Bags <a id="back-bags"></a>
+TODO
+
+### Phone mounts <a id="phone-mounts"></a>
+Having my phone mounted up front on my handlebars has been surprisingly useful. I typically have Google Maps' turn-by-turn directions or [Strava's](#strava) speedometer up while riding:
+
+[![chest-cam shot of phone mounted on handlebars displaying a Google Map, another e-biker is in front, and the George Washington Bridge is in the background](https://user-images.githubusercontent.com/465045/110153857-948ec500-7db1-11eb-8fd9-3b13e3d68e5d.png)][strava-ebike-day]
+
+When getting started, you're mostly riding in areas you're less familiar with. Having the map handy helps to not feel lost or get lost, as well as to e.g. find detours if a road doesn't feel safe.
+
+I've exclusively used Quad Lock handlebar phone mounts ([the Wirecutter's choice][wirecutter-quadlock]) and associated phone cases. They are good products, though a bit pricier than I'd expect (e.g. $60 for ["out front" mount][quadlock-out-front-mount], $10 for [a black plastic "lever"][quadlock-lever] to replace the blue one that it comes with, $30 for [a compatible phone case][quadlock-pixel-5-case]). I still struggle to find the right angle to rotate the phone into the mount; I expect I'll get better at it over time. One-hand releasing is easy and convenient.
+
+### Gloves <a id="gloves"></a>
+
+In warmer months, I wear [these "MOREOK" gloves](https://www.amazon.com/gp/product/B07B3PX6TC/) ($17) on most rides. Some light gel-padding is nice on hands/wrists during longer rides.
+
+In colder months, [these Brooks LSD Thermal Gloves](https://www.jackrabbit.com/brooks-lsd-thermal-glove---color%3A-black-size%3A-s/609465426438.html) ($50) are great touchscreen gloves with retractable, waterproof mitten covers. I can use my phone at like 90% with them, but they're also pretty warm with mitten covers pulled over. I've used them below freezing (mid/high 20ºF's) by putting [hand warmers](#hand-warmers) in the palm or mitten cover parts; wearing them inside [pogies](#pogies) is an even warmer+easier setup. They're very light and easily crumple/fold into small pocket spaces, so I keep them on me ≈6mos/yr.
+
+See also [Winter Cycling Gear](#winter-cycling-gear) below for [heated glove](#heated-gloves) and [pogie](#pogies) recs.
+
+### Rain gear <a id="rain-gear"></a>
+I got some [Clever Hood "Rover" Capes] and they seem good, though I haven't used them a ton / haven't 100% integrated them into my routine yet. People I follow swear by them, and I basically get the vision of a well-designed + reliable "protection from wind+elements" system. They pack down well, so I bring them along as mix of a rain / optional-warmth layer sometimes.
+
+### Winter Cycling Gear <a id="winter-cycling-gear"></a>
+I grew up in Miami and have bad hands/feet circulation. I don't like the cold and I'm bad at it. Biking in cold weather (let alone cold rain/snow) generally sounds miserable to most people.
+
+It turns out a a few $100 of gear and technology basically solves this problem. Whether you winter cycle or not, you should probably buy [heated gloves](#heated-gloves), [socks](#heated-socks), and [a vest](#heated-vests). My recs are below.
+
+#### Aside: it's not *that* cold a lot of the time
+I think people think it's colder in greater NYC more of the time [than it is](https://www.nytimes.com/2020/07/24/nyregion/climate-change-nyc.html). [January is the coldest month in NYC (avg daily hi/lo 39°/26°F)](https://share.getcloudapp.com/NQuKnNmj); for sure there are days and times when it is annoying to go out, but for the price of a couple car payments you can move that from "days under 50°F" (several months of the year) to "days under 30°F" (odd days here and there).
+
+In the winter, cars often function as ["2 ton, internal combustion parkas"][ice-parkas]. Clearly they maximize internal comfort for riders, but they also [externalize a variety of costs][auto-externalities]. It turns out it's not *that* hard to keep warm in most situations while traveling more efficiently.
+
+#### Heated Gloves <a id="heated-gloves"></a>
+This winter I discovered heated gloves, and they are amazing (though also less necessary once I got [pogies](#pogies)):
+- [VELAZZIO Thermo1 Battery Heated Gloves](https://www.amazon.com/gp/product/B07YBW4LCL/) ($90-10%):
+  - These are my go-tos: charge via USB-C, sleek form factor, good warmth.
+  - Below freezing (and without pogies), I wear them over my thin Brooks gloves, and put them on high.
+  - Sizes run large (I got a "S" for my wife (5'4") but they ended up fitting me (6')), underside of button can borderline-overheat against bare hand on "high" setting
+- [LUWATT Heated Gloves](https://www.amazon.com/gp/product/B07YYNJ4JQ/) ($50): good all-around, but became backups/loaners for me behind the Velazzio's above (a bit bulkier?)
+- [Volt WOMENS 7V ALL PURPOSE HEATED GLOVES](https://voltheat.com/collections/heated-gloves/products/all-purpose-womens-7v-heated-gloves) ($150): after the "S" Velazzio's were huge, I found this higher-end brand that made me believe their palm measurements etc. were actually accurate. Size "S" does fit women 5'2"-5'4" I ride with. They generally seem sleek and good.
+
+#### Heated Vests <a id="heated-vests"></a>
+[This ARRIS Heated Vest][arris-vest-men] ($139 - $10 coupon; also [women's version][arris-vest-women]) is an excellent accesory, and dramatically changes what it's like to go out in the cold:
+- 3 independent heat toggles for chest, stomach, and back+neck, and 5 heat levels on each.
+- Comfortable, feels high-quality.
+- Great zippered-pocket design.
+
+Pushing buttons on the vest lets you control your core temperature across a ≈50ºF range without carrying bulky layers, and the 4 pockets are really useful. Highly recommended.
+
+#### Heated Socks <a id="heated-socks"></a>
 - [Binnice New Heated Socks Winter Electric Rechargeable 3 Heating Settings Thermal Sock Foot Warmer for Men and Women](https://www.amazon.com/gp/product/B08DKR47QP/) ($): just ordered these, but they were the top pick of an Amazon-commissioned "best heated socks" article.
 - [Jomst 5000mAh Heated Socks for Men Women up to 8-25 Hours of Heating 3 Heating Settings Rechargeable Electric Heated Socks Winter Warm Socks for Skiing, Camping, Running, Fishing](https://www.amazon.com/gp/product/B08GK7PVFJ/) ($38); these didn't seem to work. The battery turned on and seemed responsive to mode-toggling, but I never felt any heat, even on "high", after wearing them 5x.
 
-### Heated Vests <a id="heated-vests"></a>
-- [ARRIS Heated Vest for Men, 7.4V Electric Size Adjustable Heating Vest for Hunting, Camping, Fish Suitable for Men and Women](https://www.amazon.com/gp/product/B07NW4LK62/) ($139 - $10 coupon): excellent accesory. 3 independent heat toggles for chest, stomach, and back+neck, and 5 heat levels on each. Comfortable and feels high-quality. Qualitatively changes what it's like to go out in the cold.
-- [ARRIS Heated Vest for Women, Size Adjustable 7.4V Electric Warm Vest 8 Heating Panels with Battery Pack](https://www.amazon.com/gp/product/B07VKLKSYV/) ($139 - $10 coupon): same thing, smaller/women's size (≈5'4" vs. 6').
+#### Hand Warmers <a id="hand-warmers">
+I have [a 40-pair box of disposable hand warmers][hand-warmers-box], and keep 3 pairs in a side pocket of my [handlebar bags](#cockpit-bags) when it's cold out (just in case). They're a good fail-safe if [heated gloves](#heated-gloves) or [socks](#heated-socks) aren't enough (or you didn't think you'd need them). Supposedly you can "recharge" them with boiling water, so as to avoid single-use waste, though I've not tried that.
+
+### Padded Shorts <a id="padded-shorts"></a>
+I often wear [these BALEAF padded bike shorts](https://www.amazon.com/gp/product/B07WSBTQH7/) ($29); padded shorts seemed a little silly at first, but they're pretty good for biking but also misc other outdoor activities. I got some baggy swimsuit-style padded shorts and some spandex-y ones like this, and liked the latter better. The pockets on these are great as well. As it cooled down, I would wear them over tights.
+
+-------
 
 ## Proselytization
-
-### Winter Cycling <a id="winter-cycling"></a>
-
-#### It's not *that* cold a lot of the time
-I think people think it's colder in greater NYC more of the time [than it is](https://www.nytimes.com/2020/07/24/nyregion/climate-change-nyc.html). [January is the coldest month in NYC (avg daily hi/lo 39°/26°F)](https://share.getcloudapp.com/NQuKnNmj); for sure there are days and times when it is annoying to go out, but for the price of a couple car payments you can move that from "days under 50°F" (several months of the year) to "days under 30°F" (odd days here and there).
-
-Someone described cars in winter as "4000lb internal-combustion parkas." Obviously cars are a pinnacle of comfort, but they cause [a huge amount of harm](https://en.wikipedia.org/wiki/Externalities_of_automobiles), and it's not *that* hard to keep warm other more ways while generally being more efficient.
 
 ### War on Cars <a id="war-on-cars"></a>
 
@@ -481,15 +538,12 @@ horns are loud
 [Creo]: https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435?color=300465-184435
 [hybrid]: https://www.cyclingweekly.com/group-tests/hybrid-bikes-buyers-guide-206065
 [citibike]: https://www.citibikenyc.com/
-[ryan-strava]: https://www.strava.com/athletes/66030652
 [new-car-cost]: https://www.cnet.com/roadshow/news/average-new-car-price-2020
 [cgp-grey-traffic]: https://www.youtube.com/watch?v=iHzzSao6ypE
-[ebike-day-strava]: https://www.strava.com/activities/4862580295
 [ebike-classes]: TODO
 [oonee]: https://www.ooneepod.com/
 [oonee pod]: https://www.ooneepod.com/product
 [oonee mini]: https://www.ooneepod.com/mini
-[vanmoof move]: https://www.strava.com/activities/4777398862
 [yepp-maxi]: https://www.thule.com/en-us/child-bike-seats/rear-mounted-child-bike-seats/thule-yepp-maxi-_-12020232
 [school-run]: TODO
 [car-cost-800-mo]: https://www.motor1.com/news/370609/average-american-monthly-car-spendings/
@@ -499,6 +553,11 @@ horns are loud
 [ebr-vanmoof]: https://electricbikereview.com/brand/vanmoof/
 [ebr-specialized]: https://electricbikereview.com/brand/specialized/
 [ebr-q9]: https://electricbikereview.com/tern/vektron-q9/
+
+[ryan-strava]: https://www.strava.com/athletes/66030652
+[strava-ebike-day]: https://www.strava.com/activities/4862580295
+[strava-vanmoof-move]: https://www.strava.com/activities/4777398862
+[strava-vanmoof-move-back]: https://www.strava.com/activities/4820311973
 
 [mellow-bike-westchester]: https://bit.ly/mellowbikewestchester
 [mellow-bike-chicago]: https://mellowbikemap.com/
@@ -523,3 +582,24 @@ horns are loud
 [vanmoof front basket]: https://www.vanmoof.com/shop/en_us/accessories/x3-front-waitress-carrier
 [fleece-lined pogies]: https://www.amazon.com/gp/product/B08M41KGZ8/
 [bungee cable set]: https://www.amazon.com/gp/product/B00S7HKJ1I/
+
+[Ortlieb Back-Roller Classics]: https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair
+[wirecutter-ortlieb]: https://www.nytimes.com/wirecutter/reviews/best-bike-rack-basket-panniers/#a-tough-as-nails-gear-hauler-ortlieb-back-roller-classic
+[tern-bucketload-panniers]: https://www.ternbicycles.com/us/accessories/472/bucketload-pannier
+[vanmoof-small-panniers]: https://www.vanmoof.com/shop/en_nl/vanmoof-rockbros-pannier-bag-black
+[Banjo Brothers Market Panniers]: https://www.amazon.com/gp/product/B003D4GS74/
+[backpack-pannier]: https://www.amazon.com/gp/product/B07Q26854B/
+
+[Clever Hood "Rover" Capes]: https://cleverhood.com/shop/rainwear/rain-capes/rover-rain-cape/
+[quadlock-out-front-mount]: https://www.quadlockcase.com/collections/shop-mounts/products/out-front-mount?variant=13538735095883
+[quadlock-lever]: https://www.quadlockcase.com/collections/shop-mounts/products/colored-lever-out-front-mount
+[wirecutter-quadlock]: https://www.nytimes.com/wirecutter/reviews/best-bike-phone-mount/
+[quadlock-pixel-5-case]: https://www.quadlockcase.com/collections/pixel-5/products/case-all-pixel-devices?variant=32873800630347
+
+[auto-externalities]: https://en.wikipedia.org/wiki/Externalities_of_automobiles
+[ice-parkas]: https://twitter.com/Ollie_Cycles/status/1160537625347940353
+
+[arris-vest-men]: https://www.amazon.com/gp/product/B07NW4LK62/
+[arris-vest-women]: https://www.amazon.com/gp/product/B07VKLKSYV/
+
+[hand-warmers-box]: https://www.amazon.com/gp/product/B0007ZF4OA/
