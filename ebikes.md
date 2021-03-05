@@ -45,7 +45,6 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
   - [Starter Packs](#starter-packs)
     - [VanMoof X3 + Gear](#vanmoof-x3-pack)
     - [RadPower](#radpower)
-- [Accessories](#accessories)
 - [Gear](#gear)
   - [Bags](#bags)
     - [Panniers](#panniers)
@@ -53,6 +52,9 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Top-Tube Bags](#top-tube-bags)
     - [Back-Rack / Seat Bags](#back-bags)
   - [Phone Mounts](#phone-mounts)
+  - [Misc. Accessories](#misc-accessories) (bells, mirrors, lights, kickstands)
+  - [Gloves](#gloves)
+  - [Rain Gear](#rain-gear)
   - [Winter Cycling Gear](#winter-cycling-gear)
     - [Heated Gloves](#heated-gloves)
     - [Heated Vests](#heated-vests)
@@ -89,7 +91,7 @@ The COVID "bike boom" hit me hard:
 - **September**:
   - Need something for the grocery run.
   - Bought a "hybrid" (non-electric; [a cross between "road" and "mountain"; basically a "city bike"][hybrid]). Revelatory, love it.
-  - Got lots of bags+accessories to fit different needs (errands+cargo, distance joy-ride, day around the city, etc.)
+  - Got [lots of bags+accessories](#gear) to fit different needs (errands/cargo, distance/joy-ride, day in the city, etc.)
 - **November 2020**:
   - I'd still like to try an e-bike.
   - Ideally it will haul even more cargo, and also fold up for easy storage (my office already has two drywall-mounted bikes and e-bikes are generally too heavy for that).
@@ -173,7 +175,7 @@ On average, [a new car in the US costs $40k][new-car-cost]; [owning+operating a 
 
 Lots of the US effectively levies a $40k tax to participate in society, which hits the least well off the hardest.
 
-[80% of car trips are under 5mi][car-trip-length] and easily replaceable by a luxurious e-bike kit – including gear and accessories to the max – that costs 1/10th what a car costs.
+[80% of car trips are under 5mi][car-trip-length] and easily replaceable by a luxurious e-bike kit – including [gear and accessories to the max](#gear) – that costs 1/10th what a car costs.
 
 #### 1 car ⟹ 10 e-bikes + gear
 When I am passing cars stuck in traffic, one of the saddest things is that each of those cars could have paid for 10 families' e-bike mobility solutions™️.
@@ -187,7 +189,7 @@ Some of the darkest images of the failed state of American governance as well as
 
 We've struggled and failed to give people $2k of COVID relief, but have designed a society where they must spend $800/mo on the least efficient mode of transportation.
 
-You can get a full starter ebike package with racks and gear for hauling, for under $2k; [see my $3k VanMoof starter pack sketch below](#x3-pack). With financing comparable to what people get for cars, that's maybe $60/mo. My 3 e-bikes are significantly up-market from where most ppl will start, and they'd be $250/mo. (including a huge variety of gear and accessories).
+You can get a full starter ebike package with racks and gear for hauling, for under $2k; [see my $3k VanMoof starter pack sketch below](#x3-pack). With financing comparable to what people get for cars, that's maybe $60/mo. My 3 e-bikes are significantly up-market from where most ppl will start, and they'd be $250/mo. (including [a huge variety of gear and accessories](#gear)).
 
 ### Space <a id="space"></a>
 E-bikes take up very little space for the mobility they provide. Mode shift from private cars to e-bikes directly improves a large class of congestion and parking issues.
@@ -418,13 +420,6 @@ Nice forum with encouraging/inspirational stories and examples
 
 You might also find vendor-specific subreddits useful, like [r/vanmoof].
 
-## Accessories <a id="accessories"></a>
-- bells
-- mirrors
-- lights
-- kickstands
-- bar-ends
-
 ## Gear / Accessories <a id="gear"></a>
 
 ### Racks, Baskets <a id="racks-baskets"></a>
@@ -469,6 +464,13 @@ Having my phone mounted up front on my handlebars has been surprisingly useful. 
 When getting started, you're mostly riding in areas you're less familiar with. Having the map handy helps to not feel lost or get lost, as well as to e.g. find detours if a road doesn't feel safe.
 
 I've exclusively used Quad Lock handlebar phone mounts ([the Wirecutter's choice][wirecutter-quadlock]) and associated phone cases. They are good products, though a bit pricier than I'd expect (e.g. $60 for ["out front" mount][quadlock-out-front-mount], $10 for [a black plastic "lever"][quadlock-lever] to replace the blue one that it comes with, $30 for [a compatible phone case][quadlock-pixel-5-case]). I still struggle to find the right angle to rotate the phone into the mount; I expect I'll get better at it over time. One-hand releasing is easy and convenient.
+
+### Misc. Accessories <a id="misc-accessories"></a>
+- Bells: [this $6 Amazon bell][amzn-bell] has worked well for me 3x. I also got [a Spurcycle][spurcycle-bell] ($49) after hearing that it is the best, but I think I prefer the Amazon one 🤷🏼‍♂️.
+- Mirrors: [this handlebar-mounted rear-view mirror][handlebar-mirror] has served me well. I couldn't get [this one][handlebar-mirror-2] tight enough using its rubber spacers.
+- Lights: TODO
+- Kickstands: TODO
+- Bar-ends: TODO
 
 ### Gloves <a id="gloves"></a>
 
@@ -627,3 +629,8 @@ horns are loud
 [zip ties 8"]: https://www.amazon.com/gp/product/B00YARIYL6/
 [zip ties 14"]: https://www.amazon.com/gp/product/B00YARJ14A/
 [OTTO cable lock]: https://www.amazon.com/gp/product/B0799DBYBH/
+
+[amzn-bell]: https://www.amazon.com/gp/product/B07DFF49R4/
+[spurcycle-bell]: https://www.spurcycle.com/products/better-bicycle-bell
+[handlebar-mirror]: https://www.amazon.com/gp/product/B07G5H2RSM/
+[handlebar-mirror-2]: https://www.amazon.com/gp/product/B07V5DJR8Z/
