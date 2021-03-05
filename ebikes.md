@@ -5,8 +5,8 @@ I've incepted friends and family with e-bike mania and am overwhelmed with e-bik
 
 I'm documenting my journey – and reflections about the e-bike space – here, in the hope it will help others.
 
-[![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)]([ebike-day-strava])
-([see this ride on Strava]([ebike-day-strava]))
+[![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)][ebike-day-strava]
+([see this ride on Strava][ebike-day-strava])
 
 ## Contents
 - [Background: Bike-sharer → Bike-owner → E-bike maniac](#background)
