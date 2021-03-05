@@ -179,7 +179,7 @@ Some of the darkest images of the failed state of American governance as well as
 
 We've struggled and failed to give people $2k of COVID relief, but have designed a society where they must spend $800/mo on the least efficient mode of transportation.
 
-All together, including a huge variety of gear and accessories, they cost about $15k. That's , and I'm fortunate to be able to explore the top of the market. A person can get everything they need to replace car-dependence with price-conscious
+You can get a full starter ebike package with racks and gear for hauling, for under $2k; [see my $3k VanMoof starter pack sketch below](#x3-pack). With financing comparable to what people get for cars, that's maybe $60/mo. My 3 e-bikes are significantly up-market from where most ppl will start, and they'd be $250/mo. (including a huge variety of gear and accessories).
 
 ### Space <a id="space"></a>
 E-bikes take up very little space for the mobility they provide. Mode shift from private cars to e-bikes directly improves a large class of congestion and parking issues.
