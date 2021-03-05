@@ -52,7 +52,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Cockpit Bags](#cockpit-bags)
     - [Top-Tube Bags](#top-tube-bags)
     - [Back-Rack / Seat Bags](#back-bags)
-  - [Phone mounts](#phone-mounts)
+  - [Phone Mounts](#phone-mounts)
   - [Winter Cycling Gear](#winter-cycling-gear)
     - [Heated Gloves](#heated-gloves)
     - [Heated Vests](#heated-vests)
@@ -461,7 +461,7 @@ Between them, I'll carry a battery that charges my phone while riding (and [some
 #### Back-Rack / Seat Bags <a id="back-bags"></a>
 TODO
 
-### Phone mounts <a id="phone-mounts"></a>
+### Phone Mounts <a id="phone-mounts"></a>
 Having my phone mounted up front on my handlebars has been surprisingly useful. I typically have Google Maps' turn-by-turn directions or [Strava's](#strava) speedometer up while riding:
 
 [![chest-cam shot of phone mounted on handlebars displaying a Google Map, another e-biker is in front, and the George Washington Bridge is in the background](https://user-images.githubusercontent.com/465045/110153857-948ec500-7db1-11eb-8fd9-3b13e3d68e5d.png)][strava-ebike-day]
