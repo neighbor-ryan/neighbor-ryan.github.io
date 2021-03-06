@@ -8,7 +8,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
 [![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)][strava-ebike-day]
 ([see this ride on Strava][strava-ebike-day])
 
-## Contents
+## Contents <a id="toc"></a>
 - [Background](#background): bike-sharer → bike-owner → e-bike maniac
 - [My e-bikes](#my-ebikes)
   - [VanMoof X3](#x3-review): great all-around / starter e-bike
