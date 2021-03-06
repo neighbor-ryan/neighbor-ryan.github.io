@@ -9,30 +9,29 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
 ([see this ride on Strava][strava-ebike-day])
 
 ## Contents
-- [Background: Bike-sharer → Bike-owner → E-bike maniac](#background)
+- [Background](#background): Bike-sharer → Bike-owner → E-bike maniac
 - [My e-bikes](#my-ebikes)
-  - [VanMoof X3](#x3-review) (great all-around / starter e-bike)
-  - [Tern Vektron Q9](#q9-review) (large cargo capacity, folds up for easy storage)
-  - [Specialized Creo Comp Carbon](#creo-review) (light, fast, long-range)
-- [Revelations](#revelations)
-  - [Speed](#speed-safety)
-    - [⟹Safety](#speed-safety)
-    - [⟹Inclusion](#speed-inclusion)
-    - [⟹Convenience](#speed-convenience)
-  - [Space](#space)
-    - [Bike vs. Car Storage](#bike-vs-car-storage)
-  - [Cost](#cost)
-  - [Cargo](#cargo)
-    - [Groceries, Bulk Items](#groceries)
-    - [Kids](#kids)
-    - [PoV: Grocery Runs](#pov-grocery-runs)
-    - [PoV: Moving House](#pov-moving-house)
+  - [VanMoof X3](#x3-review): great all-around / starter e-bike
+  - [Tern Vektron Q9](#q9-review): large cargo capacity, folds up for easy storage
+  - [Specialized Creo Comp Carbon](#creo-review): light, fast, long-range
+- [Reflections](#revelations)
+  - [Speed ⟹ Safety](#speed-safety): higher top speed (and acceleration) makes a big difference in traffic
+  - [Speed ⟹ Inclusion](#speed-inclusion): a lot more people can get around quickly+comfortably
+  - [Speed ⟹ Convenience](#speed-convenience): as fast as cars in urban environments; solves congestion and parking
+  - [Space](#space): high mobility per unit space; mixes well with other modes
+    - [Bike vs. Car Storage](#bike-vs-car-storage): parking takes too much space in cities; bike parking is 5-10x more efficient
+  - [Cost](#cost): the average car cost could fund e-bikes for 10 families
+  - [Cargo](#cargo):
+    - [Groceries, Bulk Items](#groceries): basically any grocery run, and a surprising number of bulk item moves, can be done via e-bike
+    - [Kids](#kids): easy to carry 1 or 2 kids by e-bike
+    - [PoV: Grocery Runs](#pov-grocery-runs): I get groceries by e-bike and it's great
+    - [PoV: Moving House](#pov-moving-house): I moved across town – with 2wks of stuff – by ebike
   - [Health](#health)
   - [Fun](#fun)
-  - [Car sewers](#car-sewers)
+  - [Car sewers](#car-sewers): cars make streets miserable for everyone not in a car; doing this to 100% of streets is an extreme choice.
 - [Getting Started](#getting-started)
-  - [Bike Shares](#bike-shares)
-  - [Renting](#renting)
+  - [Bike Shares](#bike-shares): try some rental bikes (or scooters, etc.)
+  - [Renting](#renting): rent a few types of bikes before buying one
   - [Safety](#safety)
     - [Riding on Sidewalks](#riding-on-sidewalks)
     - [Stopping at Stop Signs / Red Lights](#stopping-at-stops)
@@ -43,27 +42,29 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [ElectricBikeReview.com](#ebr)
     - [r/ebikes](#r-ebikes)
   - [Starter Packs](#starter-packs)
-    - [VanMoof X3 + Gear](#vanmoof-x3-pack)
-    - [RadPower](#radpower)
+    - [VanMoof X3 + Gear](#vanmoof-x3-pack): $3k incl. maintenance+theft plan + all the gear you could want
+    - [RadPower](#radpower): popular under $2k
 - [Gear](#gear)
   - [Bags](#bags)
-    - [Panniers](#panniers)
-    - [Cockpit Bags](#cockpit-bags)
-    - [Top-Tube Bags](#top-tube-bags)
-    - [Back-Rack / Seat Bags](#back-bags)
-  - [Phone Mounts](#phone-mounts)
-  - [Misc. Accessories](#misc-accessories) (bells, mirrors, lights, kickstands)
-  - [Gloves](#gloves)
-  - [Rain Gear](#rain-gear)
-  - [Winter Cycling Gear](#winter-cycling-gear)
-    - [Heated Gloves](#heated-gloves)
+    - [Panniers](#panniers): bags that hang from sides of back rack; can be quite large, very useful
+    - [Cockpit Bags](#cockpit-bags): smaller bags up around your handlebars for essentials
+    - [Frame Bags](#top-tube-bags): small/medium bags attached to the frame
+    - [Back-Rack / Seat Bags](#back-bags): medium bags on top of back rack or behind+underneath seat
+  - [Phone Mounts](#phone-mounts): phone mounted up front (e.g. w/ turn-by-turn directions) is surprisingly useful; I use [Quad Lock].
+  - [Lights](#lights): [front][amzn cygolite metro plus], [rear][amzn cygolite hotrod], [party][amzn party light], [Vont 'Pyro' (set)][amzn vont pyro light], [KNOG (set)][amzn knog lights]
+  - [Misc. Accessories](#misc-accessories): [bell][amzn bell], [mirror][amzn mirror], [kickstand][amzn kickstand], [hand pump][amzn pump]
+  - [Gloves](#gloves): [padded gloves][amzn MOREOK gloves], [light but warm winter gloves][Brooks gloves]
+  - [Rain Gear](#rain-gear): [Clever Hoods] are popular + good
+  - [Winter Cycling](#winter-cycling-gear): easier+better than you think, $200 of gear solves cold down to ≈25ºF
+    - [Heated Gloves](#heated-gloves): [my main pair][velazzio gloves], [another good pair][luwatt gloves], and [one that actually makes a women's size][volt gloves]
     - [Heated Vests](#heated-vests)
     - [Heated Socks](#heated-socks)
     - [Hand Warmers](#hand-warmers)
-  - [Padded Shorts](#padded-shorts)
+  - [Padded Shorts](#padded-shorts): [good all-around active shorts w/ pockets][amzn padded shorts]
 - [Documenting Rides](#documenting-rides)
-  - [Strava](#strava)
-  - [Gopro](#gopro)
+  - [Strava](#strava): robust recording app (can resume after phone crashes), good small-circle social network, good open data posture
+  - [Gopro](#gopro): good action cameras, hardware+software UX sometimes rough, only brand I've tried
+  - [Post-Processing Videos](#post-processing): [external SSDs](#ssds), [512GB micro-SIM](#sim), [Wasabi Cloud Storage](#wasabi), [VFX suites](#vfx)
 - [Favorite Rides](#favorite-rides)
 - [Proselytization](#proselytization)
   - [War on Cars](#war-on-cars)
@@ -143,7 +144,7 @@ TODO
 ## Revelations <a id="revelations"></a>
 E-biking has brought a string of revelations about my city, cities in general, mobility as a fundamental human need and right, [turbulent flows][cgp-grey-traffic], and more. Here are some things that have struck me in learning to get around by (e)bike:
 
-### Speed (⟹ Safety) <a id="speed-safety"></a>
+### Speed ⟹ Safety <a id="speed-safety"></a>
 It's counterintuitive, but having access to more speed (and acceleration) makes you dramatically safer on a bike. Starting from a stop at lights, holding a lane on shared roads, minimizing the number of cars that close on and overtake you (and the speed they overtake you at)… you are much more in control of your relationship to traffic on an ebike. This is one of new e-bikers' biggest "💡"/"🤯" moments.
 
 It's also surprising how a little boost makes a *big* difference in that feeling of control and safety. Moving top speed from 15mph to 20mph means a car going 25mph *passes you half as quickly* and *has twice as much time to "see you coming" as it comes up behind you*.
@@ -156,14 +157,14 @@ and draft them for a while (until the next light, when you must bid them "🙏",
 
 You basically had to be a professional cyclist to access this ability to simply exist on car-dominated roads, but now almost everyone can.
 
-### Speed (⟹ Inclusion) <a id="speed-inclusion"></a>
+### Speed ⟹ Inclusion <a id="speed-inclusion"></a>
 The Speed⟹Safety effect is particularly true for people who are not stereotypic young/fit men (women, children of all ages, older people, differently abled people, …). I was brave enough – [some of the time][near-misses] – to bike around NYC before e-bikes, but it was not feasible for my wife (though she is in her 30's and reasonably athletic). This was due to the high baseline level of bullying from drivers (both inadvertent and intentional) as well as specific vitriol and threats she received as a woman taking space that some men motorists feel is theirs.
 
 - TODO: paris stat 60% new riders covid
 - TODO: other gender ridership: citibike
 - TODO: historical bike feminism
 
-### Speed (⟹ Convenience) <a id="speed-convenience"></a>
+### Speed ⟹ Convenience <a id="speed-convenience"></a>
 The most obvious benefit of speed is that it lets you get from A to B faster (or for less work, at a given speed). Less worry about getting sweaty or feeling like getting home is daunting or you're not up for it. Generally easier to go places and do things.
 
 [Class 1 e-bikes][ebike-classes] provide a pedal-assist up to 20mph; this lets casual riders (who normally top out at 12-15mph) play in the 15-20mph range and, as with [the "safety" angle](#safety-speed), that ≈30% difference actually makes for a qualitatively different experience. I consistently pass more cars than pass me now (except *sometimes* if I'm along the West Side Highway for long enough 😂). It's pretty hard to go 15-20mph in a car for very long in urban environments, so for a large class of trips.
@@ -465,18 +466,24 @@ When getting started, you're mostly riding in areas you're less familiar with. H
 
 I've exclusively used Quad Lock handlebar phone mounts ([the Wirecutter's choice][wirecutter-quadlock]) and associated phone cases. They are good products, though a bit pricier than I'd expect (e.g. $60 for ["out front" mount][quadlock-out-front-mount], $10 for [a black plastic "lever"][quadlock-lever] to replace the blue one that it comes with, $30 for [a compatible phone case][quadlock-pixel-5-case]). I still struggle to find the right angle to rotate the phone into the mount; I expect I'll get better at it over time. One-hand releasing is easy and convenient.
 
+### Lights <a id="lights"></a>
+You want a white "headlight" facing forward and a red taillight facing back. There are many options and they're mostly all good. Here are some I've used and like:
+- [CYGOLITE Metro Plus][amzn cygolite metro plus] ($46): right head-light
+- [CYGOLITE Hotrod][amzn cygolite hotrod] ($40): bright tail light
+- [Vont 'Pyro' (set)][amzn vont pyro light] ($14): front+rear, good+cheap
+- [KNOG (set)][amzn knog lights] ($): front+rear, very convenient; plug lights directly in to any USB-A port to charge, eacy to clip them to things. Good backups to keep in [a bag](#cockpit-bags)
+
+I've also thrown [party][amzn party light] [lights][amzn party light 2] and [wheel lights][amzn wheel lights] on bikes.
+
 ### Misc. Accessories <a id="misc-accessories"></a>
-- Bells: [this $6 Amazon bell][amzn-bell] has worked well for me 3x. I also got [a Spurcycle][spurcycle-bell] ($49) after hearing that it is the best, but I think I prefer the Amazon one 🤷🏼‍♂️.
-- Mirrors: [this handlebar-mounted rear-view mirror][handlebar-mirror] has served me well. I couldn't get [this one][handlebar-mirror-2] tight enough using its rubber spacers.
-- Lights: TODO
-- Kickstands: TODO
-- Bar-ends: TODO
+- Bells: [this $6 Amazon bell][amzn bell] has worked well for me 3x. I also got [a Spurcycle][spurcycle-bell] ($49) after hearing that it is the best, but I think I prefer the Amazon one 🤷🏼‍♂️.
+- Mirrors: [this handlebar-mounted rear-view mirror][amzn mirror] has served me well. I couldn't get [this one][amzn mirror 2] tight enough using its rubber spacers.
+- Kickstand: [this two-legged style of kickstand][amzn kickstand] is sturdier and easier to deal with
 
 ### Gloves <a id="gloves"></a>
+In warmer months, I wear ["MOREOK" gloves][amzn MOREOK gloves] ($17) on most rides. Some light gel-padding is nice on hands/wrists during longer rides.
 
-In warmer months, I wear [these "MOREOK" gloves](https://www.amazon.com/gp/product/B07B3PX6TC/) ($17) on most rides. Some light gel-padding is nice on hands/wrists during longer rides.
-
-In colder months, [these Brooks LSD Thermal Gloves](https://www.jackrabbit.com/brooks-lsd-thermal-glove---color%3A-black-size%3A-s/609465426438.html) ($50) are great touchscreen gloves with retractable, waterproof mitten covers. I can use my phone at like 90% with them, but they're also pretty warm with mitten covers pulled over. I've used them below freezing (mid/high 20ºF's) by putting [hand warmers](#hand-warmers) in the palm or mitten cover parts; wearing them inside [pogies](#pogies) is an even warmer+easier setup. They're very light and easily crumple/fold into small pocket spaces, so I keep them on me ≈6mos/yr.
+In colder months, [Brooks LSD Thermal Gloves][Brooks gloves] ($50) are great touchscreen gloves with retractable, waterproof mitten covers. I can use my phone at like 90% with them, but they're also pretty warm with mitten covers pulled over. I've used them below freezing (mid/high 20ºF's) by putting [hand warmers](#hand-warmers) in the palm or mitten cover parts; wearing them inside [pogies](#pogies) is an even warmer+easier setup. They're very light and easily crumple/fold into small pocket spaces, so I keep them on me ≈6mos/yr.
 
 See also [Winter Cycling Gear](#winter-cycling-gear) below for [heated glove](#heated-gloves) and [pogie](#pogies) recs.
 
@@ -495,12 +502,12 @@ In the winter, cars often function as ["2 ton, internal combustion parkas"][ice-
 
 #### Heated Gloves <a id="heated-gloves"></a>
 This winter I discovered heated gloves, and they are amazing (though also less necessary once I got [pogies](#pogies)):
-- [VELAZZIO Thermo1 Battery Heated Gloves](https://www.amazon.com/gp/product/B07YBW4LCL/) ($90-10%):
+- [VELAZZIO Thermo1 Battery Heated Gloves][velazzio gloves] ($90-10%):
   - These are my go-tos: charge via USB-C, sleek form factor, good warmth.
   - Below freezing (and without pogies), I wear them over my thin Brooks gloves, and put them on high.
   - Sizes run large (I got a "S" for my wife (5'4") but they ended up fitting me (6')), underside of button can borderline-overheat against bare hand on "high" setting
-- [LUWATT Heated Gloves](https://www.amazon.com/gp/product/B07YYNJ4JQ/) ($50): good all-around, but became backups/loaners for me behind the Velazzio's above (a bit bulkier?)
-- [Volt WOMENS 7V ALL PURPOSE HEATED GLOVES](https://voltheat.com/collections/heated-gloves/products/all-purpose-womens-7v-heated-gloves) ($150): after the "S" Velazzio's were huge, I found this higher-end brand that made me believe their palm measurements etc. were actually accurate. Size "S" does fit women 5'2"-5'4" I ride with. They generally seem sleek and good.
+- [LUWATT Heated Gloves][luwatt gloves] ($50): good all-around, but became backups/loaners for me behind the Velazzio's above (a bit bulkier?)
+- [Volt WOMENS 7V ALL PURPOSE HEATED GLOVES][volt gloves] ($150): after the "S" Velazzio's were huge, I found this higher-end brand that made me believe their palm measurements etc. were actually accurate. Size "S" does fit women 5'2"-5'4" I ride with. They generally seem sleek and good.
 
 #### Heated Vests <a id="heated-vests"></a>
 [This ARRIS Heated Vest][arris-vest-men] ($139 - $10 coupon; also [women's version][arris-vest-women]) is an excellent accesory, and dramatically changes what it's like to go out in the cold:
@@ -518,7 +525,7 @@ Pushing buttons on the vest lets you control your core temperature across a ≈5
 I have [a 40-pair box of disposable hand warmers][hand-warmers-box], and keep 3 pairs in a side pocket of my [handlebar bags](#cockpit-bags) when it's cold out (just in case). They're a good fail-safe if [heated gloves](#heated-gloves) or [socks](#heated-socks) aren't enough (or you didn't think you'd need them). Supposedly you can "recharge" them with boiling water, so as to avoid single-use waste, though I've not tried that.
 
 ### Padded Shorts <a id="padded-shorts"></a>
-I often wear [these BALEAF padded bike shorts](https://www.amazon.com/gp/product/B07WSBTQH7/) ($29); padded shorts seemed a little silly at first, but they're pretty good for biking but also misc other outdoor activities. I got some baggy swimsuit-style padded shorts and some spandex-y ones like this, and liked the latter better. The pockets on these are great as well. As it cooled down, I would wear them over tights.
+I often wear [BALEAF padded bike shorts][amzn BALEAF shorts] ($29); padded shorts seemed a little silly at first, but they're pretty good for biking but also misc other outdoor activities. I got some baggy swimsuit-style padded shorts and some spandex-y ones like this, and liked the latter better. The pockets on these are great as well. As it cooled down, I would wear them over tights.
 
 ## Documenting Rides <a id="documenting-rides"></a>
 TODO
@@ -528,6 +535,30 @@ TODO
 
 ### Gopro <a id="gopro"></a>
 TODO
+
+### Post-Processing Videos <a id="post-processing"></a>
+Videoing rides can generate huge amounts of data. My GoPro can shoot 4K @ 60FPS, but I learned the hard way to ratchet down to 1080p+24FPS. GoPro's cut shots into 4GB "chapters" (≈11mins at that resolution). My laptop's 1TB SSD could hold ≈45hrs of "low"-res video (if I had nothing else on it).
+
+#### External SSDs <a id="ssds"></a>
+I started with [a 1TB external SSD][amzn 1TB SSD] and added [a 2TB][amzn 2TB SSD] later. These things are pretty incredible, they fit in your palm:
+
+#### Wasabi Cloud Storage <a id="wasabi"></a>
+Eventually I filled up the 2TB too, and started putting data in [Wasabi][wasabi] (cheap cloud storage w/ good tooling). I'm stil in the free trial, but planning to use it as my canonical/archival store going forward, script moving new videos there automatically, and setting up downstream pipelines. My SSDs are not backed up anywhere so they might become an [LRU cache] of data in Wasabi. Given the price points, I'd rather pay-as-I-go on Wasabi than capacity-plan and deploy a RAID array on my desk 😁.
+
+#### 512GB micro-SIM <a id="sim"></a>
+In some sense the most absurd piece of technology I use is [this 512GB micro-SIM][amzn 512GB micro-SIM] that the GoPro records to:
+
+![side-by-side of a 512GB micro-SIM card and a quarter (the latter about 3x the size)](https://user-images.githubusercontent.com/465045/110189779-55329980-7dee-11eb-9560-d058743ed859.png)
+*where does all that data go…? 🤯*
+
+I started with smaller SIMs, but worrying about the camera card's capacity was too annoying (on top of juggling battery + spares and archival storage capacity post-ride), and ultimately solvable for $75.
+
+#### VFX suites <a id="vfx"></a>
+I resisted using proper VFX suites to process my GoPro videos for a long time, but ultimately caved, bought [Final Cut Pro][fcp], and have been learning to use it. It does a good job abstracting over the 4GB GoPro "chapter" files that every shot is broken into, and is easy to use for speeding up / cutting video. The export flows are a bit clunky (videos as `.mov` only, frames as `.tiff`; I'm sure I'm missing things…) and I already want to script things on top of it, but it's a good start and very powerful beyond what I've learned.
+
+https://goprotelemetryextractor.com/ seems good and able to deal with GoPro GPS/speed/etc. (which I've also not cracked in FCP).
+
+I used to use GoPro's "Quik" app just for an auto-import when I plug my SIM in; I never found the VFX features usable. I've since given up on it altogether.
 
 ## Favorite Rides <a id="favorite-rides"></a>
 TODO
@@ -630,7 +661,36 @@ horns are loud
 [zip ties 14"]: https://www.amazon.com/gp/product/B00YARJ14A/
 [OTTO cable lock]: https://www.amazon.com/gp/product/B0799DBYBH/
 
-[amzn-bell]: https://www.amazon.com/gp/product/B07DFF49R4/
+[amzn bell]: https://www.amazon.com/gp/product/B07DFF49R4/
+
 [spurcycle-bell]: https://www.spurcycle.com/products/better-bicycle-bell
-[handlebar-mirror]: https://www.amazon.com/gp/product/B07G5H2RSM/
-[handlebar-mirror-2]: https://www.amazon.com/gp/product/B07V5DJR8Z/
+[amzn mirror]: https://www.amazon.com/gp/product/B07G5H2RSM/
+[amzn mirror 2]: https://www.amazon.com/gp/product/B07V5DJR8Z/
+[amzn kickstand]: https://www.amazon.com/gp/product/B00LNLXML4/
+[amzn pump]: https://www.amazon.com/gp/product/B008R5MDQE/
+[amzn party light]: https://www.amazon.com/gp/product/B07G36BT9P/
+[amzn party light 2]: https://www.amazon.com/gp/product/B07L5R98KG/
+[amzn wheel lights]: https://www.amazon.com/gp/product/B01M5ATP5Y/
+[amzn vont pyro light]: https://www.amazon.com/gp/product/B078TB9TMK/
+
+[velazzio gloves]: https://www.amazon.com/gp/product/B07YBW4LCL/
+[luwatt gloves]: https://www.amazon.com/gp/product/B07YYNJ4JQ/
+[volt gloves]: https://voltheat.com/collections/heated-gloves/products/all-purpose-womens-7v-heated-gloves
+
+[amzn cygolite metro plus]: https://www.amazon.com/gp/product/B07544KPJL/
+[amzn cygolite hotrod]: https://www.amazon.com/gp/product/B07YFDFXY4/
+[amzn knog lights]: https://www.amazon.com/KNOG-12144-Plus-Twinpack-Black/dp/B07CYNMD6M/
+
+[amzn MOREOK gloves]: https://www.amazon.com/gp/product/B07B3PX6TC/
+[Brooks gloves]: https://www.jackrabbit.com/brooks-lsd-thermal-glove---color%3A-black-size%3A-s/609465426438.html
+[amzn BALEAF shorts]: https://www.amazon.com/gp/product/B07WSBTQH7/
+
+[Clever Hoods]: https://cleverhood.com/
+
+[amzn 1TB SSD]: https://www.amazon.com/gp/product/B073H552FJ/
+[amzn 2TB SSD]: https://www.amazon.com/gp/product/B0874XWW23/
+[amzn 512GB micro-SIM]: https://www.amazon.com/SAMSUNG-Select-microSDXC-Adapter-MB-ME512HA-dp-B0887CHVFF/dp/B0887CHVFF/
+[wasabi]: https://wasabi.com/
+[fcp]: https://www.apple.com/final-cut-pro/
+
+[LRU cache]: https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_recently_used_(LRU)
