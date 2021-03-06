@@ -69,7 +69,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [External SSDs](#ssds): [1TB][amzn 1TB SSD]/[2TB][amzn 2TB SSD] Samsungs, palm-sized
     - [512GB micro-SIM](#sim): never worry about SIM-card capacity in-camera (there's enough to worry about when the data comes off the camera)
     - [Wasabi Cloud Storage](#wasabi): cheap+easy cloud storage; good option for archival video storage
-    - [VFX suites](#vfx): unfortunately necessary to do anything with action-camera videos
+    - [VFX Suites](#vfx): unfortunately necessary to do anything with action-camera videos
 - [Favorite Rides](#favorite-rides)
 - [Proselytization](#proselytization)
   - [War on Cars](#war-on-cars)
@@ -573,7 +573,7 @@ In some sense the most absurd piece of technology I use is [this 512GB micro-SIM
 
 I started with smaller SIMs, but worrying about the camera card's capacity was too annoying (on top of juggling battery + spares and archival storage capacity post-ride), and ultimately solvable for $75.
 
-#### VFX suites <a id="vfx"></a>
+#### VFX Suites <a id="vfx"></a>
 I resisted using proper VFX suites to process my GoPro videos for a long time, but ultimately caved, bought [Final Cut Pro][fcp], and have been learning to use it. It does a good job abstracting over the 4GB GoPro "chapter" files that every shot is broken into, and is easy to use for speeding up / cutting video. The export flows are a bit clunky (videos as `.mov` only, frames as `.tiff`; I'm sure I'm missing things…) and I already want to script things on top of it, but it's a good start and very powerful beyond what I've learned.
 
 https://goprotelemetryextractor.com/ seems good and able to deal with GoPro GPS/speed/etc. (which I've also not cracked in FCP).
