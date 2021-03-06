@@ -9,7 +9,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
 ([see this ride on Strava][strava-ebike-day])
 
 ## Contents
-- [Background](#background): Bike-sharer → Bike-owner → E-bike maniac
+- [Background](#background): bike-sharer → bike-owner → e-bike maniac
 - [My e-bikes](#my-ebikes)
   - [VanMoof X3](#x3-review): great all-around / starter e-bike
   - [Tern Vektron Q9](#q9-review): large cargo capacity, folds up for easy storage
@@ -44,8 +44,9 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
   - [Starter Packs](#starter-packs)
     - [VanMoof X3 + Gear](#vanmoof-x3-pack): $3k incl. maintenance+theft plan + all the gear you could want
     - [RadPower](#radpower): popular under $2k
-- [Gear](#gear)
-  - [Bags](#bags)
+- [Gear](#gear): 10-20% the bike's cost in add-ons can make the bike 10x more useful
+  - [Racks, Baskets](#racks-baskets): starting point for carrying bags' worth of stuff on rides
+  - [Bags](#bags): get weight off of you and onto the bike, where it *rolls*
     - [Panniers](#panniers): bags that hang from sides of back rack; can be quite large, very useful
     - [Cockpit Bags](#cockpit-bags): smaller bags up around your handlebars for essentials
     - [Frame Bags](#top-tube-bags): small/medium bags attached to the frame
@@ -64,11 +65,11 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
 - [Documenting Rides](#documenting-rides)
   - [Strava](#strava): robust recording app (can resume after phone crashes), good small-circle social network, good open data posture
   - [Gopro](#gopro): good action cameras, hardware+software UX sometimes rough, only brand I've tried
-  - [Post-Processing Videos](#post-processing):
-    - [External SSDs](#ssds)
-    - [512GB micro-SIM](#sim)
-    - [Wasabi Cloud Storage](#wasabi)
-    - [VFX suites](#vfx)
+  - [Post-Processing Videos](#post-processing): dealing with videos afterward is its own adventure
+    - [External SSDs](#ssds): [1TB][amzn 1TB SSD]/[2TB][amzn 2TB SSD] Samsungs, palm-sized
+    - [512GB micro-SIM](#sim): never worry about SIM-card capacity in-camera (there's enough to worry about when the data comes off the camera)
+    - [Wasabi Cloud Storage](#wasabi): cheap+easy cloud storage; good option for archival video storage
+    - [VFX suites](#vfx): unfortunately necessary to do anything with action-camera videos
 - [Favorite Rides](#favorite-rides)
 - [Proselytization](#proselytization)
   - [War on Cars](#war-on-cars)
@@ -427,13 +428,26 @@ Nice forum with encouraging/inspirational stories and examples
 You might also find vendor-specific subreddits useful, like [r/vanmoof].
 
 ## Gear / Accessories <a id="gear"></a>
+The right add-ons might cost 10-20% what your bike cost, but make it 10x more useful. Understanding the types of gear and accessories – let alone specific models – can be overwhelming.
+
+Before I e-biked, I lived out of a backpack while in+around the city. Getting that weight off of me and onto the bike while in transit has been a huge improvement. The options for letting the bike roll things along with you – from "a purse" up to "several suitcases" – are worth exploring.
 
 ### Racks, Baskets <a id="racks-baskets"></a>
-- topeak rack
-- tern market basket
-- tern holdem basket
+For carrying substantial weight or bulk, a back-wheel rack is the platform you build on. Front baskets/racks also range in size, and can significantly add to your carrying capacity.
+
+- my VanMoof's [front][vanmoof front basket] and [rear racks][vanmoof rear carrier] let me roll [2 large panniers and a tote bag along with me](#pov-moving-house)
+- my Tern has a super heavy duty ["Atlas" rack][tern atlas rack] that can hold 2 [panniers][tern bucketload panniers] as well as [a giant Market Basket][tern market basket]; I also put a smaller ["holdem basket"][tern holdem basket] on the front, for [maximum grocery capacity](#pov-grocery-runs).
+- I got great use out of a [Topeak "Explorer" rack][topeak explorer rack] on my main non-electric bike (if not buying from the same brand that made your bike, you have to check a little more that things are compatible).
 
 ### Bags <a id="bags"></a>
+There are a lot of incredible bags you can put on your bike. Panniers are the workhorses, but [Revelate] in particular offers dozens of bag shapes you can put basically anywhere else on your bike based on where they fit and how much capacity you want:
+
+![Revelate image of a dirty touring bike with may bags attached all over](https://user-images.githubusercontent.com/465045/110191019-79917480-7df4-11eb-9b2a-44f7b6a64135.png)
+*this is the bike version of SUV commercials that show ridiculous off-roading the average SUV-owner will never do*
+
+I bought 1 (or [6][revelate feedbag]) of nearly every bag they offer, and typically mix-and-match which bags make the most sense on which bikes for a given ride.
+
+Getting weight off of you (esp. your back!) and onto the bike – where it just rolls – is an amazing part of getting around by bike (as opposed to walking or other transit modes where you may sometimes wind up standing).
 
 #### Panniers <a id="panniers"></a>
 Panniers are bags you can attach to a rack on the back of your bike, and are a great way to haul stuff by bike:
@@ -444,7 +458,7 @@ Panniers are bags you can attach to a rack on the back of your bike, and are a g
 
 I've tested a few kinds:
 - [Ortlieb Back-Roller Classics] ($190/pair, 40L ea) are [a well-regarded set][wirecutter-ortlieb] that I've had the best experience with.
-- I have [Tern-brand panniers][tern-bucketload-panniers] ($200/pair, 24L ea) for [my Tern](#q9-review), and they work well.
+- I have [Tern-brand panniers][tern bucketload panniers] ($200/pair, 24L ea) for [my Tern](#q9-review), and they work well.
 - I ordered [VanMoof panniers][vanmoof-small-panniers] (€78/pair, 18L ea) for [my VanMoof](#x3-review), but they haven't arrived yet, and the Ortliebs fit and work well (and are larger), so I'm not sure I'll need them.
 - I also have a set of [Banjo Brothers Market Panniers] ($120/pair, 24L ea) that I've never really gotten in to using.
 - Finally, I got [this backpack that converts to a pannier][backpack-pannier] ($180, 30L), and it's been very useful.
@@ -483,6 +497,7 @@ I've also thrown [party][amzn party light] [lights][amzn party light 2] and [whe
 ### Misc. Accessories <a id="misc-accessories"></a>
 - Bells: [this $6 Amazon bell][amzn bell] has worked well for me 3x. I also got [a Spurcycle][spurcycle-bell] ($49) after hearing that it is the best, but I think I prefer the Amazon one 🤷🏼‍♂️.
 - Mirrors: [this handlebar-mounted rear-view mirror][amzn mirror] has served me well. I couldn't get [this one][amzn mirror 2] tight enough using its rubber spacers.
+- Hand Pump: [this one][amzn pump] is super compact + light and contains a hose w/ presta and schrader nozzles
 - Kickstand: [this two-legged style of kickstand][amzn kickstand] is sturdier and easier to deal with
 
 ### Gloves <a id="gloves"></a>
@@ -639,7 +654,9 @@ horns are loud
 
 [Ortlieb Back-Roller Classics]: https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair
 [wirecutter-ortlieb]: https://www.nytimes.com/wirecutter/reviews/best-bike-rack-basket-panniers/#a-tough-as-nails-gear-hauler-ortlieb-back-roller-classic
-[tern-bucketload-panniers]: https://www.ternbicycles.com/us/accessories/472/bucketload-pannier
+[tern bucketload panniers]: https://www.ternbicycles.com/us/accessories/472/bucketload-pannier
+[tern holdem basket]: https://www.ternbicycles.com/us/accessories/471/hold-em-basket
+[tern market basket]: https://www.ternbicycles.com/us/accessories/471/market-basket
 [vanmoof-small-panniers]: https://www.vanmoof.com/shop/en_nl/vanmoof-rockbros-pannier-bag-black
 [Banjo Brothers Market Panniers]: https://www.amazon.com/gp/product/B003D4GS74/
 [backpack-pannier]: https://www.amazon.com/gp/product/B07Q26854B/
@@ -702,3 +719,6 @@ horns are loud
 [Quad Lock]: https://www.quadlockcase.com/
 
 [r/vanmoof]: https://www.reddit.com/r/VanMoof/
+[tern atlas rack]: https://www.ternbicycles.com/us/tech/471/atlas-v-rack
+[topeak explorer rack]: https://www.topeak.com/us/en/products/247-MTB-&-700C-Touring-Racks/151-EXPLORER-(DISC)-(W--SPRING)
+[Revelate]: https://revelatedesigns.com/
