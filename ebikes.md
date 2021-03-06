@@ -60,11 +60,15 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Heated Vests](#heated-vests)
     - [Heated Socks](#heated-socks)
     - [Hand Warmers](#hand-warmers)
-  - [Padded Shorts](#padded-shorts): [good all-around active shorts w/ pockets][amzn padded shorts]
+  - [Padded Shorts](#padded-shorts): [good all-around active shorts w/ pockets][amzn BALEAF shorts]
 - [Documenting Rides](#documenting-rides)
   - [Strava](#strava): robust recording app (can resume after phone crashes), good small-circle social network, good open data posture
   - [Gopro](#gopro): good action cameras, hardware+software UX sometimes rough, only brand I've tried
-  - [Post-Processing Videos](#post-processing): [external SSDs](#ssds), [512GB micro-SIM](#sim), [Wasabi Cloud Storage](#wasabi), [VFX suites](#vfx)
+  - [Post-Processing Videos](#post-processing):
+    - [External SSDs](#ssds)
+    - [512GB micro-SIM](#sim)
+    - [Wasabi Cloud Storage](#wasabi)
+    - [VFX suites](#vfx)
 - [Favorite Rides](#favorite-rides)
 - [Proselytization](#proselytization)
   - [War on Cars](#war-on-cars)
@@ -169,7 +173,7 @@ The most obvious benefit of speed is that it lets you get from A to B faster (or
 
 [Class 1 e-bikes][ebike-classes] provide a pedal-assist up to 20mph; this lets casual riders (who normally top out at 12-15mph) play in the 15-20mph range and, as with [the "safety" angle](#safety-speed), that ≈30% difference actually makes for a qualitatively different experience. I consistently pass more cars than pass me now (except *sometimes* if I'm along the West Side Highway for long enough 😂). It's pretty hard to go 15-20mph in a car for very long in urban environments, so for a large class of trips.
 
-This is a brand new, developing mode of transportation that changes the basic math of transportation in cities; my [Ride Hall of Fame][ride-hall-of-fame TODO] has some examples and discussion of this.
+This is a brand new, developing mode of transportation that changes the basic math of transportation in cities; [my "Favorite Rides" section](#favorite-rides) has some examples and discussion of this.
 
 ### Cost <a id="cost"></a>
 On average, [a new car in the US costs $40k][new-car-cost]; [owning+operating a car costs $800/month][car-cost-800-mo].
@@ -200,7 +204,7 @@ Taking up less space also means you can bring your bike with you on other modes 
 #### Bike vs. Car Storage <a id="bike-vs-car-storage"></a>
 A critical area where American cities fail in enabling biking – and especially e-biking – is providing secure bike parking infrastructure.
 
-[Oonee][oonee] (pronounced "uni") is an NYC-based startup I'm obsessed with that operates [phone-unlocked pods near transit where a dozen bikes can be stored][oonee-pod], and is piloting ["mini" pods that replace single-car parking spots w/ secure storage of 6-10 (e-)bikes][oonee-mini].
+[Oonee][oonee] (pronounced "uni") is an NYC-based startup I'm obsessed with that operates [phone-unlocked pods near transit where a dozen bikes can be stored][oonee pod], and is piloting ["mini" pods that replace single-car parking spots w/ secure storage of 6-10 (e-)bikes][oonee mini].
 
 For comparison, here are some examples of bike parking in other countries that would be a nightmare if replaced with car-parking:
 
@@ -233,6 +237,7 @@ E-bikes can replace cars for a surprising variety of cargo-hauling tasks:
 
 #### Groceries, Bulk Items <a id="groceries"></a>
 There is a small (but growing), dedicated group of people that love to show off the things they haul on their (e-)bikes, that I recommend checking out (images link to tweets):
+
 [![Tern GSD with a huge amount of groceries on the front and back](https://user-images.githubusercontent.com/465045/109440506-854df700-7a00-11eb-8474-d96342f7828c.png)
 ](https://twitter.com/CourtneyCyclez/status/1353444517580578826)
 
@@ -386,7 +391,7 @@ For example, [here is someone's route up Manhattan's West Side Highway, looping 
 [![Screenshot of a "Ride with GPS" route, showing a map view, elevation over distance, and summary statistics](https://user-images.githubusercontent.com/465045/110040762-4cb86100-7d11-11eb-8728-96871c71d024.png)][rwgps-bridge-loop]
 
 #### "mellow bike maps" <a id="mellow-bike-maps"></a>
-Inspired by [the Chicago "mellow bike map"][mellow-bike-chicago], I made a ["mellow bike Westchester" Google map][mellow-bike-westchester while staying up there for a few weeks and trying to plan rides (for myself and others less experienced, where it was extra important not to accidentally end up on no-shoulder 45mph roads):
+Inspired by [the Chicago "mellow bike map"][mellow-bike-chicago], I made a ["mellow bike Westchester" Google map][mellow-bike-westchester] while staying up there for a few weeks and trying to plan rides (for myself and others less experienced, where it was extra important not to accidentally end up on no-shoulder 45mph roads):
 
 [![Screenshot of Google map of greater Westchester County, NY, with streets color-coded by bike-friendliness](https://user-images.githubusercontent.com/465045/110040245-78871700-7d10-11eb-93fd-e64988be65c9.png)][mellow-bike-westchester]
 
@@ -445,7 +450,7 @@ I've tested a few kinds:
 - Finally, I got [this backpack that converts to a pannier][backpack-pannier] ($180, 30L), and it's been very useful.
 
 #### Cockpit Bags <a id="cockpit-bags"></a>
-I love [Revelate's "Mountain Feedbags"][revelate-feedbag]; I've put a pair on most of my bikes:
+I love [Revelate's "Mountain Feedbags"][revelate feedbag]; I've put a pair on most of my bikes:
 
 ![Biking on 6th Ave with battery in feedbag charging phone mounted on handlebars](https://user-images.githubusercontent.com/465045/110157461-31ebf800-7db6-11eb-85e2-cde1656df909.png)
 
@@ -694,3 +699,6 @@ horns are loud
 [fcp]: https://www.apple.com/final-cut-pro/
 
 [LRU cache]: https://en.wikipedia.org/wiki/Cache_replacement_policies#Least_recently_used_(LRU)
+[Quad Lock]: https://www.quadlockcase.com/
+
+[r/vanmoof]: https://www.reddit.com/r/VanMoof/
