@@ -53,6 +53,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Back-Rack / Seat Bags](#back-bags): medium bags on top of back rack or behind+underneath seat
   - [Phone Mounts](#phone-mounts): phone mounted up front (e.g. w/ turn-by-turn directions) is surprisingly useful; I use [Quad Lock].
   - [Lights](#lights): [front][amzn cygolite metro plus], [rear][amzn cygolite hotrod], [party][amzn party light], [Vont 'Pyro' (set)][amzn vont pyro light], [KNOG (set)][amzn knog lights]
+  - [Locks](#locks): [Kryptonite U-lock + cable][amzn kryptonite evolution set] (medium weight, decent security), [OnGuard U-Lock][amzn onguard] (lighter / more clearance but weaker), [OTTO cable lock] (compact+light extra security layer)
   - [Misc. Accessories](#misc-accessories): [bell][amzn bell], [mirror][amzn mirror], [kickstand][amzn kickstand], [hand pump][amzn pump]
   - [Gloves](#gloves): [padded gloves][amzn MOREOK gloves], [light but warm winter gloves][Brooks gloves]
   - [Rain Gear](#rain-gear): [Clever Hoods] are popular + good
@@ -131,6 +132,11 @@ The automatic gear shifting weirded me out at first (especially because I was te
 - The gears shift based on your speed (not cadence, or torque).
   - In the beginning I got frustrated not knowing why it wasn't shifting, or when it would, as I spun the pedals or slowed toward a stop up a hill.
   - I spent some time in the app micro-managing what speed it would shift into which gear at. After a bunch of thrashing, I think I ended up back at almost exactly the factory defaults 😂 (having also learned the glory of the turbo button).
+
+#### Internal Locking <a id="x3-internal-locking"></a>
+My VanMoof X3 has a lock inside the bike, which is a cool feature. You engage it by pushing a button on the frame, and disengage it from the app on your phone.
+
+It doesn't stop someone from picking the bike up and throwing it in the back of a truck, but the bike does make an alarm sound if moved while locked, and VanMoof has a few other forms of DRM on that hopefully make them less attractive to thieves.
 
 #### Reliability / Shop Proximity <a id="x3-reliability"></a>
 A common refrain on [r/vanmoof] is that you should be prepared to take it to the shop for tune-ups or major issue troubleshooting.
@@ -483,7 +489,7 @@ Having my phone mounted up front on my handlebars has been surprisingly useful. 
 
 When getting started, you're mostly riding in areas you're less familiar with. Having the map handy helps to not feel lost or get lost, as well as to e.g. find detours if a road doesn't feel safe.
 
-I've exclusively used Quad Lock handlebar phone mounts ([the Wirecutter's choice][wirecutter-quadlock]) and associated phone cases. They are good products, though a bit pricier than I'd expect (e.g. $60 for ["out front" mount][quadlock-out-front-mount], $10 for [a black plastic "lever"][quadlock-lever] to replace the blue one that it comes with, $30 for [a compatible phone case][quadlock-pixel-5-case]). I still struggle to find the right angle to rotate the phone into the mount; I expect I'll get better at it over time. One-hand releasing is easy and convenient.
+I've exclusively used [Quad Lock] handlebar phone mounts ([the Wirecutter's choice][wirecutter-quadlock]) and associated phone cases. They are good products, though a bit pricier than I'd expect: $60 ["out front" mount][quadlock-out-front-mount], $10 [black plastic "lever"][quadlock-lever] (to replace the included blue one), $30 for [a compatible phone case][quadlock-pixel-5-case] ⟹ $100/bike, and I've outfitted 5 bikes at this point! One-hand releasing is easy and convenient, but getting the right angle to rotate the phone into the mount still takes me a minute (I expect I'll get better at that over time).
 
 ### Lights <a id="lights"></a>
 You want a white "headlight" facing forward and a red taillight facing back. There are many options and they're mostly all good. Here are some I've used and like:
@@ -493,6 +499,27 @@ You want a white "headlight" facing forward and a red taillight facing back. The
 - [KNOG (set)][amzn knog lights] ($): front+rear, very convenient; plug lights directly in to any USB-A port to charge, eacy to clip them to things. Good backups to keep in [a bag](#cockpit-bags)
 
 I've also thrown [party][amzn party light] [lights][amzn party light 2] and [wheel lights][amzn wheel lights] on bikes.
+
+### Locks <a id="locks"></a>
+There's no substitute for [secure bike parking infrastructure](#bike-vs-car-storage), but some locks I use that I think are basically good enough for occasional, short, daytime outdoor parking in NYC:
+- [Kryptonite U-lock + Cable][amzn kryptonite evolution set]: medium weight, decent security
+- [OnGuard U-Lock][amzn onguard]: lighter / more clearance but weaker
+- [OTTO cable lock]: compact+light extra security layer, easy to keep a spare in a [tube bag](#top-tube-bags).
+
+Other lock systems worth noting:
+- [ABUS frame locks] stay on the bike and seem like a convenient and secure option
+- [VanMoofs](#x3-review) have [an internal lock](#x3-internal-locking) that provides added security.
+- [The Wirecutter has a more comprehensive review of the bike lock market][wirecutter bike locks].
+
+People that have to lock bikes outside in cities can use stronger locks – like [Kryptonite's "New York Fahgettaboudit" line][amzn kryptonite new york] – and [heavy chains][kryptonite chain]. However, these are heavy, and [can still be cut][twitter vanmoof theft] by thieves with angle-grinders and time (especially overnight, having observed bikes locked in the same place every night).
+
+Bike theft is clearly organized crime in many cities, but is not something law enforcement seems to spend much energy on. Increasing cooperation between [national bike registries][bike index], [bike insurers](#insurance), and bike- and lock-manufacturers (adding location-tracking to bikes and even [sending their own teams to find them][vanmoof bike hunters]) will hopefully improve this in the future.
+
+#### Insurance <a id="insurance"></a>
+A friend whose family e-bikes in Jersey City recommends [Velosurance]:
+> I fear theft but I purchased an insurance policy from Velosurance. This helps me sleep at night; as long as I've locked the bike to a fixed object, I'm covered. You should think about it.
+
+Plugging in my bikes' info, the monthly quotes are around 1/300th the bike's cost, or 4% / 1/25th per year. That's cheaper than I expected! If I end up frequently needing to leave bikes locked outside / out of sight, I will probably get this.
 
 ### Misc. Accessories <a id="misc-accessories"></a>
 - Bells: [this $6 Amazon bell][amzn bell] has worked well for me 3x. I also got [a Spurcycle][spurcycle-bell] ($49) after hearing that it is the best, but I think I prefer the Amazon one 🤷🏼‍♂️.
@@ -722,3 +749,17 @@ horns are loud
 [tern atlas rack]: https://www.ternbicycles.com/us/tech/471/atlas-v-rack
 [topeak explorer rack]: https://www.topeak.com/us/en/products/247-MTB-&-700C-Touring-Racks/151-EXPLORER-(DISC)-(W--SPRING)
 [Revelate]: https://revelatedesigns.com/
+
+[amzn kryptonite evolution]: https://www.amazon.com/dp/B06XCP8Y8S/
+[amzn kryptonite cable]: https://www.amazon.com/dp/B000NORUJW/
+[amzn kryptonite evolution set]: https://www.amazon.com/dp/B06XZT8KZ1/
+[amzn onguard]: https://www.amazon.com/gp/product/B008OHBE8S/
+
+[wirecutter bike locks]: https://www.nytimes.com/wirecutter/reviews/best-bike-lock/
+[bike index]: https://bikeindex.org/stolen
+[amzn kryptonite new york]: https://www.amazon.com/dp/B06XCMWW9H/
+[kryptonite chain]: https://www.backcountry.com/kryptonite-new-york-fahgettaboudit-chain-1410-and-ny-disc-lock
+[twitter vanmoof theft]: https://twitter.com/TheJakeSchmidt/status/1362549515488800768
+[vanmoof bike hunters]: https://www.vanmoof.com/shop/en_it/bikehunters
+[Velosurance]: https://velosurance.com/
+[ABUS frame locks]: https://mobil.abus.com/uk/on-road/Locks/Frame-Locks
