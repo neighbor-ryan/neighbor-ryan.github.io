@@ -113,8 +113,7 @@ The COVID "bike boom" hit me hard:
   - Market moving so quickly; so many fascinating takes on what an "electric bike" is and can be.
   - Bought [an electric roadbike][Creo] and a [VanMoof X3][X3] (all-purpose city e-bike).
 
-[![Home office with 2 bikes hanging on walls and one bike folded on ground](https://p199.p4.n0.cdn.getcloudapp.com/items/OAuWd8eA/3f6c62d2-cd07-4df4-bb86-71d5164c4715.jpg?v=81611949ce3a4f2c6d934b673464e063)](https://share.getcloudapp.com/OAuWd8eA)
-TODO: pic w/ all 5 bikes
+![Home office with 2 bikes hanging on walls and 3 ebikes (including one folded) on the ground](https://user-images.githubusercontent.com/465045/110837435-35c4c200-826f-11eb-9e0b-204e10767c34.png)
 
 ## E-bike Inventory <a id="my-ebikes"></a>
 My current e-bikes are:
