@@ -66,11 +66,10 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Heated Vests](#heated-vests)
     - [Heated Socks](#heated-socks)
     - [Hand Warmers](#hand-warmers)
+  - [Action Cameras](#action-cameras): I use a [GoPro Hero 9 Black] in a [chest harness][amzn gopro kit] to [film rides][washington bridge tweet]
   - [Padded Shorts](#padded-shorts): [good all-around active shorts w/ pockets][amzn BALEAF shorts]
 - [Documenting Rides](#documenting-rides)
   - [Strava](#strava): robust recording app (can resume after phone crashes), good small-circle social network, good open data posture
-  - [Gopro](#gopro): good action cameras, hardware+software UX sometimes rough, only brand I've tried
-  - [Camera Mounts](#camera-mounts): TODO
   - [Post-Processing Videos](#post-processing): dealing with videos afterward is its own adventure
     - [External SSDs](#ssds): [1TB][amzn 1TB SSD]/[2TB][amzn 2TB SSD] Samsungs, palm-sized
     - [512GB micro-SIM](#sim): never worry about SIM-card capacity in-camera (there's enough to worry about when the data comes off the camera)
@@ -494,7 +493,7 @@ I love [Revelate's "Mountain Feedbags"][revelate feedbag]; I've put a pair on mo
 
 ![Biking on 6th Ave with battery in feedbag charging phone mounted on handlebars](https://user-images.githubusercontent.com/465045/110157461-31ebf800-7db6-11eb-85e2-cde1656df909.png)
 
-Between them, I'll carry a battery that charges my phone while riding (and [sometimes other fun lights](https://user-images.githubusercontent.com/465045/110158221-17fee500-7db7-11eb-96bf-cd8e55165742.png), [GoPro batteries](#gopro), etc.), a glasses case, tissues/chapstick/[hand-warmers](#hand-warmers)/snacks ("it's like a deli up here", someone who borrowed my bike said recently), airpods, extra masks, [resealable zip ties][zip ties 8"], etc. They are easily opened and closed with one hand, work on pretty much any bike, and are easy to transfer b/t bikes). Very useful.
+Between them, I'll carry a battery that charges my phone while riding (and [sometimes other fun lights](https://user-images.githubusercontent.com/465045/110158221-17fee500-7db7-11eb-96bf-cd8e55165742.png), [GoPro batteries](#camera-batteries), etc.), a glasses case, tissues/chapstick/[hand-warmers](#hand-warmers)/snacks ("it's like a deli up here", someone who borrowed my bike said recently), airpods, extra masks, [resealable zip ties][zip ties 8"], etc. They are easily opened and closed with one hand, work on pretty much any bike, and are easy to transfer b/t bikes). Very useful.
 
 #### Top-Tube Bags <a id="top-tube-bags"></a>
 [The Revelate Mag-Tank 2000][revelate mag-tank 2000] (and earlier/smaller [Mag-Tank][revelate mag-tank]) are great bags that can sit on top of your top tube and hold lots of good stuff. Sometimes I'll have one up front and another at the base of my seat, and between them store wallet/keys, [cable lock][OTTO cable lock], full flat-change kit (tire levers, spare tube, CO₂ cartridge, multi-tool, patch-kit), etc. They're also easily openable/closeable with one hand, and the magnetic clasp is nice.
@@ -591,11 +590,34 @@ This winter I discovered heated gloves, and they are amazing (though also less n
 Pushing buttons on the vest lets you control your core temperature across a ≈50ºF range without carrying bulky layers, and the 4 pockets are really useful. Highly recommended.
 
 #### Heated Socks <a id="heated-socks"></a>
-- [Binnice New Heated Socks Winter Electric Rechargeable 3 Heating Settings Thermal Sock Foot Warmer for Men and Women](https://www.amazon.com/gp/product/B08DKR47QP/) ($): just ordered these, but they were the top pick of an Amazon-commissioned "best heated socks" article.
-- [Jomst 5000mAh Heated Socks for Men Women up to 8-25 Hours of Heating 3 Heating Settings Rechargeable Electric Heated Socks Winter Warm Socks for Skiing, Camping, Running, Fishing](https://www.amazon.com/gp/product/B08GK7PVFJ/) ($38); these didn't seem to work. The battery turned on and seemed responsive to mode-toggling, but I never felt any heat, even on "high", after wearing them 5x.
+I've bought heated socks from [Binnice](https://www.amazon.com/gp/product/B08DKR47QP/) ($36) and [Jomst](https://www.amazon.com/gp/product/B08GK7PVFJ/) ($38). In both cases, I have barely been able to feel the heat they generate, even on the "high" settings. It's possible they're still helping, but a bit strange since the [gloves](#heated-gloves)/[vests](#heated-vests) I've tried are unmistakably warm.
 
 #### Hand Warmers <a id="hand-warmers">
 I have [a 40-pair box of disposable hand warmers][hand-warmers-box], and keep 3 pairs in a side pocket of my [handlebar bags](#cockpit-bags) when it's cold out (just in case). They're a good fail-safe if [heated gloves](#heated-gloves) or [socks](#heated-socks) aren't enough (or you didn't think you'd need them). Supposedly you can "recharge" them with boiling water, so as to avoid single-use waste, though I've not tried that.
+
+### Action Cameras <a id="action-cameras"></a>
+I film basically all my rides. It's mostly a nice-to-have safety thing (though potentially only useful if something truly horrible happens 😔). Some of my rides feel like incredible ways to see the city, and [I am working on processing+sharing them](#post-processing) in ways that convey that. It's also useful for [mundane documentation of road conditions][SCF 10th st pothole], [filing 311 tickets][hoboken xwalk tweet], etc.
+
+I use a [GoPro Hero 9 Black], mounted in a chest harness that came in [this $30, 50pc gear kit][amzn gopro kit]. It's the latest GoPro, and seems noticeably better than the [Hero 8][GoPro Hero 8 Black] I had previously; it has a bigger battery, and supposedly better stabilization. Both are much better than the [Hero 5 Session][GoPro Hero 5 Session] I started with.
+
+#### Batteries <a id="camera-batteries"></a>
+I have ended up with 5 batteries and 2 2-battery chargers for each of my GoPros:
+
+![GoPro Hero 8 and 9 cameras and 5 batteries – including 2 2-battery chargers – for each](https://user-images.githubusercontent.com/465045/110830639-6dc80700-8267-11eb-855f-6f949a376f5d.png)
+(*[this 3x-USB-C cable][amzn 3xUSB-C cable] is handy*)
+
+I get ≈90mins of film time per battery at 1080p24, so swapping batteries on longer rides is normal.
+
+#### Camera Mounting <a id="camera-mounting"></a>
+I keep one of [these quick-release "J-hooks" on each camera][amzn j-hooks]:
+
+[![GoPro "quick-release" / "J-hook"](https://user-images.githubusercontent.com/465045/110822520-25a4e680-825f-11eb-9678-9a43923467c8.png)][amzn j-hooks]
+
+…and [a corresponding quick-release plate][amzn tripod adapter] anywhere that I need to mount them:
+
+[![quick-release plate with screws underneath](https://user-images.githubusercontent.com/465045/110822710-54bb5800-825f-11eb-9f05-45d5727e0fa4.png)][amzn tripod adapter]
+
+The chest harness already has this interface, but I have several tripods for stationary filming ([small][amzn small tripod], [large][amzn large tripod], [foldy][amzn foldy tripod]).
 
 ### Padded Shorts <a id="padded-shorts"></a>
 I often wear [BALEAF padded bike shorts][amzn BALEAF shorts] ($29); padded shorts seemed a little silly at first, but they're pretty good for biking but also misc other outdoor activities. I got some baggy swimsuit-style padded shorts and some spandex-y ones like this, and liked the latter better. The pockets on these are great as well. As it cooled down, I would wear them over tights.
@@ -606,11 +628,8 @@ TODO
 ### Strava <a id="strava"></a>
 TODO
 
-### Gopro <a id="gopro"></a>
-TODO
-
 ### Post-Processing Videos <a id="post-processing"></a>
-Videoing rides can generate huge amounts of data. My GoPro can shoot 4K @ 60FPS, but I learned the hard way to ratchet down to 1080p+24FPS. GoPro's cut shots into 4GB "chapters" (≈11mins at that resolution). My laptop's 1TB SSD could hold ≈45hrs of "low"-res video (if I had nothing else on it).
+When you start filming rides (cf. ["Action Cameras"](#action-cameras)), you'll quickly generate huge amounts of data. My GoPro can shoot 4K60, but I learned the hard way to ratchet down to 1080p24. GoPros cut shots into 4GB "chapters" (≈11mins at that resolution). My laptop's 1TB SSD could hold ≈45hrs of this "low"-res video (if I had nothing else on it).
 
 #### External SSDs <a id="ssds"></a>
 I started with [a 1TB external SSD][amzn 1TB SSD] and added [a 2TB][amzn 2TB SSD] later. These things are pretty incredible, they fit in your palm:
@@ -798,3 +817,19 @@ horns are loud
 [helmet passing 2]: https://www.bicycling.com/news/a25358099/drivers-give-helmet-cyclists-less-room/
 [streetsblog motorist helmets]: https://nyc.streetsblog.org/2020/01/28/op-ed-yes-gov-cuomo-car-helmets-could-save-lives/
 [douglas bike]: http://douglas.malnati.com/2020/08/21/hey-check-out-my-bike/
+
+[washington bridge tweet]: https://twitter.com/RunsAsCoded/status/1369745569120464903
+[amzn gopro kit]: https://www.amazon.com/gp/product/B01171X0UW/
+[GoPro Hero 9 Black]: https://gopro.com/en/us/shop/cameras/hero9-black/CHDHX-901-master.html
+[GoPro Hero 8 Black]: https://gopro.com/en/us/shop/cameras/hero8-black/CHDHX-801-master.html
+[GoPro Hero 5 Session]: https://www.amazon.com/GoPro-HERO5-Session-Waterproof-Digital/dp/B01LZTLCFX
+[amzn tripod adapter]: https://www.amazon.com/gp/product/B01BWDH7O0/
+[amzn j-hooks]: https://www.amazon.com/gp/product/B01N5OZYVU/
+[amzn gold tripod adapter]: https://www.amazon.com/gp/product/B00FI9VISQ/
+[amzn large tripod]: https://www.amazon.com/gp/product/B075ZHTHD5/
+[amzn small tripod]: https://www.amazon.com/gp/product/B081DYTR9J/
+[amzn foldy tripod]: https://www.amazon.com/gp/product/B081DYTR9J/
+[amzn 3xUSB-C cable]: https://www.amazon.com/gp/product/B08GY7FBHZ/
+
+[SCF 10th st pothole]: https://seeclickfix.com/issues/9320300#comment-29145140
+[hoboken xwalk tweet]: https://twitter.com/RunsAsCoded/status/1363511098562011137
