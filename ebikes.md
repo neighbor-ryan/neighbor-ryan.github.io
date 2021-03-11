@@ -524,7 +524,7 @@ I've also thrown [party][amzn party light] [lights][amzn party light 2] and [whe
 
 [You can have a lot of fun in this direction][douglas bike]:
 
-[![Image of bike with color-changing lights along wheels and frame](https://user-images.githubusercontent.com/465045/110817899-c2b15080-825a-11eb-85a5-fd81dfe48db8.png)][douglas bike]
+[![Image of bike with color-changing lights along wheels and frame](https://user-images.githubusercontent.com/465045/110819770-7d8e1e00-825c-11eb-8db7-9b454e9f1884.gif)][douglas bike]
 
 ### Locks <a id="locks"></a>
 There's no substitute for [secure bike parking infrastructure](#bike-vs-car-storage), but some locks I use that I think are basically good enough for occasional, short, daytime outdoor parking in NYC:
