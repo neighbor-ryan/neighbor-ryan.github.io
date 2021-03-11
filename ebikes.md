@@ -35,6 +35,10 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
   - [Safety](#safety)
     - [Riding on Sidewalks](#riding-on-sidewalks)
     - [Stopping at Stop Signs / Red Lights](#stopping-at-stops)
+    - [Braking](#braking): [Sheldon Brown on front brakes][front brakes]
+    - [Helmets](#helmets-safety): can't hurt, but often used to blame/criminalize cyclists for infrastructure/engineering problems
+    - [Lights](#lights-safety): the more the better, generally
+    - [Hi-Viz Clothing](#hi-viz): similar to helmets; good practice, but often discussed unfairly
   - [Route Planning](#route-planning)
     - [Street View](#street-view)
     - [Ride with GPS](#ride-with-gps)
@@ -66,6 +70,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
 - [Documenting Rides](#documenting-rides)
   - [Strava](#strava): robust recording app (can resume after phone crashes), good small-circle social network, good open data posture
   - [Gopro](#gopro): good action cameras, hardware+software UX sometimes rough, only brand I've tried
+  - [Camera Mounts](#camera-mounts): TODO
   - [Post-Processing Videos](#post-processing): dealing with videos afterward is its own adventure
     - [External SSDs](#ssds): [1TB][amzn 1TB SSD]/[2TB][amzn 2TB SSD] Samsungs, palm-sized
     - [512GB micro-SIM](#sim): never worry about SIM-card capacity in-camera (there's enough to worry about when the data comes off the camera)
@@ -365,13 +370,28 @@ I used to be more brazen about rolling through stops and lights, and I believe t
 
 Of course there's another argument for better cycling infrastructure here, it should not be so scary and dangerous. I think it's also good for cyclists to introspect about this dynamic, and how it may drive their choices.
 
-#### Helmets
+#### Braking <a id="braking"></a>
+[Sheldon Brown on front brakes][front brakes] is a good read; beginners are taught to be careful with the front brake (left hand), to avoid potentially going over the handlebars. As you get more comfortable riding, you should reincorporate the front brake for maximum stopping power.
+
+#### Helmets <a id="helmets-safety"></a>
+I always ride with a helmet, but I don't believe in forcing people to, chastizing them for not, or blaming them when a driver injures or kills them.
+
+Helmets are generally good for cycling safety, but they're generally not designed to protect against collisions with cars. Additionally, there is evidence ([1][helmet passing 1], [2][helmet passing 2]) that drivers pass helmet-wearing cyclists more dangerously.
+
+A lot of discourse around helmet-wearing involves blaming cyclists who are victims of bad infrastructure and negligent drivers; this distracts from discussion and action around the root issues.
+
+In particular, helmet mandates generally serve as ways to discourage and criminalize biking. [50%-70% of all traumatic brain injuries occur in car crashes][streetsblog motorist helmets]; arguably better policy is to require helmet for car occupants:
+
+[![Image of a helmet-less cyclist riding next to a helmet-wearing motorist, with caption: "½ of all serious injuries happen inside motor vehicles – if you drive a car, wear a helmet!"](https://user-images.githubusercontent.com/465045/110815854-ce037c80-8258-11eb-8f10-76bfaa82cd75.png)][motorist helmets]
+
+[Helmets are rare in the best cycling cultures][helmet amsterdam tweet]; they are a symptom of dangerous roads that should be addressed directly.
+
+See also: [discussion of specific helmets is in the "Gear" section](#helmets).
+
+#### Lights <a id="lights-safety"></a>
 TODO
 
-#### Lights
-TODO
-
-#### Hi-viz
+#### Hi-Viz Clothing <a id="hi-viz"></a>
 TODO
 
 ### Route Planning <a id="route-planning"></a>
@@ -492,13 +512,19 @@ When getting started, you're mostly riding in areas you're less familiar with. H
 I've exclusively used [Quad Lock] handlebar phone mounts ([the Wirecutter's choice][wirecutter-quadlock]) and associated phone cases. They are good products, though a bit pricier than I'd expect: $60 ["out front" mount][quadlock-out-front-mount], $10 [black plastic "lever"][quadlock-lever] (to replace the included blue one), $30 for [a compatible phone case][quadlock-pixel-5-case] ⟹ $100/bike, and I've outfitted 5 bikes at this point! One-hand releasing is easy and convenient, but getting the right angle to rotate the phone into the mount still takes me a minute (I expect I'll get better at that over time).
 
 ### Lights <a id="lights"></a>
-You want a white "headlight" facing forward and a red taillight facing back. There are many options and they're mostly all good. Here are some I've used and like:
+You want a white "headlight" facing forward and a red taillight facing backward. There are many options and they're mostly all good. Here are some I've used and like:
 - [CYGOLITE Metro Plus][amzn cygolite metro plus] ($46): right head-light
 - [CYGOLITE Hotrod][amzn cygolite hotrod] ($40): bright tail light
 - [Vont 'Pyro' (set)][amzn vont pyro light] ($14): front+rear, good+cheap
 - [KNOG (set)][amzn knog lights] ($): front+rear, very convenient; plug lights directly in to any USB-A port to charge, eacy to clip them to things. Good backups to keep in [a bag](#cockpit-bags)
 
-I've also thrown [party][amzn party light] [lights][amzn party light 2] and [wheel lights][amzn wheel lights] on bikes.
+I've also thrown [party][amzn party light] [lights][amzn party light 2] and [wheel lights][amzn wheel lights] on bikes:
+
+![bike with disco lights illuminating pavement around it](https://user-images.githubusercontent.com/465045/110817750-95fd3900-825a-11eb-8547-1e085421fb26.png)
+
+[You can have a lot of fun in this direction][douglas bike]:
+
+[![Image of bike with color-changing lights along wheels and frame](https://user-images.githubusercontent.com/465045/110817899-c2b15080-825a-11eb-85a5-fd81dfe48db8.png)][douglas bike]
 
 ### Locks <a id="locks"></a>
 There's no substitute for [secure bike parking infrastructure](#bike-vs-car-storage), but some locks I use that I think are basically good enough for occasional, short, daytime outdoor parking in NYC:
@@ -763,3 +789,12 @@ horns are loud
 [vanmoof bike hunters]: https://www.vanmoof.com/shop/en_it/bikehunters
 [Velosurance]: https://velosurance.com/
 [ABUS frame locks]: https://mobil.abus.com/uk/on-road/Locks/Frame-Locks
+[front brakes]: https://www.sheldonbrown.com/brakturn.html
+
+[@CarHelmets]: https://twitter.com/CarHelmets
+[motorist helmets]: https://colvilleandersen.medium.com/the-case-for-motorist-helmets-d1d6c4ae3ed2
+[helmet amsterdam tweet]: https://twitter.com/CarHelmets/status/1169663862133547008
+[helmet passing 1]: https://helmets.org/walkerstudy.htm
+[helmet passing 2]: https://www.bicycling.com/news/a25358099/drivers-give-helmet-cyclists-less-room/
+[streetsblog motorist helmets]: https://nyc.streetsblog.org/2020/01/28/op-ed-yes-gov-cuomo-car-helmets-could-save-lives/
+[douglas bike]: http://douglas.malnati.com/2020/08/21/hey-check-out-my-bike/
