@@ -507,14 +507,14 @@ Having my phone mounted up front on my handlebars has been surprisingly useful. 
 
 When getting started, you're mostly riding in areas you're less familiar with. Having the map handy helps to not feel lost or get lost, as well as to e.g. find detours if a road doesn't feel safe.
 
-I've exclusively used [Quad Lock] handlebar phone mounts ([the Wirecutter's choice][wirecutter-quadlock]) and associated phone cases. They are good products, though a bit pricier than I'd expect: $60 ["out front" mount][quadlock-out-front-mount], $10 [black plastic "lever"][quadlock-lever] (to replace the included blue one), $30 for [a compatible phone case][quadlock-pixel-5-case] ⟹ $100/bike, and I've outfitted 5 bikes at this point! One-hand releasing is easy and convenient, but getting the right angle to rotate the phone into the mount still takes me a minute (I expect I'll get better at that over time).
+I've exclusively used [Quad Lock] handlebar phone mounts ([the Wirecutter's choice][wirecutter-quadlock]) and associated phone cases. They are good products, though a bit pricier than I'd expect: $60 ["out front PRO" mount][quadlock-out-front-mount], $10 [black plastic "lever"][quadlock-lever] (you'd think you could just replace the included blue one for free…), $30 for [a compatible phone case][quadlock-pixel-5-case] ⟹ $100/bike, and I've outfitted 5 bikes at this point! One-hand releasing is easy and convenient, but getting the right angle to rotate the phone into the mount still takes me a minute (I expect I'll get better at that over time).
 
 ### Lights <a id="lights"></a>
 You want a white "headlight" facing forward and a red taillight facing backward. There are many options and they're mostly all good. Here are some I've used and like:
 - [CYGOLITE Metro Plus][amzn cygolite metro plus] ($46): right head-light
 - [CYGOLITE Hotrod][amzn cygolite hotrod] ($40): bright tail light
 - [Vont 'Pyro' (set)][amzn vont pyro light] ($14): front+rear, good+cheap
-- [KNOG (set)][amzn knog lights] ($): front+rear, very convenient; plug lights directly in to any USB-A port to charge, eacy to clip them to things. Good backups to keep in [a bag](#cockpit-bags)
+- [KNOG (set)][amzn knog lights] ($29): front+rear, very convenient; plug lights directly in to any USB-A port to charge, easy to clip them to things. Good backups to keep in [a bag](#cockpit-bags)
 
 I've also thrown [party][amzn party light] [lights][amzn party light 2] and [wheel lights][amzn wheel lights] on bikes:
 
