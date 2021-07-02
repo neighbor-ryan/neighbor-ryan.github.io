@@ -64,6 +64,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
   - [Winter Cycling](#winter-cycling-gear): easier+better than you think, $200 of gear solves cold down to ≈25ºF
     - [Heated Gloves](#heated-gloves): [my main pair][velazzio gloves], [another good pair][luwatt gloves], and [one that actually makes a women's size][volt gloves]
     - [Heated Vests](#heated-vests)
+    - [Pogies](#pogies)
     - [Heated Socks](#heated-socks)
     - [Hand Warmers](#hand-warmers)
   - [Action Cameras](#action-cameras): I use a [GoPro Hero 9 Black] in a [chest harness][amzn gopro kit] to [film rides][washington bridge tweet]
@@ -429,7 +430,7 @@ It starts at $2k, but I added:
 - VanMoof's 3yr theft+maintenance plan ($590); 
 - [front basket][vanmoof front basket] ($89), [back rack][vanmoof rear carrier] ($69)
 - 2x[handlebar-mounted "feed bags"][revelate feedbag] ($49ea), 1x["Jerry can" tube-top bag][revelate jerrycan] ($46)
-- [fleece-lined pogies] ($47) for toasty hands in below-freezing temps (I've only had it during winter months, so far)
+- [fleece-lined pogies][ODIER fleece] ($47) for toasty hands in below-freezing temps (I've only had it during winter months, so far)
 - [bungee cable set] ($14) for securing items in the front basket
 
 This $2k-$3k package should let you replace/improve a wide class of trips that you'd otherwise use other modes for. [See my more in-depth review below for more info](#x3-review).
@@ -588,6 +589,9 @@ This winter I discovered heated gloves, and they are amazing (though also less n
 
 Pushing buttons on the vest lets you control your core temperature across a ≈50ºF range without carrying bulky layers, and the 4 pockets are really useful. Highly recommended.
 
+#### Pogies <a id="pogies"></a>
+I started with [these neoprene ODIER's][ODIER neoprene] and found them to be a revelation. Later I upgraded to [these fleece ODIER's][ODIER fleece] and they are incredibly warm and nice. My hands always limit how cold I can be outside, and these completely solved that problem (I rode comfortably down to about 20℉; and other things start to limit me at that point).
+
 #### Heated Socks <a id="heated-socks"></a>
 I've bought heated socks from [Binnice](https://www.amazon.com/gp/product/B08DKR47QP/) ($36) and [Jomst](https://www.amazon.com/gp/product/B08GK7PVFJ/) ($38). In both cases, I have barely been able to feel the heat they generate, even on the "high" settings. It's possible they're still helping, but a bit strange since the [gloves](#heated-gloves)/[vests](#heated-vests) I've tried are unmistakably warm.
 
@@ -720,7 +724,6 @@ horns are loud
 
 [vanmoof rear carrier]: https://www.vanmoof.com/shop/en_us/accessories/x3-rear-carrier
 [vanmoof front basket]: https://www.vanmoof.com/shop/en_us/accessories/x3-front-waitress-carrier
-[fleece-lined pogies]: https://www.amazon.com/gp/product/B08M41KGZ8/
 [bungee cable set]: https://www.amazon.com/gp/product/B00S7HKJ1I/
 
 [Ortlieb Back-Roller Classics]: https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair
@@ -832,3 +835,6 @@ horns are loud
 
 [SCF 10th st pothole]: https://seeclickfix.com/issues/9320300#comment-29145140
 [hoboken xwalk tweet]: https://twitter.com/RunsAsCoded/status/1363511098562011137
+
+[ODIER neoprene]: https://www.amazon.com/gp/product/B077SY7J6F/
+[ODIER fleece]: https://www.amazon.com/gp/product/B08M41KGZ8/
