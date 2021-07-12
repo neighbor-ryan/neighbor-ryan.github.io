@@ -11,15 +11,15 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
 ## Contents <a id="toc"></a>
 - [Background](#background): bike-sharer → bike-owner → e-bike maniac
 - [My e-bikes](#my-ebikes)
-  - [VanMoof X3](#x3-review): great all-around / starter e-bike
-  - [Brompton Electric](#e-brompton-review): smallest fold, most portable, also great all around
+  - [VanMoof X3](#x3-review): great all-around / starter / city e-bike
+  - [Brompton Electric](#e-brompton-review): smallest fold, most portable, great all around
   - [Tern Vektron Q9](#q9-review): large cargo capacity, folds up for easy storage
   - [Specialized Creo Comp Carbon](#creo-review): light, fast, long-range
 - [Reflections](#revelations)
-  - [Speed ⟹ Safety](#speed-safety): higher top speed (and acceleration) makes a big difference in traffic
-  - [Speed ⟹ Inclusion](#speed-inclusion): a lot more people can get around quickly+comfortably
-  - [Speed ⟹ Convenience](#speed-convenience): as fast as cars in urban environments; solves congestion and parking
-  - [Space](#space): high mobility per unit space; mixes well with other modes
+  - [Speed ⟹ Safety](#speed-safety): higher top speed – and acceleration – make a big difference in traffic
+  - [Speed ⟹ Inclusion](#speed-inclusion): a lot more people can get around quickly+comfortably on ebikes
+  - [Speed ⟹ Convenience](#speed-convenience): ebikes are as fast as cars in urban environments; can solve congestion and parking issues
+  - [Space](#space): high mobility per unit space; combine with other modes (trains, buses, ferries)
     - [Bike vs. Car Storage](#bike-vs-car-storage): parking takes too much space in cities, and is heavily subsidized; bike parking is 5-10x more efficient
   - [Cost](#cost): the average car cost could fund e-bikes for 10 families
   - [Cargo](#cargo):
@@ -181,46 +181,97 @@ I take it to Central Park pretty regularly, with picnic/Aerobie gear:
 ### Brompton Electric <a id="e-brompton-review"></a>
 I got this one most recently from [Redbeard] in Brooklyn. Bromptons are a classic/famous British folding bike, and they did a decent job engineering a motor and battery onto the front.
 
-**Pros**:
-- most compact fold of all bikes (electric or not!); relatively portable
-- half-folded "shopping cart" mode can be pushed around in stores
-- surprisingly nice ride / feels like a normal bike (despite looking a bit like a clown bike, esp. due to small 16" wheels)
-- decent extra battery story for increased range; currently my 2nd highest range ebike (after the [Creo](#creo-review)) as a result
-- great mix of fun/whimsy with real transportation / portability / overall utility
+![Brompton Electric, with lights around the frame, at ferry terminal as boat comes in](https://user-images.githubusercontent.com/465045/125362410-db329400-e33c-11eb-88b6-2f70175dc69b.png)
 
-**Cons**:
-- Expensive ($4k) for relatively little amount of bicycle/machine. They're well-made, so I felt it was worth it (once I'd covered other ebike use cases), but the price point is simply too high to recomend to most people.
-- Supply chain has been especially backed up since COVID
+#### Pros
+- Most compact fold of all bikes (electric or not!); relatively portable ([fits in an airplane overhead bin!](https://www.google.com/search?q=brompton+overhead+bin&tbm=isch)).
+- [Half-folded "shopping cart" mode can be pushed around in stores](https://www.youtube.com/watch?v=m91tfT4AMLY).
+- Surprisingly nice ride / feels like a normal bike (despite looking a bit flimsy/silly due to small 16" wheels).
+- Decent extra battery story for increased range; currently my 2nd highest range ebike (after the [Creo](#creo-review)) as a result.
+- Great mix of fun/whimsy with real transportation / portability / overall utility.
+
+#### Cons
+- Expensive ($3800) for relatively small amount of bicycle/machine. They're well-made, so I felt it was worth it (once I'd covered other ebike use cases), but the price point is simply too high to be relevant to most people I talk to.
+- Supply chain has been especially backed up since COVID.
+- Still a bit heavy to lug around (32lbs just the bike, 38 w/ battery, 40 with a rack).
+
+#### Gallery
+Brompton Electric, folded, next to a much larger/heavier throttle e-bike:
+![Brompton Electric, folded, next to a much larger/heavier throttle e-bike](https://user-images.githubusercontent.com/465045/125362721-5dbb5380-e33d-11eb-8e71-e1c9009a2fa3.png)
+
+On [a BikeJC light-up ride](https://www.instagram.com/p/COqyBwPjZyP/):
+![Cockpit view of Brompton with festive lights on frame](https://user-images.githubusercontent.com/465045/125363177-2ac58f80-e33e-11eb-8635-31edc4e63a18.png)
+
+Folded into "shopping cart" mode inside a CVS:
+![Brompton, folded in "shopping cart" mode inside a CVS](https://user-images.githubusercontent.com/465045/125362821-8ba09800-e33d-11eb-8bbb-48303f047e4b.png)
+
 
 ### Tern Vektron Q9 <a id="q9-review"></a>
 This was my first ebike, from [Bfold], a delightful bike store in the East Village (David was really helpful at talking me through the market when I was starting from zero).
 
-**Pros**:
+I also test rode a Vektron at [Propel][Propel BK] in Brooklyn, who had a very slick appointment-booking flow and beautiful inventory of Reise & Muller bikes. [Their YouTube channel][Propel YouTube] is also an excellent source of ebike info; [here's their review of the Vektron](https://www.youtube.com/watch?v=FWhOQxky0lo).
+
+![Tern Vektron Q9 loaded up with plants at a plant store](https://user-images.githubusercontent.com/465045/125362097-4e87d600-e33c-11eb-977f-3db950ebee0a.png)
+
+#### Pros
 - High-quality + rugged; Bosch motor system is premium.
-- Folding, cargo, and electric are hard to find in one bike; I'm not aware of another model that comes close to the Vektron at nailing all 3.
+- Folding, cargo, and electric are hard to find in one bike
+  - The Vektron is the only model I know that does a good job at all 3.
+  - See ["Grocery Runs" section](#pov-grocery-runs)
+- Nice folded+rolling mode ([demo video](https://youtu.be/mi_3ZMbkufU?t=2057))
+- One size fits most (4'9"–6'5"); good [telescoping seat post](https://youtu.be/mi_3ZMbkufU?t=515), [adjustable handlebar/stem system](https://youtu.be/mi_3ZMbkufU?t=605)
 
-**Cons**:
-- Expensive ($3500); 
-- e
+#### Cons
+- Expensive ($3200): it's obviously a heavy-duty machine, so it's clearer what you are paying for, but that's still sticker-shock-inducing for most people
+- Heavy (49lbs): again, this is understandable given its sturdy build and cargo-hauling emphasis, but you don't want to carry it up stairs
+- Still large when folded: it folds in half (as opposed to the Brompton's thirds), folded footprint is more "corner of room" than "under desk".
+- A minor annoyance is that the battery recharge socket is blocked by the frame, so you basically have to take the battery off of the frame to charge it. It's pretty easy to do though and not a big deal, to me.
 
-I also test rode a Vektron at [Propel][Propel BK] in Brooklyn, who had a very slick appointment-booking flow and beautiful inventory of Reise & Muller bikes. [Their YouTube channel][Propel YouTube] is also an excellent source of ebike info.
+#### Gallery
+My Tern and Brompton, folded in my office:
+![Tern Vektron Q9 folded next to Brompton Electric](https://user-images.githubusercontent.com/465045/125362528-0cab5f80-e33d-11eb-9090-47692095f86b.png)
+
+Carrying groceries:
+![Q9 in elevator with shopping bags and panniers](https://user-images.githubusercontent.com/465045/125363465-a7f10480-e33e-11eb-83cd-6fa77a73f89d.png)
+
 
 ### Specialized Creo Comp Carbon <a id="creo-review"></a>
-TODO
+
+#### Pros
+
+
+#### Cons
+
+
+#### Gallery
+
 
 ## Other Notable E-bikes <a id="other-ebikes"></a>
 
-### RadWagon <a id="radwagon"></a>
-
 ### Specialized Turbo Vado SL ("Vado") <a id="vado"></a>
+This is the "hybrid" (straight handlebars, but fast like a roadbike) version of [my "Creo" electric roadbike](#creo-review). It has the same motor/battery system that I love from the Creo, and is also just an incredible machine. It is essentially all the speed/range/quality of the Creo, but you can put a rack and panniers on it, a bit fatter tires if you want it to really be rugged, etc.
 
-### GoCycle <a id="gocycle"></a>
+My sister-in-law has a [Vado 4.0 SL EQ], and my mother-in-law has [a "step-through" version][[Vado 4.0 SL EQ Step-through]. I've been thinking about getting a [Vado 5.0 SL EQ] (newer model, has a couple nice features over the 4.0 (like the "FutureShock" handlebar suspension).
 
-### Fiido <a id="fiido"></a>
+### [RadWagon] <a id="radwagon"></a>
+This is a true cargo e-bike (moreso than [my Vektron Q9](#q9-review), which has less capacity and power) for just $1900. [RadPower is aggressively targeting a mainstream price point][radpower-150mm], seemingly mimicking Tern designs but with less premium components and a more mass-market focus.
 
-### Carbo <a id="carbo"></a>
+This is a leading contender for my 5th e-bike, since I still have occasional cargo/hauling needs beyond what I can accomplish with my Q9, and it is so aggressively priced.
 
-## Revelations <a id="revelations"></a>
+### [Gocycle] <a id="gocycle"></a>
+Cool sporty/design-y folding ebikes. They seemed a bit expensive and lacking in hauling capacity for what I needed when I demo'd them, but could be good commuter bikes.
+
+### [Qualisports Dolphin] <a id="fiido"></a>
+A friend recently got one; it seems like a good commuter bike: cheap ($1400), powerful, has a throttle.
+
+### [Carbo Model X] <a id="carbo-model-x"></a>
+They had [a huge crowdfund campaign](https://www.indiegogo.com/projects/carbo-the-world-s-lightest-folding-electric-bike#/), and the specs seem like the best of several worlds (folding, lightweight carbon, powerful motor, large battery; an e-folder that's 10lbs lighter than the Brompton, and more powerful).
+
+I was able to test-ride one at [Greenpath] in Brooklyn; I felt like I might miss having multiple gears, and the carbon frame had some flex to it that I found a bit disconcerting. I've heard that low-quality carbon frames can fail in catastrophic ways, so I ultimately decided to let the "carbon e-folder" space mature / dust-settle for a bit before looking at it again. I had recently narrowly missed clicking "buy" on United City Bikes' "The One", which was a similar crowdfunded low-cost carbon e-folder, only to [have them liquidate the company the next day](https://www.reddit.com/r/unitedcitybikes/comments/m883o4/unitedcitybikescom_down/grn4t4a) 😭!
+
+Things are moving fast in ebike-land, and there's something to be said for going with reputable brands and stores you can go to for service!
+
+## Ebike Revelations <a id="revelations"></a>
 E-biking has made me rethink things about my city, cities in general, mobility as a human need and right, [turbulent flows][cgp-grey-traffic], and more. Here are some things that have struck me in learning to get around by (e)bike:
 
 ### Speed ⟹ Safety <a id="speed-safety"></a>
@@ -841,6 +892,7 @@ horns are loud
 [near-misses]: TODO
 [car-trip-length]: TODO
 [radpower-150mm]: https://techcrunch.com/2021/02/04/rad-power-bikes-raises-150-million-as-electric-bike-sales-boom/
+  
 
 [zip ties 8"]: https://www.amazon.com/gp/product/B00YARIYL6/
 [zip ties 14"]: https://www.amazon.com/gp/product/B00YARJ14A/
@@ -947,3 +999,9 @@ horns are loud
 [VanMoof BK]: https://goo.gl/maps/b5TaiV4eEhpiEmk77
 [RadWagon]: https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike
 [Vado 4.0 SL EQ]: https://www.specialized.com/us/en/turbo-vado-sl-4-0-eq/p/170202
+[Vado 4.0 SL EQ Step-through]: https://www.specialized.com/us/en/turbo-vado-sl-4-0-step-through-eq/p/188206
+[Vado 5.0 SL EQ]: https://www.specialized.com/us/en/turbo-vado-sl-5-0-eq/p/154892
+[Greenpath]: https://goo.gl/maps/Tvo7Hm1KHjgHFgc57
+[Carbo Model X]: https://ridecarbo.com/products/carbo-model-x
+[Qualisports Dolphin]: https://www.qualisports.us/products/dolphin
+[Gocycle]: https://gocycle.com/
