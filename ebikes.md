@@ -1,9 +1,9 @@
 # E-bikes are a Transportation Revolution
-I bought an e-bike in November, it was life-changing, and I quickly bought two more.
+I bought an e-bike in November, it was life-changing, and now I have 4 (all pedal-assist, not throttle).
 
 I've incepted friends and family with e-bike mania and am overwhelmed with e-bikes' potential to improve the lives of millions of people who don't realize it yet.
 
-I'm documenting my journey – and reflections about the e-bike space – here, in the hope it will help others.
+I'm documenting my journey and reflections about the e-bike space in the hope it will help others.
 
 [![4 e-bikes on the Hoboken waterfront](https://user-images.githubusercontent.com/465045/109428064-3fbf0900-79c3-11eb-97c5-cd2662676563.png)][strava-ebike-day]
 ([see this ride on Strava][strava-ebike-day])
@@ -12,6 +12,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
 - [Background](#background): bike-sharer → bike-owner → e-bike maniac
 - [My e-bikes](#my-ebikes)
   - [VanMoof X3](#x3-review): great all-around / starter e-bike
+  - [Brompton Electric](#e-brompton-review): smallest fold, most portable, also great all around
   - [Tern Vektron Q9](#q9-review): large cargo capacity, folds up for easy storage
   - [Specialized Creo Comp Carbon](#creo-review): light, fast, long-range
 - [Reflections](#revelations)
@@ -19,7 +20,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
   - [Speed ⟹ Inclusion](#speed-inclusion): a lot more people can get around quickly+comfortably
   - [Speed ⟹ Convenience](#speed-convenience): as fast as cars in urban environments; solves congestion and parking
   - [Space](#space): high mobility per unit space; mixes well with other modes
-    - [Bike vs. Car Storage](#bike-vs-car-storage): parking takes too much space in cities; bike parking is 5-10x more efficient
+    - [Bike vs. Car Storage](#bike-vs-car-storage): parking takes too much space in cities, and is heavily subsidized; bike parking is 5-10x more efficient
   - [Cost](#cost): the average car cost could fund e-bikes for 10 families
   - [Cargo](#cargo):
     - [Groceries, Bulk Items](#groceries): basically any grocery run, and a surprising number of bulk item moves, can be done via e-bike
@@ -28,7 +29,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [PoV: Moving House](#pov-moving-house): I moved across town – with 2wks of stuff – by ebike
   - [Health](#health)
   - [Fun](#fun)
-  - [Car sewers](#car-sewers): cars make streets miserable for everyone not in a car; doing this to 100% of streets is an extreme choice.
+  - [Car sewers](#car-sewers): cars make streets miserable for everyone not in a car; doing this to 100% of streets is extreme, and terrible policy.
 - [Getting Started](#getting-started)
   - [Bike Shares](#bike-shares): try some rental bikes (or scooters, etc.)
   - [Renting](#renting): rent a few types of bikes before buying one
@@ -37,7 +38,7 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Stopping at Stop Signs / Red Lights](#stopping-at-stops)
     - [Braking](#braking): [Sheldon Brown on front brakes][front brakes]
     - [Helmets](#helmets-safety): can't hurt, but often used to blame/criminalize cyclists for infrastructure/engineering problems
-    - [Lights](#lights-safety): the more the better, generally
+    - [Lights](#lights-safety): the more the better
     - [Hi-Viz Clothing](#hi-viz): similar to helmets; good practice, but often discussed unfairly
   - [Route Planning](#route-planning)
     - [Street View](#street-view)
@@ -46,9 +47,9 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [ElectricBikeReview.com](#ebr)
     - [r/ebikes](#r-ebikes)
   - [Starter Packs](#starter-packs)
-    - [VanMoof X3 + Gear](#vanmoof-x3-pack): $3k incl. maintenance+theft plan + all the gear you could want
+    - [VanMoof X3 + Gear](#vanmoof-x3-pack): $83/mo (incl. maintenance/theft/insurance coverage); $3k outright (incl. all the gear you could want)
     - [RadPower](#radpower): popular under $2k
-- [Gear](#gear): 10-20% the bike's cost in add-ons can make the bike 10x more useful
+- [Gear](#gear): 10-20% a bike's cost in add-ons can make it 10x more useful
   - [Racks, Baskets](#racks-baskets): starting point for carrying bags' worth of stuff on rides
   - [Bags](#bags): get weight off of you and onto the bike, where it *rolls*
     - [Panniers](#panniers): bags that hang from sides of back rack; can be quite large, very useful
@@ -57,8 +58,9 @@ I'm documenting my journey – and reflections about the e-bike space – here, 
     - [Back-Rack / Seat Bags](#back-bags): medium bags on top of back rack or behind+underneath seat
   - [Phone Mounts](#phone-mounts): phone mounted up front (e.g. w/ turn-by-turn directions) is surprisingly useful; I use [Quad Lock].
   - [Lights](#lights): [front][amzn cygolite metro plus], [rear][amzn cygolite hotrod], [party][amzn party light], [Vont 'Pyro' (set)][amzn vont pyro light], [KNOG (set)][amzn knog lights]
+  - [Helmets](#helmets): [Lumos Kickstart][lumos helmet]
   - [Locks](#locks): [Kryptonite U-lock + cable][amzn kryptonite evolution set] (medium weight, decent security), [OnGuard U-Lock][amzn onguard] (lighter / more clearance but weaker), [OTTO cable lock] (compact+light extra security layer)
-  - [Misc. Accessories](#misc-accessories): [bell][amzn bell], [mirror][amzn mirror], [kickstand][amzn kickstand], [hand pump][amzn pump]
+  - [Misc. Accessories](#misc-accessories): [bell][amzn bell], rear-view mirror [1][amzn mirror] [2][amzn mirror 2], [kickstand][amzn kickstand], [hand pump][amzn pump]
   - [Gloves](#gloves): [padded gloves][amzn MOREOK gloves], [light but warm winter gloves][Brooks gloves]
   - [Rain Gear](#rain-gear): [Clever Hoods] are popular + good
   - [Winter Cycling](#winter-cycling-gear): easier+better than you think, $200 of gear solves cold down to ≈25ºF
@@ -98,71 +100,133 @@ The COVID "bike boom" hit me hard:
   - The bikes are heavy and slow, but convenient.
 - **July 2020**:
   - Got a hand-me-down roadbike.
-  - "I still love Citibike, but this is much better for some trips/errands."
-  - (As you will see, I have become a firm believer in "different bikes for different trips" 😂)
-- **September**:
-  - Need something for the grocery run.
-  - Bought a "hybrid" (non-electric; [a cross between "road" and "mountain"; basically a "city bike"][hybrid]). Revelatory, love it.
+  - "I still love Citibike, but this is better for some trips/errands."
+- **September 2020**:
+  - Want something for grocery runs.
+  - Bought a "hybrid" (non-electric; [a cross between "road" and "mountain" bikes; basically a "city bike"][hybrid]). Revelatory, love it.
   - Got [lots of bags+accessories](#gear) to fit different needs (errands/cargo, distance/joy-ride, day in the city, etc.)
 - **November 2020**:
-  - I'd still like to try an e-bike.
-  - Ideally it will haul even more cargo, and also fold up for easy storage (my office already has two drywall-mounted bikes and e-bikes are generally too heavy for that).
+  - Still want to try an e-bike.
+  - Ideally a hauler, that could also fold up for easy storage (my office already had two wall-mounted bikes, but e-bikes are generally too heavy for that).
   - Bought a [Tern Vektron Q9][Q9] (folding + cargo bike).
 - **December → January 2021**:
   - E-bikes are revolutionary and I need more 🤩.
   - Helping friends+family try+buy.
-  - Market moving so quickly; so many fascinating takes on what an "electric bike" is and can be.
+  - Market moving quickly; many fascinating takes on what an "electric bike" can be.
   - Bought [an electric roadbike][Creo] and a [VanMoof X3][X3] (all-purpose city e-bike).
+- **June 2021**:
+  - Got a [Brompton Electric]; small fold + portable, nice for little errands, bringing it inside buildings/restaurants
+  - 3k total miles, mix of errands, recreation, and longer/overnight trips
 
-![Home office with 2 bikes hanging on walls and 3 ebikes (including one folded) on the ground](https://user-images.githubusercontent.com/465045/110837435-35c4c200-826f-11eb-9e0b-204e10767c34.png)
+![4 ebikes in my office: electric roadbike (Creo) on the wall, Brompton and Tern folded in a corner, and VanMoof X3 next to them](https://user-images.githubusercontent.com/465045/125326778-69dcec00-e310-11eb-9507-beb37eb8b4dd.png)
 
 ## E-bike Inventory <a id="my-ebikes"></a>
 My current e-bikes are:
-1. [Tern Vekton Q9][Q9]: large cargo capacity, folds up for easy storage, one size fits all.
-2. [VanMoof X3][X3]: great all-around / "city bike" / starter/lender for newcomers. One size fits all, automatic shifting, "turbo" button for quick starts.
-3. [Specialized Creo][Creo]: electric road-bike; light and fast, long range.
+1. [VanMoof X3][X3]: great all-around city bike, starter/lender for newcomers. One size fits all, automatic shifting, "turbo" button for quick starts. $80/mo includes theft replacement, insurance, maintenance.
+2. [Brompton Electric][e-brompton]: most compact fold; easy to bring into buildings/stores.
+3. [Tern Vekton Q9][Q9]: cargo bike, folds up for easy storage, one size fits all.
+4. [Specialized Creo][Creo]: electric road-bike; light and fast, long range.
 
-Each is useful in different contexts, and together they cost less than half [the $40k average new car in the US](#cost) (see below for [starter packs in the $2k-$4k range](#starter-packs), or 1/20th to 1/10th the avg new car price).
+Each is useful in different contexts, and together they cost less than half [the $40k average new car in the US](#cost) (see below for [starter packs from $2k or $80/mo](#starter-packs), 1/20th to 1/10th the avg new car price).
 
-I'll probably end up with 1 or 2 more. I want the ability to take people+cargo on rides that would otherwise require an SUV (and which would still be worse in various ways, and cost even more).
+I'll probably [end up with 1 or 2 more](#other-ebikes). I want the ability to take people+cargo on rides that would otherwise require an SUV (and which would still be worse in various ways, and cost even more).
 
-### VanMoof X3 <a id="x3-review"></a>
+### [VanMoof X3][X3] <a id="x3-review"></a>
 - Excellent all-around / starter e-bike
-- You may want to be within range of a VanMoof shop, and prepared to lean on them to fix things that come up.
+- [$83/mo includes theft replacement, insurance, maintenance][VanMoof financing].
+- You may want to be within range of a VanMoof shop (I recommend [booking a test ride][VanMoof test ride] if you are!)
 
 #### Automatic Shifting <a id="x3-shifting"></a>
-The automatic gear shifting weirded me out at first (especially because I was temporarily in a very hilly place when I took delivery of it). My advice about it is:
-- Use the turbo button liberally on uphills, and when starting from a stop!
+VanMoofs automatically shift gears for you, based on your speed, which makes for a simpler/carefree riding experience. I first tried it in a very hilly place, and it took some getting used to, but now I love it for casual city riding.
+
+Some advice about it:
+- Use the "turbo" button liberally on uphills, and when starting from a stop.
 - The gears shift based on your speed (not cadence, or torque).
-  - In the beginning I got frustrated not knowing why it wasn't shifting, or when it would, as I spun the pedals or slowed toward a stop up a hill.
-  - I spent some time in the app micro-managing what speed it would shift into which gear at. After a bunch of thrashing, I think I ended up back at almost exactly the factory defaults 😂 (having also learned the glory of the turbo button).
+  - In the beginning I got frustrated not knowing why it wasn't shifting, or when it would, as I spun the pedals or slowed down while starting a climb.
+  - I spent some time in the app micro-managing what speeds it would shift into each gear at. After a bunch of thrashing, I think I ended up back at almost exactly the factory defaults 😂 (having also learned the glory of the turbo button).
 
 #### Internal Locking <a id="x3-internal-locking"></a>
-My VanMoof X3 has a lock inside the bike, which is a cool feature. You engage it by pushing a button on the frame, and disengage it from the app on your phone.
+VanMoofs have a lock inside the bike. You engage it by pushing a button on the frame, and disengage it from the app on your phone.
 
-It doesn't stop someone from picking the bike up and throwing it in the back of a truck, but the bike does make an alarm sound if moved while locked, and VanMoof has a few other forms of DRM on that hopefully make them less attractive to thieves.
+It doesn't stop someone from picking the bike up and throwing it in the back of a truck, but the bike does make an alarm sound if moved while locked, and VanMoofs have a few other forms of DRM (including a tracking chip and ["bike hunters" team][VanMoof bike hunters]) that hopefully make them less attractive to thieves.
 
 #### Reliability / Shop Proximity <a id="x3-reliability"></a>
-A common refrain on [r/vanmoof] is that you should be prepared to take it to the shop for tune-ups or major issue troubleshooting.
+A common refrain on [r/vanmoof] is that you should be prepared to take it to the shop for tune-ups or troubleshooting.
 
-I've had to go in once because we transferred ownership of the bike between VanMoof accounts, and it ended up stuck in "EU mode" with a top speed of 20kph (instead of the US's 20mph). It was easy enough and fun to see the shop, etc., though obviously you'd rather the bike Just Work. I feel I can endorse the lifestyle where you just buy the theft+maintenance plan and enjoy a peace of mind back-stop to how wrong things could go with the bike.
+I've had to go in once because we transferred ownership of the bike between VanMoof accounts, and it ended up stuck in "EU mode" with a top speed of 20kph (instead of the US's 20mph). It was easy enough to fix in the shop, and I definitely endorse buying the theft+maintenance plan for peace of mind.
 
 #### Shipping <a id="x3-shipping"></a>
 I've observed them to quote a 2-3mo timeframe for shipping, only to have the bike show up in a couple weeks!
 
+#### "Boost button" <a id="boost-button"></a>
+When you press or hold this button on the handlebar, the pedal assist is amplified for a few seconds. It's great for accelerating from a stop, or holding a line in traffic.
+
+It's one of my favorite features on all my ebikes; I've noticed I am an extra curteous rider on my VanMoof because stopping and starting again is no sweat, thanks to the boost button.
+
+#### Range <a id="vanmoof-range"></a>
+- I get ≈30mi to a charge, using the "boost button" liberally.
+- I'll receive [a "PowerBank" extra battery][VanMoof PowerBank] in the next few weeks which I expect will increase my range to ≈50-60mi.
+- A full recharge takes a few hours.
+
+#### Gallery
+I stayed in a friend's apt for 2wks via VanMoof:
+![VanMoof + bags: 2 panniers, front grocery bag, backpack](https://user-images.githubusercontent.com/465045/125330516-e1ad1580-e314-11eb-9d2d-99da605c5ff4.png)
+
+It worked well through the winter:
+![VanMoof + bags on snowy Hoboken waterfront](https://user-images.githubusercontent.com/465045/125330724-191bc200-e315-11eb-9277-cd3cafbee947.png)
+
+I take it to Central Park pretty regularly, with picnic/Aerobie gear:
+![VanMoof + 2 friends in Sheep's Meadow](https://user-images.githubusercontent.com/465045/125330910-53855f00-e315-11eb-9da0-c2da43bc60bc.png)
+
+### Brompton Electric <a id="e-brompton-review"></a>
+I got this one most recently from [Redbeard] in Brooklyn. Bromptons are a classic/famous British folding bike, and they did a decent job engineering a motor and battery onto the front.
+
+**Pros**:
+- most compact fold of all bikes (electric or not!); relatively portable
+- half-folded "shopping cart" mode can be pushed around in stores
+- surprisingly nice ride / feels like a normal bike (despite looking a bit like a clown bike, esp. due to small 16" wheels)
+- decent extra battery story for increased range; currently my 2nd highest range ebike (after the [Creo](#creo-review)) as a result
+- great mix of fun/whimsy with real transportation / portability / overall utility
+
+**Cons**:
+- Expensive ($4k) for relatively little amount of bicycle/machine. They're well-made, so I felt it was worth it (once I'd covered other ebike use cases), but the price point is simply too high to recomend to most people.
+- Supply chain has been especially backed up since COVID
+
 ### Tern Vektron Q9 <a id="q9-review"></a>
-TODO
+This was my first ebike, from [Bfold], a delightful bike store in the East Village (David was really helpful at talking me through the market when I was starting from zero).
+
+**Pros**:
+- High-quality + rugged; Bosch motor system is premium.
+- Folding, cargo, and electric are hard to find in one bike; I'm not aware of another model that comes close to the Vektron at nailing all 3.
+
+**Cons**:
+- Expensive ($3500); 
+- e
+
+I also test rode a Vektron at [Propel][Propel BK] in Brooklyn, who had a very slick appointment-booking flow and beautiful inventory of Reise & Muller bikes. [Their YouTube channel][Propel YouTube] is also an excellent source of ebike info.
 
 ### Specialized Creo Comp Carbon <a id="creo-review"></a>
 TODO
 
+## Other Notable E-bikes <a id="other-ebikes"></a>
+
+### RadWagon <a id="radwagon"></a>
+
+### Specialized Turbo Vado SL ("Vado") <a id="vado"></a>
+
+### GoCycle <a id="gocycle"></a>
+
+### Fiido <a id="fiido"></a>
+
+### Carbo <a id="carbo"></a>
+
 ## Revelations <a id="revelations"></a>
-E-biking has brought a string of revelations about my city, cities in general, mobility as a fundamental human need and right, [turbulent flows][cgp-grey-traffic], and more. Here are some things that have struck me in learning to get around by (e)bike:
+E-biking has made me rethink things about my city, cities in general, mobility as a human need and right, [turbulent flows][cgp-grey-traffic], and more. Here are some things that have struck me in learning to get around by (e)bike:
 
 ### Speed ⟹ Safety <a id="speed-safety"></a>
-It's counterintuitive, but having access to more speed (and acceleration) makes you dramatically safer on a bike. Starting from a stop at lights, holding a lane on shared roads, minimizing the number of cars that close on and overtake you (and the speed they overtake you at)… you are much more in control of your relationship to traffic on an ebike. This is one of new e-bikers' biggest "💡"/"🤯" moments.
+It's counterintuitive, but having access to more speed (and acceleration) can make biking safer. Starting from a stop at lights, holding a lane on shared roads, minimizing the number of cars that close on and overtake you (and the speed they overtake you at)… you are much more in control of your relationship to traffic on an ebike. This is one of new e-bikers' biggest "💡"/"🤯" realizations.
 
-It's also surprising how a little boost makes a *big* difference in that feeling of control and safety. Moving top speed from 15mph to 20mph means a car going 25mph *passes you half as quickly* and *has twice as much time to "see you coming" as it comes up behind you*.
+It's also surprising how a little boost makes a *big* difference in your control and safety. Increasing your top speed from 15mph to 20mph means a car going 25mph *passes you half as quickly* and *has twice as much time to "see you coming" as it comes up behind you*.
 
 In more typical urban settings where cars might be averaging 15mph (between 0 and 20mph due to mild congestion and lights), it means you can find one driver who:
 1. sees you
@@ -170,31 +234,32 @@ In more typical urban settings where cars might be averaging 15mph (between 0 an
 
 and draft them for a while (until the next light, when you must bid them "🙏", glide up to the front, and find a new host).
 
-You basically had to be a professional cyclist to access this ability to simply exist on car-dominated roads, but now almost everyone can.
+Previously, you had to be a serious cyclist to access this speed (and corresponding ability to simply *exist* on car-dominated roads), but now almost everyone can.
 
 ### Speed ⟹ Inclusion <a id="speed-inclusion"></a>
-The Speed⟹Safety effect is particularly true for people who are not stereotypic young/fit men (women, children of all ages, older people, differently abled people, …). I was brave enough – [some of the time][near-misses] – to bike around NYC before e-bikes, but it was not feasible for my wife (though she is in her 30's and reasonably athletic). This was due to the high baseline level of bullying from drivers (both inadvertent and intentional) as well as specific vitriol and threats she received as a woman taking space that some men motorists feel is theirs.
+The "Speed ⟹ Safety" effect is particularly true for people who are not stereotypic young/fit men (women, children of all ages, older people, differently abled people, …). I was brave enough – [some of the time][near-misses] – to bike around NYC before e-bikes, but it was not feasible for my wife (though she is in her 30's and reasonably athletic) due to the high baseline level of bullying from drivers (both inadvertent and intentional) as well as specific vitriol and threats she received as a woman taking space that some men motorists feel is theirs.
 
-- TODO: paris stat 60% new riders covid
-- TODO: other gender ridership: citibike
-- TODO: historical bike feminism
+Related:
+- During COVID, [Paris observed that 60% of new riders on pop-up bike lanes were women][Paris 60% new riders women]
+- [There's a fascinating history of bicycling + feminism][Bicycling and feminism]
+- My 70yo in-laws have been ebike-pilled in their hilly town in Westchester; it's a wonderful way to allow people to get around, get to know their own neighborhoods, get fresh air / exercise, and accomplish daily tasks.
 
 ### Speed ⟹ Convenience <a id="speed-convenience"></a>
-The most obvious benefit of speed is that it lets you get from A to B faster (or for less work, at a given speed). Less worry about getting sweaty or feeling like getting home is daunting or you're not up for it. Generally easier to go places and do things.
+The most obvious benefit of speed is that it lets you get from A to B faster (or for less work, at a given speed). You can worry less about getting sweaty or feeling like getting home is daunting or you're not up for it, and it's generally easier to go places and do things.
 
-[Class 1 e-bikes][ebike-classes] provide a pedal-assist up to 20mph; this lets casual riders (who normally top out at 12-15mph) play in the 15-20mph range and, as with [the "safety" angle](#safety-speed), that ≈30% difference actually makes for a qualitatively different experience. I consistently pass more cars than pass me now (except *sometimes* if I'm along the West Side Highway for long enough 😂). It's pretty hard to go 15-20mph in a car for very long in urban environments, so for a large class of trips.
+[Class 1 e-bikes][ebike-classes] provide a pedal-assist up to 20mph; this lets casual riders (who normally top out at 12-15mph) play in the 15-20mph range and, as with [the "safety" angle](#safety-speed), that ≈30% difference actually makes for a qualitatively different experience. I consistently pass more cars than pass me. It's pretty hard to go 15-20mph in a car for very long in urban environments, so ebikes are faster for a large class of trips (not even counting time parking).
 
-This is a brand new, developing mode of transportation that changes the basic math of transportation in cities; [my "Favorite Rides" section](#favorite-rides) has some examples and discussion of this.
+This is a brand new, developing mode of transportation that changes the basic math of transportation in cities.
 
 ### Cost <a id="cost"></a>
-On average, [a new car in the US costs $40k][new-car-cost]; [owning+operating a car costs $800/month][car-cost-800-mo].
+On average, [a new car in the US costs $40k][new-car-cost] or [$800/month][car-cost-800-mo].
 
-Lots of the US effectively levies a $40k tax to participate in society, which hits the least well off the hardest.
+Lots of the US effectively levies a $40k tax to participate in society, which hits the least well off the hardest. We had a vicious political battle over one-off $1200 COVID relief checks, but enabling people to live car-free is like an $800/mo stimulus in perpetuity.
 
-[80% of car trips are under 5mi][car-trip-length] and easily replaceable by a luxurious e-bike kit – including [gear and accessories to the max](#gear) – that costs 1/10th what a car costs.
+[80% of car trips are under 5mi][car-trip-length] and easily replaceable by e-bike kits that, on the high end of the market and including [gear and accessories to the max](#gear), cost 1/10th what a car does.
 
 #### 1 car ⟹ 10 e-bikes + gear
-When I am passing cars stuck in traffic, one of the saddest things is that each of those cars could have paid for 10 families' e-bike mobility solutions™️.
+When I am passing cars stuck in traffic, a sad realization is that each car could have paid for 10 families' e-bike mobility solutions™️.
 
 Some of the darkest images of the failed state of American governance as well as transportation culture were the long lines of cars at food banks during COVID lockdowns:
 
@@ -203,26 +268,22 @@ Some of the darkest images of the failed state of American governance as well as
 
 [![overhead shot of cars in line at a San Diego food bank in April 2020, from ABC News](https://user-images.githubusercontent.com/465045/109445290-44101400-7a0d-11eb-868c-38545f594874.png)](https://www.nbcnews.com/news/us-news/covid-19-crisis-heaps-pressure-nation-s-food-banks-n1178731)
 
-We've struggled and failed to give people $2k of COVID relief, but have designed a society where they must spend $800/mo on the least efficient mode of transportation.
-
-You can get a full starter ebike package with racks and gear for hauling, for under $2k; [see my $3k VanMoof starter pack sketch below](#x3-pack). With financing comparable to what people get for cars, that's maybe $60/mo. My 3 e-bikes are significantly up-market from where most ppl will start, and they'd be $250/mo. (including [a huge variety of gear and accessories](#gear)).
-
 ### Space <a id="space"></a>
-E-bikes take up very little space for the mobility they provide. Mode shift from private cars to e-bikes directly improves a large class of congestion and parking issues.
+E-bikes take up very little space for the mobility they provide. Mode shift from private cars to e-bikes directly improves a large class of congestion and parking issues in cities.
 
 Taking up less space also means you can bring your bike with you on other modes when necessary (trains, buses, even ride-shares), store it easily, etc.
 
 #### Bike vs. Car Storage <a id="bike-vs-car-storage"></a>
 A critical area where American cities fail in enabling biking – and especially e-biking – is providing secure bike parking infrastructure.
 
-[Oonee][oonee] (pronounced "uni") is an NYC-based startup I'm obsessed with that operates [phone-unlocked pods near transit where a dozen bikes can be stored][oonee pod], and is piloting ["mini" pods that replace single-car parking spots w/ secure storage of 6-10 (e-)bikes][oonee mini].
+[Oonee][oonee] (pronounced "uni") is an NYC-based startup I love, that operates [phone-unlocked pods near transit where a dozen bikes can be stored][oonee pod], and is piloting ["mini" pods that replace single-car parking spots w/ secure storage of 6-10 (e-)bikes][oonee mini].
 
 For comparison, here are some examples of bike parking in other countries that would be a nightmare if replaced with car-parking:
 
-TODO: NL train station
+[![car vs. bike parking at Eindhoven station](https://user-images.githubusercontent.com/465045/125334244-263ab000-e319-11eb-9937-c61885783beb.jpeg)](https://mobile.twitter.com/_dmoser/status/1412013400117362694)
 
 ![picture of bike-parking outside a school in the Netherlands](https://user-images.githubusercontent.com/465045/109443478-a9153b00-7a08-11eb-9076-2c8a4310899c.png)
-*see also: [Re-thinking the School Run][school-run]*
+*see also: [Re-thinking the School Run][school-run] and [London's school streets](https://mobile.twitter.com/Knowlesy83/status/1414553018478039040)*
 
 ![old picture of bike parking (in the Netherlands?)](https://user-images.githubusercontent.com/465045/109443438-8b47d600-7a08-11eb-80cd-6a88aea8878b.png)
 
@@ -232,9 +293,10 @@ TODO: NL train station
 
 ![Picture of 4 parked cars taking more space than 30 parked bikes](https://user-images.githubusercontent.com/465045/109443661-1d4fde80-7a09-11eb-8436-5600393d978d.png)
 
-Compare to car-centric American analogs:
+Compare to car-centric North American analogs:
 
-TODO: supermarkets
+[![Supermarket parking sprawl in Vaughan, Canada](https://user-images.githubusercontent.com/465045/125335331-6f3f3400-e31a-11eb-9794-b8e2650b4f01.png)
+](https://www.youtube.com/watch?v=7IsMeKl-Sv0)
 
 ![Satellite picture of Arrowhead Stadium in Kansas City, with huge amounts of parking](https://user-images.githubusercontent.com/465045/109444012-242b2100-7a0a-11eb-83e6-2a66f0404001.png)
 
@@ -324,74 +386,88 @@ I'm sorry to speak so negatively but there is enormous, real, preventable harm h
 Everyone's journey will be different, but here are some resources and intermediate steps I've found useful on the way to relying on (e)cycling more:
 
 ### Bike Shares <a id="bike-shares"></a>
-I [citibiked](https://www.citibikenyc.com/) in NYC and JC for years. I loved it and still love it. Electric-citibike inventory is hitting critical mass, and the system is expanding all the time. I will always keep an annual Citibike membership on auto-renew (it used to comparable to a 1mo MetroCard, now it's closer to 2; still a great value).
+I [citibiked](https://www.citibikenyc.com/) in NYC and JC for years. I loved it and still love it. Electric-citibike inventory is hitting critical mass, and the system is expanding all the time. I will always keep [an annual Citibike membership][annual Citibike membership] on auto-renew ($179, or less than 2x a monthly MetroCard; still a great value).
 
-There's also a Cambrian explosion of scooter-shares, moped-shares, on-demand e-bike leasing services, etc. In my experience, most such things are worth signing up for and trying to use a few times, or for a few months, to see how they can fit in to your life.
+There's also an explosion of scooter-shares, moped-shares, on-demand e-bike leasing services, etc. In my experience, most such things are worth signing up for and trying to use a few times, or for a few months, to see how they can fit in to your life.
 
-I "graduated" to owning a bike somewhat accidentally; my local ferry shut down during COVID and I needed to get to a ferry stop in Hoboken (outside the Citibike JC area… [for now][jc-hoboken-citibike] 🙏). I'd also started to want to do longer rides, and felt a bit constrained generally by the limits of the Citibike network.
+I "graduated" to owning a bike somewhat accidentally; my local ferry shut down during COVID and I needed to get to a ferry stop in Hoboken (outside the Citibike JC area at the time… [no longer!][jc-hoboken-citibike]). I'd also started to want to do longer rides, and felt constrained by the Citibike network limits.
 
 ### Renting <a id="renting"></a>
-When I reached a tipping point and started researching buying bikes, I rented a few bikes from my local [Grove Street Cycles](https://www.grovestreetbicycles.com/). One afternoon on [a modest "hybrid"](https://www.giant-bicycles.com/us/escape-2-disc) convinced me that, though I love Citibike, I'd outgrown it more than I realized, and a whole new class of mobility and freedom awaited from owning (vs. renting ≤45mins at a time) a nicer/lighter/faster bike.
+When I started researching buying bikes, I rented a few bikes from my local [Grove Street Cycles](https://www.grovestreetbicycles.com/). One afternoon on [a modest "hybrid"](https://www.giant-bicycles.com/us/escape-2-disc) convinced me that, though I love Citibike, I'd outgrown it more than I realized, and a whole new class of mobility and freedom awaited from owning (vs. renting ≤45mins at a time) a nicer/lighter/faster bike.
 
 I definitely recommend seeing if you can rent a few different kinds of bikes – including e-bikes! – as a way of learning about the options in a way that is more visceral than anything you can get reading reviews.
 
 ### Safety <a id="safety"></a>
 This is a big topic and I am not an expert. [The League of American Cyclists has many resources and guides you should check out][LoAC-tips].
 
-I have a few takes to offer as a recent novice, now intermediate city rider who's also been taking greener riders out.
+A few specific safety sub-topics:
+
+#### Stats <a id="stats"></a>
+Here are [some NYC DOT stats][NYC DOT crash data]:
+
+[![Bicyclists killed or seriously injured (KSI), total and per 1e7 trips, over time; total is roughly flat around 350/yr, rate drops from 80 per 10MM trips in 2000 to 10 in 2018](https://user-images.githubusercontent.com/465045/125351401-0a8dd480-e32e-11eb-8e6c-d2652f3f51ed.png)][NYC DOT crash data]
+- Bicyclists killed or seriously injured (KSI) is roughly flat since 2000 (around 350/yr)
+- The rate (per 10MM trips) dropped from ≈80 in 2000 to ≈10 in 2018
+
+[Wikipedia says][Wiki bicycle safety]:
+> In a 2014 analysis, incidence of cycling death took place at a mean rate of 4.7 deaths per 100 million kilometers cycled in the U.S., compared to 1.3 deaths per 100 million kilometers in Germany, 1.0 in the Netherlands, and 1.1 in Denmark.[\[6\]](https://en.wikipedia.org/wiki/Bicycle_safety#cite_note-6) In the United Kingdom, cyclists have half of the rate (killed and serious injury per km) of motorcyclists but eight times the rate for motorists.[\[7\]](https://en.wikipedia.org/wiki/Bicycle_safety#cite_note-7)
+
+#### Speed <a id="safety-speed"></a>
+Cities are often the safest places to cycle, because cars aren't going as fast:
+
+[![Probability of pedestrian fatality, when hit by driver, as a function of driver speed: <10% at 30kph, 80% at 50kph, ≈100% at 70kph](https://user-images.githubusercontent.com/465045/125352720-9fdd9880-e32f-11eb-8d3a-0acfcb946277.png)](https://mobile.twitter.com/_dmoser/status/1411555290391224321)
+
+Biking is often safer if you can match the speed of traffic, [which is one reason I feel much safer on ebikes](#speed-safety).
+
+#### Fear <a id="fear"></a>
+As I've ridden longer, and as cycling infra has improved around me, I less frequently run into situations that scare me or spike my blood pressure. I've become more deferential to pedestrians and the letter of the prevailing traffic laws. The whole cycling experience has become de-adrenalized a bit.
+
+That's allowed me to notice that *fear* is consistently the reason that I make mistakes, break traffic laws, etc. A driver will do something scary, or I will find myself extremely vulnerable on a road designed for cars, and my priorities shift. I generally don't fault vulnerable road users prioritizing their safety.
 
 #### Riding on sidewalks <a id="riding-on-sidewalks"></a>
-- Where planners, drivers, and the auto industry have teamed up to make it impossible to bike safely, cyclists will ride on the sidewalk. The solution is to provide cyclists with a reasonable non-sidewalk option. Shame or enforcement are regressive and ineffective.
-- Cyclists should make an extra effort to slow down and give a wide berth when mingling with pedestrians. The cyclist-pedestrian power dynamic is similar to the driver-cyclist or driver-pedestrian dynamics: your speed feels lower to you than to someone you are passing, especially who is not expecting you.
+Cyclists would rather be on roads than on sidewalks, but will always use sidewalks where roads are not safe.
 
-While cycling, the constant implicit violence (and occasional explicit violence) from drivers makes it hard to keep sight of that there are also tiers of more vulnerable road users beyond you. I think as cycling grows in popularity and we benefit from a virtuous adoption↔️infrastructure↔️awareness cycle, these dynamics will improve.
+The solution to sidewalk-riding nuisances is to make roads safe for cycling. Pedestrian/Cyclist conflicts are a distraction from cars' being allocated most public space.
 
-Unfortunately, the discourse around "bikes on sidewalks" is often poisoned by people advocating against anything that might promote cycling or make it safer or easier (which is ironic because sidewalk-riding is a [desire path][desire paths] that implies better cycling infrastructure is needed).
+![comic showing roads full of cars and parking, a family on bikes on a sidewalk, and a driver saying "If you take this parking for a bike lane, where will I park my car?! You're not considering my needs!"](https://user-images.githubusercontent.com/465045/125346318-96503280-e327-11eb-93df-b407b8b26c99.png)
 
 #### Stopping at stop signs + red lights <a id="stopping-at-stops"></a>
-Cyclists should stop at stop signs and wait at red lights. Drivers shouldn't exceed the speed limit. Pedestrians shouldn't jaywalk.
+Cyclists should stop at stop signs and wait at red lights, but a 250lb cyclist+bike running a stop is very different than a driver doing so (in a 4000lb car with its own climate and sound system, and a 100mph top speed):
 
-The interesting question about these rules is how bad it is when they are broken.
+- A cyclist slowing (e.g. to yield to any pedestrians present) before rolling through a stop sign at 5mph has similar kinetic energy as a car rolling through a stop at 1mph.
+- Cyclist also generally have better situational awareness than a driver, and more at stake (being more vulnerable in the event of a crash).
 
-##### Relative Harm
-How bad is it when cyclists rolling through (or outright running) stop signs/lights? It's somewhere between [a pedestrian jaywalking] and [a car running a light] in severity. That is a wide range; specifics matter.
-- A 200lb cyclist (+ 50lb bike) cruising through a stop sign at 8mph has the same kinetic energy as a 4000lb car inching through a stop at 2mph.
-  - Speed matters in other ways though (esp. reaction time), so the former is probably worse than the latter in this example.
-  - On the other hand, a cyclist failing to completely stop, but rolling through at 2mph, is definitely not as bad as a car doing the same thing (the car is a much deadlier vehicle with worse sight-lines).
-- Several states have ["Idaho stops"][Idaho stop], which allow cyclists to treat stops as yields and lights as stops. I like this policy, not least because it emphasizes yielding to pedestrians in a way that gets lost when cyclists have been left to the wolves and started breaking rules made for cars.
-
-##### Fear
-I think cyclists run lights and signs when they are afraid.
-
-When I was new to cycling in NYC, there was always a background hyper-vigilance and fear. I frequently see this in newer riders now. A bear is chasing you, some selfish survival instinct kicks in. It feels important to rush ahead, away from the cars waiting on the line with you at the light, or coming up from a light behind. Being around them – in front of them, in their headlights – is uncomfortable, you're very vulnerable. Your perspective can narrow so that the experience of a pedestrian you cut off feels very far away from your immediate visceral need to *go*.
-
-I used to be more brazen about rolling through stops and lights, and I believe this *fear* and discomfort is a big reason why. I still feel the fear, but have learned to [vehicular-cycle][vehicular-cycling] more, and I'm not making decisions from as panicked a place. I still catch myself doing it though, and notice the fear driving it… maybe I just got close-passed, and I'm a little shaken, need to *go*. Or I'm getting bad vibes from a driver and need some distance.
-
-Of course there's another argument for better cycling infrastructure here, it should not be so scary and dangerous. I think it's also good for cyclists to introspect about this dynamic, and how it may drive their choices.
+Several states have ["Idaho stop"][Idaho stop] laws, which allow cyclists to treat stops as yields and lights as stops. These are great, not least of all because they emphasize yielding to pedestrians in a way that gets lost when cyclists have been overlooked (and asked to follow rules made for cars, by default).
 
 #### Braking <a id="braking"></a>
 [Sheldon Brown on front brakes][front brakes] is a good read; beginners are taught to be careful with the front brake (left hand), to avoid potentially going over the handlebars. As you get more comfortable riding, you should reincorporate the front brake for maximum stopping power.
 
 #### Helmets <a id="helmets-safety"></a>
-I always ride with a helmet, but I don't believe in forcing people to, chastizing them for not, or blaming them when a driver injures or kills them.
-
-Helmets are generally good for cycling safety, but they're generally not designed to protect against collisions with cars. Additionally, there is evidence ([1][helmet passing 1], [2][helmet passing 2]) that drivers pass helmet-wearing cyclists more dangerously.
-
-A lot of discourse around helmet-wearing involves blaming cyclists who are victims of bad infrastructure and negligent drivers; this distracts from discussion and action around the root issues.
-
-In particular, helmet mandates generally serve as ways to discourage and criminalize biking. [50%-70% of all traumatic brain injuries occur in car crashes][streetsblog motorist helmets]; arguably better policy is to require helmet for car occupants:
-
-[![Image of a helmet-less cyclist riding next to a helmet-wearing motorist, with caption: "½ of all serious injuries happen inside motor vehicles – if you drive a car, wear a helmet!"](https://user-images.githubusercontent.com/465045/110815854-ce037c80-8258-11eb-8f10-76bfaa82cd75.png)][motorist helmets]
-
-[Helmets are rare in the best cycling cultures][helmet amsterdam tweet]; they are a symptom of dangerous roads that should be addressed directly.
+- I always ride with a helmet, but a lot of discourse around helmet-wearing involves blaming cyclists who are victims of bad infrastructure and negligent drivers; this distracts from discussion and action around the root issues.
+- [Helmets are rare in the best cycling cultures][helmet amsterdam tweet]; they are a symptom of dangerous roads that should be addressed directly.
+- Helmets are not designed to protect against collisions with cars, and there is evidence ([1][helmet passing 1], [2][helmet passing 2]) that drivers pass helmet-wearing cyclists more dangerously.
+- [Helmet mandates in particular are generally used to discourage and criminalize biking][curbed helmet mandates].
+- [50%-70% of all traumatic brain injuries occur in car crashes][streetsblog motorist helmets]; arguably better policy is to require helmet for car occupants:
+  [![Image of a helmet-less cyclist riding next to a helmet-wearing motorist, with caption: "½ of all serious injuries happen inside motor vehicles – if you drive a car, wear a helmet!"](https://user-images.githubusercontent.com/465045/110815854-ce037c80-8258-11eb-8f10-76bfaa82cd75.png)][motorist helmets]
 
 See also: [discussion of specific helmets is in the "Gear" section](#helmets).
 
 #### Lights <a id="lights-safety"></a>
-TODO
+Lights are definitely useful for safety; "more" is "merrier" as far as I'm concerned.
+
+Something I like about ebikes is that most of them have integrated lights. Not having to fuss with charging separate lights makes the whole process of riding safely at night much simpler.
+
+[Discussion of specific lights I like in "Gear" below](#lights)
 
 #### Hi-Viz Clothing <a id="hi-viz"></a>
-TODO
+I usually wear [this $15 pink hi-viz vest while riding][amzn pink hi-viz vest]:
+![rear GoPro view of me riding electric Brompton on 5th Ave in NYC](https://user-images.githubusercontent.com/465045/125342408-e24ca880-e322-11eb-90bf-42a27013d4df.png)
+
+Drivers seem to mess with me less when I'm wearing hi-viz.
+
+[This Amazon vest][amzn custom hi-viz vest] also lets you print custom images on it:
+![blue hi-viz vest with an image of Kermit standing one-legged on a bicycle seat](https://user-images.githubusercontent.com/465045/125342252-a6b1de80-e322-11eb-8b4f-3b6e41d2af25.png)
+
 
 ### Route Planning <a id="route-planning"></a>
 
@@ -456,6 +532,11 @@ You might also find vendor-specific subreddits useful, like [r/vanmoof].
 The right add-ons might cost 10-20% what your bike cost, but make it 10x more useful. Understanding the types of gear and accessories – let alone specific models – can be overwhelming.
 
 Before I e-biked, I lived out of a backpack while in+around the city. Getting that weight off of me and onto the bike while in transit has been a huge improvement. The options for letting the bike roll things along with you – from "a purse" up to "several suitcases" – are worth exploring.
+
+### Helmets <a id="helmets"></a>
+(See [discussion of helmets from a safety PoV above][#helmets-safety])
+
+I wear [a Lumos light-up helmet][lumos helmet] on all my rides. In the past, I used [this more compact+lightweight Giro helmet][amzn Giro helmet], which I would clip onto a backpack and take on the subway, into the office, etc.
 
 ### Racks, Baskets <a id="racks-baskets"></a>
 For carrying substantial weight or bulk, a back-wheel rack is the platform you build on. Front baskets/racks also range in size, and can significantly add to your carrying capacity.
@@ -548,9 +629,10 @@ Plugging in my bikes' info, the monthly quotes are around 1/300th the bike's cos
 
 ### Misc. Accessories <a id="misc-accessories"></a>
 - Bells: [this $6 Amazon bell][amzn bell] has worked well for me 3x. I also got [a Spurcycle][spurcycle-bell] ($49) after hearing that it is the best, but I think I prefer the Amazon one 🤷🏼‍♂️.
-- Mirrors: [this handlebar-mounted rear-view mirror][amzn mirror] has served me well. I couldn't get [this one][amzn mirror 2] tight enough using its rubber spacers.
 - Hand Pump: [this one][amzn pump] is super compact + light and contains a hose w/ presta and schrader nozzles
-- Kickstand: [this two-legged style of kickstand][amzn kickstand] is sturdier and easier to deal with
+- Kickstand: [this two-legged style of kickstand][amzn kickstand] is sturdy and easy to deal with
+- Rear-View Mirrors: [I have this one][amzn mirror] and [this one][amzn mirror 2] mounted on handlebars on 2 different bikes.
+  ![cockpit view of Creo roadbike with mirror attached to end of left drop-bar](https://user-images.githubusercontent.com/465045/125354934-64909900-e332-11eb-8733-4fc82b19bd60.png)
 
 ### Gloves <a id="gloves"></a>
 In warmer months, I wear ["MOREOK" gloves][amzn MOREOK gloves] ($17) on most rides. Some light gel-padding is nice on hands/wrists during longer rides.
@@ -675,7 +757,14 @@ horns are loud
 
 [Q9]: https://www.ternbicycles.com/us/bikes/471/vektron-q9
 [X3]: https://www.vanmoof.com/en-US/x3
+[e-brompton]: https://us.brompton.com/bikes/brompton-electric
 [Creo]: https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435?color=300465-184435
+
+[VanMoof financing]: https://www.vanmoof.com/en-US/payment-plans
+[VanMoof test ride]: https://www.vanmoof.com/en-US/test-rides
+[VanMoof bike hunters]: https://www.vanmoof.com/en-US/test-rides
+[VanMoof PowerBank]: https://www.vanmoof.com/en-US/electric-bikes/powerbank
+
 [hybrid]: https://www.cyclingweekly.com/group-tests/hybrid-bikes-buyers-guide-206065
 [citibike]: https://www.citibikenyc.com/
 [new-car-cost]: https://www.cnet.com/roadshow/news/average-new-car-price-2020
@@ -832,9 +921,29 @@ horns are loud
 [amzn small tripod]: https://www.amazon.com/gp/product/B081DYTR9J/
 [amzn foldy tripod]: https://www.amazon.com/gp/product/B081DYTR9J/
 [amzn 3xUSB-C cable]: https://www.amazon.com/gp/product/B08GY7FBHZ/
+[amzn pink hi-viz vest]: https://www.amazon.com/gp/product/B06VTPF73Z/
+[amzn custom hi-viz vest]: https://www.amazon.com/gp/product/B07VQ1HBVV/
 
 [SCF 10th st pothole]: https://seeclickfix.com/issues/9320300#comment-29145140
 [hoboken xwalk tweet]: https://twitter.com/RunsAsCoded/status/1363511098562011137
 
 [ODIER neoprene]: https://www.amazon.com/gp/product/B077SY7J6F/
 [ODIER fleece]: https://www.amazon.com/gp/product/B08M41KGZ8/
+
+[Paris 60% new riders women]: https://road.cc/content/news/6-10-users-pop-bike-lanes-paris-new-cycling-280681
+[Bicycling and feminism]: https://en.wikipedia.org/wiki/Bicycling_and_feminism
+[annual Citibike membership]: https://www.citibikenyc.com/pricing/annual
+[amzn Giro helmet]: https://www.amazon.com/gp/product/B015YW31P4/
+[lumos helmet]: https://lumoshelmet.co/products/lumos-kickstart
+  
+[NYC DOT crash data]: https://www1.nyc.gov/html/dot/html/bicyclists/bikestats.shtml#crashdata
+[Wiki bicycle safety]: https://en.wikipedia.org/wiki/Bicycle_safety
+[curbed helmet mandates]: https://www-curbed-com.cdn.ampproject.org/v/s/www.curbed.com/amp/2021/06/bicycle-helmet-laws-new-york-felder.html?amp_gsa=1&amp_js_v=a6&usqp=mq331AQFKAGwASA%3D#amp_tf=From%20%251%24s&aoh=16233527802479&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.curbed.com%2F2021%2F06%2Fbicycle-helmet-laws-new-york-felder.html
+  
+[Redbeard]: https://g.page/RedbeardBikes
+[Bfold]: https://goo.gl/maps/BTfhfQWMpm5BVMt97
+[Propel BK]: https://g.page/propel-bikes-brooklyn
+[Propel YouTube]: https://www.youtube.com/user/LIElectricBikes
+[VanMoof BK]: https://goo.gl/maps/b5TaiV4eEhpiEmk77
+[RadWagon]: https://www.radpowerbikes.com/products/radwagon-electric-cargo-bike
+[Vado 4.0 SL EQ]: https://www.specialized.com/us/en/turbo-vado-sl-4-0-eq/p/170202
