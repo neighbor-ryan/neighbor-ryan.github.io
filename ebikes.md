@@ -47,7 +47,7 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
     - [ElectricBikeReview.com](#ebr)
     - [r/ebikes](#r-ebikes)
   - [Starter Packs](#starter-packs)
-    - [VanMoof X3 + Gear](#vanmoof-x3-pack): $83/mo (incl. maintenance/theft/insurance coverage); $3k outright (incl. all the gear you could want)
+    - [VanMoof X3 + Gear](#vanmoof-x3-pack): $83/mo (incl. maintenance/theft/insurance coverage), $3k outright (incl. all the gear you could want)
     - [RadPower](#radpower): popular under $2k
 - [Gear](#gear): 10-20% a bike's cost in add-ons can make it 10x more useful
   - [Racks, Baskets](#racks-baskets): starting point for carrying bags' worth of stuff on rides
@@ -60,7 +60,7 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
   - [Lights](#lights): [front][amzn cygolite metro plus], [rear][amzn cygolite hotrod], [party][amzn party light], [Vont 'Pyro' (set)][amzn vont pyro light], [KNOG (set)][amzn knog lights]
   - [Helmets](#helmets): [Lumos Kickstart][lumos helmet]
   - [Locks](#locks): [Kryptonite U-lock + cable][amzn kryptonite evolution set] (medium weight, decent security), [OnGuard U-Lock][amzn onguard] (lighter / more clearance but weaker), [OTTO cable lock] (compact+light extra security layer)
-  - [Misc. Accessories](#misc-accessories): [bell][amzn bell], rear-view mirror [1][amzn mirror] [2][amzn mirror 2], [kickstand][amzn kickstand], [hand pump][amzn pump]
+  - [Misc. Accessories](#misc-accessories): [bell][amzn bell], rear-view mirrors ([1][amzn mirror] [2][amzn mirror 2]), [kickstand][amzn kickstand], [hand pump][amzn pump]
   - [Gloves](#gloves): [padded gloves][amzn MOREOK gloves], [light but warm winter gloves][Brooks gloves]
   - [Rain Gear](#rain-gear): [Clever Hoods] are popular + good
   - [Winter Cycling](#winter-cycling-gear): easier+better than you think, $200 of gear solves cold down to ≈25ºF
@@ -122,19 +122,21 @@ The COVID "bike boom" hit me hard:
 
 ## E-bike Inventory <a id="my-ebikes"></a>
 My current e-bikes are:
-1. [VanMoof X3][X3]: great all-around city bike, starter/lender for newcomers. One size fits all, automatic shifting, "turbo" button for quick starts. $80/mo includes theft replacement, insurance, maintenance.
-2. [Brompton Electric][e-brompton]: most compact fold; easy to bring into buildings/stores.
-3. [Tern Vekton Q9][Q9]: cargo bike, folds up for easy storage, one size fits all.
+1. [VanMoof X3][X3]: great all-around/starter city bike. One size fits all, automatic shifting, "turbo" button for quick starts. $83/mo includes theft replacement, insurance, maintenance.
+2. [Brompton Electric][e-brompton]: most compact fold, easy to bring into buildings/stores, great all-around city bike, one size fits all.
+3. [Tern Vekton Q9][Q9]: folding cargo bike, one size fits all.
 4. [Specialized Creo][Creo]: electric road-bike; light and fast, long range.
 
 Each is useful in different contexts, and together they cost less than half [the $40k average new car in the US](#cost) (see below for [starter packs from $2k or $80/mo](#starter-packs), 1/20th to 1/10th the avg new car price).
 
-I'll probably [end up with 1 or 2 more](#other-ebikes). I want the ability to take people+cargo on rides that would otherwise require an SUV (and which would still be worse in various ways, and cost even more).
+I'll probably [end up with 1 or 2 more](#other-ebikes). I want the ability to take people+cargo on rides that would otherwise require an SUV (which might still be worse in various ways, and would definitely cost much more).
 
 ### [VanMoof X3][X3] <a id="x3-review"></a>
 - Excellent all-around / starter e-bike
 - [$83/mo includes theft replacement, insurance, maintenance][VanMoof financing].
 - You may want to be within range of a VanMoof shop (I recommend [booking a test ride][VanMoof test ride] if you are!)
+
+![VanMoof + gear parked in Sheep's Meadow in Central Park, NYC](https://user-images.githubusercontent.com/465045/125368539-682f1a80-e348-11eb-8fe4-52089212e8bc.png)
 
 #### Automatic Shifting <a id="x3-shifting"></a>
 VanMoofs automatically shift gears for you, based on your speed, which makes for a simpler/carefree riding experience. I first tried it in a very hilly place, and it took some getting used to, but now I love it for casual city riding.
@@ -177,6 +179,9 @@ It worked well through the winter:
 
 I take it to Central Park pretty regularly, with picnic/Aerobie gear:
 ![VanMoof + 2 friends in Sheep's Meadow](https://user-images.githubusercontent.com/465045/125330910-53855f00-e315-11eb-9da0-c2da43bc60bc.png)
+
+I also occasionally do [grocery runs](#pov-grocery-runs) with it:
+![VanMoof with 2 cases of Wild Basin bungeed into the front rack, panniers on the back](https://user-images.githubusercontent.com/465045/125368650-b93f0e80-e348-11eb-8f72-e6250f2fa63d.png)
 
 ### Brompton Electric <a id="e-brompton-review"></a>
 I got this one most recently from [Redbeard] in Brooklyn. Bromptons are a classic/famous British folding bike, and they did a decent job engineering a motor and battery onto the front.
@@ -235,20 +240,81 @@ Carrying groceries:
 ![Q9 in elevator with shopping bags and panniers](https://user-images.githubusercontent.com/465045/125363465-a7f10480-e33e-11eb-83cd-6fa77a73f89d.png)
 
 
-### Specialized Creo Comp Carbon <a id="creo-review"></a>
+### [Specialized Turbo Creo SL Comp Carbon ("Creo")][Specialized Turbo Creo SL Comp Carbon] <a id="creo-review"></a>
+The Creo is a high-end, carbon-frame road-bike with a slick integrated motor+battery. Specialized seems to be one of the first brands to have executed on this really well, and the result is a transportation machine the likes of which has never existed before. It's really incredible: light, fast, fun to ride, smooth pedal assist, very efficient / long range.
 
-#### Pros
+That's somewhat true of many ebikes, since there are many companies exploring a huge design space, and leveraging cutting-edge battery and bike material technologies, but the Creo is remarkable for having many of the best attributes of ebikes as well as of performance road-bikes. It starts at 28lbs (including battery+motor)
+
+#### Specialzed "Turbo" E-Bikes
+Specialized is one of the most famous bike-makers, and "Turbo" is their ebike line. Their branding and marketing pages confused me for a while, but I eventually decoded the marketing-speak:
+
+There is one ebike line for each of a few different types of bikes:
+- [Creo]: road bike
+- [Levo]: mountain bike
+- [Vado]: hybrid (b/t road and mountain) bike
+- [Como]: city bike / cruiser
+
+Within each line, a few variants may appear:
+- "SL" ("Super-Light"): lighter weight version (including a less powerful motor and smaller battery), cf. [Creo SL], [Levo SL], [Vado SL], [Como SL].
+- "EQ" ("EQuipped"): comes with fenders and a rack
+- "Carbon": most Creo and Levo models have carbon frames, but their entry levels are a slightly heavier aluminum alloy
+- "Expert": slightly nicer and lighter than the entry-level carbon frames (e.g. carbon wheels, better shifter)
+- "EVO": [something about the geometry being a little more off-road friendly](https://youtu.be/FikFAkl1iDU?t=6)
+- "S-Works": this is Specialized most prestigious brand (ebike or otherwise); generally 2x the price for benefits that seem marginal to me (but I've never ridden one, and I'm a casual enough cyclist that I'd rather have 2 Creos so a friend could ride one with me than one S-Works 😄)
+
+Finally, all the links above are to marketing site / landing pages, but from there you can click through to the actual shop pages, and some decent model-comparison pages.
+
+#### Motor / Battery / Range
+- 40mi (60mi w/ extra battery that fits in water bottle holder, plugs into bike during ride) on boost 2 (of 3)
+- 90mi (135mi w/ extra battery) on boost 1 of 3
+- smaller battery and less powerful motor are nontheless very efficient
+- road-bike setup means it's easy and efficient to provide power yourself; bike just gives you a nice boost
+
+At first blush some Specialized ebike specs seemed underwhelming. For example, the Creo has a 320Wh battery and 240W motor (the lowest of all my ebikes).
+
+However, some combination of factors results in my Creo getting by far the most range of all my ebikes:
+- lower power levels generally seem to correspond to more total range; a twice-as-high boost level will exhaust a battery more than twice as quickly
+- lower power output from the bike means it is effectively tricking you into supplying more power, over a given distance
+- building on the above, the road-bike posture means it is easy and comfortable to actually work on the Creo; my other ebikes are more upright, and it's hard to help the bike much even if you want to (or get a real workout)
+- the carbon frame (and smaller battery+motor) make the Creo 10-25lbs lighter than my other ebikes, so a given Wh battery goes further
+
+I usually ride on boost level 2 (of 3), and get 40mi (or 60 with the [range extender], which is the slickest extra-battery story on any of my ebikes). The motor is super smooth, it feels like you are riding a really nice roadbike but with an incredible tailwind giving you an extra 3-5mph. It also provides assist up to 28mph (whereas my other bikes top out at 20mph).
+
+For longer rides, or rides with leg-bikers, I can drop to boost level 1, where it's effectively just compensating for the extra weight of the motor+battery (maybe a bit more), and I get 90mi (or 135 with the range extender, presumably; I haven't tested that yet!).
+
+#### Pros <a id="creo-pros"></a>
+- it's a dream to ride: fast, fun, efficient, long range, and feels like a really nice road-bike
+- you can work as much as you want on it; there are even professional cyclists starting to use it for training
+- lightweight for an ebike (28lbs, often 35 when I've fully loaded it); not exactly "throw over shoulder" light, but a big difference from other ebikes that are 2x that weight or more (electric citibikes are 75lbs!)
+- smaller frame battery combined with "range extender" extra battery means it's easy to shed a few lbs of battery weight if you know you won't need it (as opposed to other ebikes that have a large/heavier battery as the default option)
+
+#### Cons <a id="creo-cons"></a>
+- Cost ($7k): obviously this is way out of bounds for most people. I was one of those people, but once I found myself a couple ebikes in, having done a lot of research + demos, gotten very excited about the space (and exploring where the limits were and what was possible), and made peace with a significant ebike budget (embracing ebikes as a substitute for a car), I was drawn to it.
+- No integrated lights, difficult to add bags / carrying capacity, difficult/uncommon to add fenders: it is meant to be an elite racing bike, and added accessories/weight is pooh-pooh'd by bike shops and experts. Nevertheless, I wanted a lightweight+fast ebike for transportation, so [I have doggedly explored "bikepacking" setups on the Creo](#creo-gallery)
 
 
-#### Cons
+#### Gallery <a id="creo-gallery"></a>
 
+Loaded up for a bike-train-bike-boat-bike trip home from my in-laws' in Westchester:
+![Creo with Revelate 16L spinelock seatpost bag, frame bag, top tube "magtank", handlebar roll pouch, 2 snack bags, range extender in water bottle cage, and rear-view mirror](https://user-images.githubusercontent.com/465045/125376177-771dc900-e358-11eb-8584-44962b59b367.png)
 
-#### Gallery
+Same trip, at the ferry at 39th St on the west side of Manhattan:
+![Creo laden with bags, and backpack on the side, at NY Waterway ferry terminal as boat comes in](https://user-images.githubusercontent.com/465045/125376378-d67bd900-e358-11eb-89eb-a3812e17308b.png)
+
+≈2.5hrs door-to-door (similar to taking a car to Metro North, then subway from Grand Central, and close to what is often close to a 2hr drive), with less than an hour biking:
+![Strava map showing 12mi riding in 45mins on a journey from Bedford to Jersey City, including a Metro North train and NY Waterway ferry](https://user-images.githubusercontent.com/465045/125376720-9e28ca80-e359-11eb-8335-2a5de33b6d87.png)
+
+<a id="harbor-ring-day"></a>
+My longest ride to date was a 93mi day on [the "Harbor Ring" ride][Harbor Ring] (around New York harbor, except for the 2mi Verrazzano bridge between Brooklyn and Staten Island, which has 13 lanes for cars and biking/walking is prohibited):
+
+![Strava map showing a 92.8mi ride between each end of the Verrazzano bridge](https://user-images.githubusercontent.com/465045/125375455-0e821c80-e357-11eb-9589-2d0cfd80f3c7.png)
+
+I was leading a group of leg-bikes, and alternated between boost levels 1, 2, and 0 (just riding it as a regular road-bike with some extra weight, which was also totally fine, and I was generally still slowing down to wait for folks).
 
 
 ## Other Notable E-bikes <a id="other-ebikes"></a>
 
-### Specialized Turbo Vado SL ("Vado") <a id="vado"></a>
+### Specialized Turbo Vado SL EQ ("Vado") <a id="vado"></a>
 This is the "hybrid" (straight handlebars, but fast like a roadbike) version of [my "Creo" electric roadbike](#creo-review). It has the same motor/battery system that I love from the Creo, and is also just an incredible machine. It is essentially all the speed/range/quality of the Creo, but you can put a rack and panniers on it, a bit fatter tires if you want it to really be rugged, etc.
 
 My sister-in-law has a [Vado 4.0 SL EQ], and my mother-in-law has [a "step-through" version][[Vado 4.0 SL EQ Step-through]. I've been thinking about getting a [Vado 5.0 SL EQ] (newer model, has a couple nice features over the 4.0 (like the "FutureShock" handlebar suspension).
@@ -291,7 +357,8 @@ Previously, you had to be a serious cyclist to access this speed (and correspond
 The "Speed ⟹ Safety" effect is particularly true for people who are not stereotypic young/fit men (women, children of all ages, older people, differently abled people, …). I was brave enough – [some of the time][near-misses] – to bike around NYC before e-bikes, but it was not feasible for my wife (though she is in her 30's and reasonably athletic) due to the high baseline level of bullying from drivers (both inadvertent and intentional) as well as specific vitriol and threats she received as a woman taking space that some men motorists feel is theirs.
 
 Related:
-- During COVID, [Paris observed that 60% of new riders on pop-up bike lanes were women][Paris 60% new riders women]
+- During COVID, [Citibike NYC saw a 147% increase in women cycling (vs. 68% increase in men)][NYT women biking covid]
+- In Paris, [the percent of women among new bike-share subscribers rose from 40% to 49%][nextcity.org paris women biking]
 - [There's a fascinating history of bicycling + feminism][Bicycling and feminism]
 - My 70yo in-laws have been ebike-pilled in their hilly town in Westchester; it's a wonderful way to allow people to get around, get to know their own neighborhoods, get fresh air / exercise, and accomplish daily tasks.
 
@@ -982,7 +1049,6 @@ horns are loud
 [ODIER neoprene]: https://www.amazon.com/gp/product/B077SY7J6F/
 [ODIER fleece]: https://www.amazon.com/gp/product/B08M41KGZ8/
 
-[Paris 60% new riders women]: https://road.cc/content/news/6-10-users-pop-bike-lanes-paris-new-cycling-280681
 [Bicycling and feminism]: https://en.wikipedia.org/wiki/Bicycling_and_feminism
 [annual Citibike membership]: https://www.citibikenyc.com/pricing/annual
 [amzn Giro helmet]: https://www.amazon.com/gp/product/B015YW31P4/
@@ -1005,3 +1071,20 @@ horns are loud
 [Carbo Model X]: https://ridecarbo.com/products/carbo-model-x
 [Qualisports Dolphin]: https://www.qualisports.us/products/dolphin
 [Gocycle]: https://gocycle.com/
+
+[nextcity.org paris women biking]: https://nextcity.org/daily/entry/how-new-york-and-paris-got-women-into-the-bike-saddle
+[NYT women biking covid]: https://www.nytimes.com/2020/10/07/nyregion/nyc-biking-covid-women.html
+
+[Specialized Creo Comp Carbon]: https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435
+  
+[Creo]: https://www.specialized.com/turbo-creo
+[Levo]: https://www.specialized.com/turbo-levo
+[Vado]: https://www.specialized.com/turbo-vado
+[Como]: https://www.specialized.com/turbo-como
+[Creo SL]: https://www.specialized.com/turbo-creo-sl
+[Levo SL]: https://www.specialized.com/turbo-levo-sl
+[Vado SL]: https://www.specialized.com/turbo-vado-sl
+[Como SL]: https://www.specialized.com/turbo-como-sl
+[range extender]: https://www.specialized.com/us/en/sl-range-extender-battery/p/173733
+
+[Harbor Ring]: https://harborring.org/
