@@ -259,10 +259,10 @@ The "never existed before" claim can be applied to many ebikes, since there are 
 Specialized is one of the most famous bike brands, and "Turbo" is their ebike line. Their branding and marketing pages confused me at first, but I eventually decoded the marketing-speak:
 
 There are 4 types of Specialized "Turbo" ebikes:
-- [Creo]: road bike
-- [Levo]: mountain bike
-- [Vado]: hybrid (b/t road and mountain) bike
-- [Como]: city bike / cruiser
+- [Creo][Creo]: road bike
+- [Levo][Levo]: mountain bike
+- [Vado][Vado]: hybrid (b/t road and mountain) bike
+- [Como][Como]: city bike / cruiser
 
 Within each line, a few variants may appear:
 - SL ("Super-Light"): lighter weight version (including a less powerful motor and smaller battery), cf. [Creo SL], [Levo SL], [Vado SL], [Como SL].
