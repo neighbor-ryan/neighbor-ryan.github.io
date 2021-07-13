@@ -11,10 +11,10 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
 ## Contents <a id="toc"></a>
 - [Background](#background): bike-sharer → bike-owner → e-bike maniac
 - [My e-bikes](#my-ebikes)
-  - [VanMoof X3](#x3-review): great all-around / starter / city e-bike
-  - [Brompton Electric](#e-brompton-review): smallest fold, most portable, great all around
-  - [Tern Vektron Q9](#q9-review): large cargo capacity, folds up for easy storage
-  - [Specialized Creo Comp Carbon](#creo-review): light, fast, long-range
+  - [VanMoof X3](#x3): great all-around / starter / city e-bike
+  - [Brompton Electric](#e-brompton): smallest fold, most portable, great all around
+  - [Tern Vektron Q9](#q9): large cargo capacity, folds up for easy storage
+  - [Specialized Creo Comp Carbon](#creo): light, fast, long-range
 - [Reflections](#revelations)
   - [Speed ⟹ Safety](#speed-safety): higher top speed – and acceleration – make a big difference in traffic
   - [Speed ⟹ Inclusion](#speed-inclusion): a lot more people can get around quickly+comfortably on ebikes
@@ -73,12 +73,15 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
   - [Padded Shorts](#padded-shorts): [good all-around active shorts w/ pockets][amzn BALEAF shorts]
 - [Documenting Rides](#documenting-rides)
   - [Strava](#strava): robust recording app (can resume after phone crashes), good small-circle social network, good open data posture
+  - [wandrer.earth](#wandrer.earth): cool app on top of Strava, providing stats/viz about places you've been and places you might still like to explore
+  - [YouTube](#youtube): I've posted some sped-up ride videos to [Neighbor Ryan on YouTube][Neighbor Ryan YouTube]
   - [Post-Processing Videos](#post-processing): dealing with videos afterward is its own adventure
     - [External SSDs](#ssds): [1TB][amzn 1TB SSD]/[2TB][amzn 2TB SSD] Samsungs, palm-sized
     - [512GB micro-SIM](#sim): never worry about SIM-card capacity in-camera (there's enough to worry about when the data comes off the camera)
     - [Wasabi Cloud Storage](#wasabi): cheap+easy cloud storage; good option for archival video storage
     - [VFX Suites](#vfx): unfortunately necessary to do anything with action-camera videos
-- [Favorite Rides](#favorite-rides)
+
+<!-- - [Favorite Rides](#favorite-rides)
 - [Proselytization](#proselytization)
   - [War on Cars](#war-on-cars)
   - [macho cycling culture](#macho-cycling-culture)
@@ -91,6 +94,7 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
     - [CO₂ emissions](#co2-emissions)
     - [Auto Industry](#auto-industry)
   - [Counting Cars](#counting-cars)
+ -->
 
 ## Background: Bike-sharer → Bike-owner → E-bike maniac <a id="background"></a>
 The COVID "bike boom" hit me hard:
@@ -115,23 +119,23 @@ The COVID "bike boom" hit me hard:
   - Market moving quickly; many fascinating takes on what an "electric bike" can be.
   - Bought [an electric roadbike][Creo] and a [VanMoof X3][X3] (all-purpose city e-bike).
 - **June 2021**:
-  - Got a [Brompton Electric]; small fold + portable, nice for little errands, bringing it inside buildings/restaurants
+  - Got a [Brompton Electric](#e-brompton); small fold + portable, nice for little errands, bringing it inside buildings/restaurants
   - 3k total miles, mix of errands, recreation, and longer/overnight trips
 
 ![4 ebikes in my office: electric roadbike (Creo) on the wall, Brompton and Tern folded in a corner, and VanMoof X3 next to them](https://user-images.githubusercontent.com/465045/125326778-69dcec00-e310-11eb-9507-beb37eb8b4dd.png)
 
 ## E-bike Inventory <a id="my-ebikes"></a>
 My current e-bikes are:
-1. [VanMoof X3][X3]: great all-around/starter city bike. One size fits all, automatic shifting, "turbo" button for quick starts. $83/mo includes theft replacement, insurance, maintenance.
-2. [Brompton Electric][e-brompton]: most compact fold, easy to bring into buildings/stores, great all-around city bike, one size fits all.
-3. [Tern Vekton Q9][Q9]: folding cargo bike, one size fits all.
-4. [Specialized Creo][Creo]: electric road-bike; light and fast, long range.
+1. [VanMoof X3](#x3): great all-around/starter city bike. One size fits all, automatic shifting, "turbo" button for quick starts. $83/mo includes theft replacement, insurance, maintenance.
+2. [Brompton Electric](#e-brompton): most compact fold, easy to bring into buildings/stores, great all-around city bike, one size fits all.
+3. [Tern Vekton Q9](#q9): folding cargo bike, one size fits all.
+4. [Specialized Creo](#creo): electric road-bike; light and fast, long range.
 
-Each is useful in different contexts, and together they cost less than half [the $40k average new car in the US](#cost) (see below for [starter packs from $2k or $80/mo](#starter-packs), 1/20th to 1/10th the avg new car price).
+Each is useful in different contexts, and together they cost less than half [the $40k average new car in the US](#cost) (see below for [starter packs from $2k or $83/mo](#starter-packs), 1/20th to 1/10th the avg new car price).
 
-I'll probably [end up with 1 or 2 more](#other-ebikes). I want the ability to take people+cargo on rides that would otherwise require an SUV (which might still be worse in various ways, and would definitely cost much more).
+I'll probably [end up with 1 or 2 more](#other-ebikes). In particular, I want the ability to take people+cargo on rides that would otherwise require an SUV (which might still be worse in various ways, and would definitely cost much more), so [I'm eyeing a RadWagon](#radwagon).
 
-### [VanMoof X3][X3] <a id="x3-review"></a>
+### [VanMoof X3][X3] <a id="x3"></a>
 - Excellent all-around / starter e-bike
 - [$83/mo includes theft replacement, insurance, maintenance][VanMoof financing].
 - You may want to be within range of a VanMoof shop (I recommend [booking a test ride][VanMoof test ride] if you are!)
@@ -145,7 +149,7 @@ Some advice about it:
 - Use the "turbo" button liberally on uphills, and when starting from a stop.
 - The gears shift based on your speed (not cadence, or torque).
   - In the beginning I got frustrated not knowing why it wasn't shifting, or when it would, as I spun the pedals or slowed down while starting a climb.
-  - I spent some time in the app micro-managing what speeds it would shift into each gear at. After a bunch of thrashing, I think I ended up back at almost exactly the factory defaults 😂 (having also learned the glory of the turbo button).
+  - I spent some time in the app micro-managing the speeds at which it would shift into each gear. After a bunch of thrashing, I think I ended up back at almost exactly the factory defaults 😂 (having also learned the glory of the turbo button).
 
 #### Internal Locking <a id="x3-internal-locking"></a>
 VanMoofs have a lock inside the bike. You engage it by pushing a button on the frame, and disengage it from the app on your phone.
@@ -183,7 +187,7 @@ I take it to Central Park pretty regularly, with picnic/Aerobie gear:
 I also occasionally do [grocery runs](#pov-grocery-runs) with it:
 ![VanMoof with 2 cases of Wild Basin bungeed into the front rack, panniers on the back](https://user-images.githubusercontent.com/465045/125368650-b93f0e80-e348-11eb-8f72-e6250f2fa63d.png)
 
-### Brompton Electric <a id="e-brompton-review"></a>
+### Brompton Electric <a id="e-brompton"></a>
 I got this one most recently from [Redbeard] in Brooklyn. Bromptons are a classic/famous British folding bike, and they did a decent job engineering a motor and battery onto the front.
 
 ![Brompton Electric, with lights around the frame, at ferry terminal as boat comes in](https://user-images.githubusercontent.com/465045/125362410-db329400-e33c-11eb-88b6-2f70175dc69b.png)
@@ -192,7 +196,7 @@ I got this one most recently from [Redbeard] in Brooklyn. Bromptons are a classi
 - Most compact fold of all bikes (electric or not!); relatively portable ([fits in an airplane overhead bin!](https://www.google.com/search?q=brompton+overhead+bin&tbm=isch)).
 - [Half-folded "shopping cart" mode can be pushed around in stores](https://www.youtube.com/watch?v=m91tfT4AMLY).
 - Surprisingly nice ride / feels like a normal bike (despite looking a bit flimsy/silly due to small 16" wheels).
-- Decent extra battery story for increased range; currently my 2nd highest range ebike (after the [Creo](#creo-review)) as a result.
+- Decent extra battery story for increased range; currently my 2nd highest range ebike (after the [Creo](#creo)) as a result.
 - Great mix of fun/whimsy with real transportation / portability / overall utility.
 
 #### Cons
@@ -211,7 +215,7 @@ Folded into "shopping cart" mode inside a CVS:
 ![Brompton, folded in "shopping cart" mode inside a CVS](https://user-images.githubusercontent.com/465045/125362821-8ba09800-e33d-11eb-8bbb-48303f047e4b.png)
 
 
-### Tern Vektron Q9 <a id="q9-review"></a>
+### Tern Vektron Q9 <a id="q9"></a>
 This was my first ebike, from [Bfold], a delightful bike store in the East Village (David was really helpful at talking me through the market when I was starting from zero).
 
 I also test rode a Vektron at [Propel][Propel BK] in Brooklyn, who had a very slick appointment-booking flow and beautiful inventory of Reise & Muller bikes. [Their YouTube channel][Propel YouTube] is also an excellent source of ebike info; [here's their review of the Vektron](https://www.youtube.com/watch?v=FWhOQxky0lo).
@@ -240,31 +244,34 @@ Carrying groceries:
 ![Q9 in elevator with shopping bags and panniers](https://user-images.githubusercontent.com/465045/125363465-a7f10480-e33e-11eb-83cd-6fa77a73f89d.png)
 
 
-### [Specialized Turbo Creo SL Comp Carbon ("Creo")][Specialized Turbo Creo SL Comp Carbon] <a id="creo-review"></a>
+### [Specialized Turbo Creo SL Comp Carbon ("Creo")][Specialized Turbo Creo SL Comp Carbon] <a id="creo"></a>
 The Creo is a high-end, carbon-frame road-bike with a slick integrated motor+battery. Specialized seems to be one of the first brands to have executed on this really well, and the result is a transportation machine the likes of which has never existed before. It's really incredible: light, fast, fun to ride, smooth pedal assist, very efficient / long range.
 
-That's somewhat true of many ebikes, since there are many companies exploring a huge design space, and leveraging cutting-edge battery and bike material technologies, but the Creo is remarkable for having many of the best attributes of ebikes as well as of performance road-bikes. It starts at 28lbs (including battery+motor)
+![Creo plugged in + charging, along with "range extender" extra battery](https://user-images.githubusercontent.com/465045/125377936-d7fad080-e35b-11eb-8bc4-0784a04bfeef.png)
 
-#### Specialzed "Turbo" E-Bikes
-Specialized is one of the most famous bike-makers, and "Turbo" is their ebike line. Their branding and marketing pages confused me for a while, but I eventually decoded the marketing-speak:
+The "never existed before" claim can be applied to many ebikes, since there are many companies exploring a huge design space, and leveraging cutting-edge battery and bike material technologies, but the Creo is remarkable for having many of the best attributes of ebikes as well as of performance road-bikes. It starts at 28lbs (including battery+motor), has the most range (40-130mi, depending on boost level and extra battery use), and provides a mobility superpower that very few people have experienced.
 
-There is one ebike line for each of a few different types of bikes:
+#### Specialzed "Turbo" E-Bikes <a id="specialized-turbo"></a>
+Specialized is one of the most famous bike brands, and "Turbo" is their ebike line. Their branding and marketing pages confused me at first, but I eventually decoded the marketing-speak:
+
+There are 4 types of Specialized "Turbo" ebikes:
 - [Creo]: road bike
 - [Levo]: mountain bike
 - [Vado]: hybrid (b/t road and mountain) bike
 - [Como]: city bike / cruiser
 
 Within each line, a few variants may appear:
-- "SL" ("Super-Light"): lighter weight version (including a less powerful motor and smaller battery), cf. [Creo SL], [Levo SL], [Vado SL], [Como SL].
-- "EQ" ("EQuipped"): comes with fenders and a rack
-- "Carbon": most Creo and Levo models have carbon frames, but their entry levels are a slightly heavier aluminum alloy
-- "Expert": slightly nicer and lighter than the entry-level carbon frames (e.g. carbon wheels, better shifter)
-- "EVO": [something about the geometry being a little more off-road friendly](https://youtu.be/FikFAkl1iDU?t=6)
-- "S-Works": this is Specialized most prestigious brand (ebike or otherwise); generally 2x the price for benefits that seem marginal to me (but I've never ridden one, and I'm a casual enough cyclist that I'd rather have 2 Creos so a friend could ride one with me than one S-Works 😄)
+- SL ("Super-Light"): lighter weight version (including a less powerful motor and smaller battery), cf. [Creo SL], [Levo SL], [Vado SL], [Como SL].
+- EQ ("EQuipped"): comes with fenders and a rack
+- Carbon: most Creo and Levo models have carbon frames, but their entry levels are a slightly heavier aluminum alloy
+- Expert: slightly nicer and lighter than the entry-level carbon frames (e.g. carbon wheels, better shifter)
+- EVO: [something about the geometry being a little more off-road friendly](https://youtu.be/FikFAkl1iDU?t=6)
+- S-Works: this is Specialized most prestigious brand (ebike or otherwise); generally 2x the price for benefits that seem marginal to me (but I've never ridden one, and I'm a casual enough cyclist that I'd rather have 2 Creos so a friend could ride one with me than one S-Works 😄)
 
-Finally, all the links above are to marketing site / landing pages, but from there you can click through to the actual shop pages, and some decent model-comparison pages.
+Finally, the links above go to marketing sites for each ebike line, but from there you can click through to the actual shop pages, and some decent model-comparison pages.
 
 #### Motor / Battery / Range
+**tl;dr:**
 - 40mi (60mi w/ extra battery that fits in water bottle holder, plugs into bike during ride) on boost 2 (of 3)
 - 90mi (135mi w/ extra battery) on boost 1 of 3
 - smaller battery and less powerful motor are nontheless very efficient
@@ -283,25 +290,27 @@ I usually ride on boost level 2 (of 3), and get 40mi (or 60 with the [range exte
 For longer rides, or rides with leg-bikers, I can drop to boost level 1, where it's effectively just compensating for the extra weight of the motor+battery (maybe a bit more), and I get 90mi (or 135 with the range extender, presumably; I haven't tested that yet!).
 
 #### Pros <a id="creo-pros"></a>
-- it's a dream to ride: fast, fun, efficient, long range, and feels like a really nice road-bike
-- you can work as much as you want on it; there are even professional cyclists starting to use it for training
-- lightweight for an ebike (28lbs, often 35 when I've fully loaded it); not exactly "throw over shoulder" light, but a big difference from other ebikes that are 2x that weight or more (electric citibikes are 75lbs!)
-- smaller frame battery combined with "range extender" extra battery means it's easy to shed a few lbs of battery weight if you know you won't need it (as opposed to other ebikes that have a large/heavier battery as the default option)
+- It's a dream to ride: fast, fun, efficient, long range, and feels like a really nice road-bike.
+- You can work as much as you want on it; there are even professional cyclists starting to use it for training.
+- Lightweight for an ebike (28lbs):
+  - More like 35lbs with the baggage I always keep on it (tubes/pump in handlebar roll bag, misc junk in handlebar "snack bags").
+  - Not exactly "throw over your shoulder" light, but a big difference from other ebikes that are 2x that weight or more (electric citibikes are 75lbs!).
+- Smaller frame battery combined with "range extender" extra battery means it's easy to shed a few lbs of battery weight if you know you won't need it (as opposed to other ebikes that have a large/heavier battery as the default option)
 
 #### Cons <a id="creo-cons"></a>
 - Cost ($7k): obviously this is way out of bounds for most people. I was one of those people, but once I found myself a couple ebikes in, having done a lot of research + demos, gotten very excited about the space (and exploring where the limits were and what was possible), and made peace with a significant ebike budget (embracing ebikes as a substitute for a car), I was drawn to it.
-- No integrated lights, difficult to add bags / carrying capacity, difficult/uncommon to add fenders: it is meant to be an elite racing bike, and added accessories/weight is pooh-pooh'd by bike shops and experts. Nevertheless, I wanted a lightweight+fast ebike for transportation, so [I have doggedly explored "bikepacking" setups on the Creo](#creo-gallery)
-
+- No integrated lights, difficult to add bags / carrying capacity, difficult/uncommon to add fenders: it is meant to be an elite racing bike, and added accessories/weight is pooh-pooh'd by bike shops and experts. Nevertheless, I wanted a lightweight+fast ebike for transportation, so [I have made some "bikepacking" configurations work](#creo-bikepacking).
 
 #### Gallery <a id="creo-gallery"></a>
 
+<a id="creo-bikepacking"></a>
 Loaded up for a bike-train-bike-boat-bike trip home from my in-laws' in Westchester:
 ![Creo with Revelate 16L spinelock seatpost bag, frame bag, top tube "magtank", handlebar roll pouch, 2 snack bags, range extender in water bottle cage, and rear-view mirror](https://user-images.githubusercontent.com/465045/125376177-771dc900-e358-11eb-8584-44962b59b367.png)
 
 Same trip, at the ferry at 39th St on the west side of Manhattan:
 ![Creo laden with bags, and backpack on the side, at NY Waterway ferry terminal as boat comes in](https://user-images.githubusercontent.com/465045/125376378-d67bd900-e358-11eb-89eb-a3812e17308b.png)
 
-≈2.5hrs door-to-door (similar to taking a car to Metro North, then subway from Grand Central, and close to what is often close to a 2hr drive), with less than an hour biking:
+≈2.5hrs door-to-door (similar to taking a car to Metro North then subway from Grand Central, and comparable to a 90-120mins drive), with less than an hour biking:
 ![Strava map showing 12mi riding in 45mins on a journey from Bedford to Jersey City, including a Metro North train and NY Waterway ferry](https://user-images.githubusercontent.com/465045/125376720-9e28ca80-e359-11eb-8335-2a5de33b6d87.png)
 
 <a id="harbor-ring-day"></a>
@@ -309,18 +318,18 @@ My longest ride to date was a 93mi day on [the "Harbor Ring" ride][Harbor Ring] 
 
 ![Strava map showing a 92.8mi ride between each end of the Verrazzano bridge](https://user-images.githubusercontent.com/465045/125375455-0e821c80-e357-11eb-9589-2d0cfd80f3c7.png)
 
-I was leading a group of leg-bikes, and alternated between boost levels 1, 2, and 0 (just riding it as a regular road-bike with some extra weight, which was also totally fine, and I was generally still slowing down to wait for folks).
-
+I was leading a group of leg-bikes, and alternated between boost levels 1, 2, and 0 (just riding it as a regular road-bike with some extra weight, which was also totally fine; I was generally still slowing down to wait for folks).
 
 ## Other Notable E-bikes <a id="other-ebikes"></a>
+Some other models I've looked at or helped people buy:
 
-### Specialized Turbo Vado SL EQ ("Vado") <a id="vado"></a>
-This is the "hybrid" (straight handlebars, but fast like a roadbike) version of [my "Creo" electric roadbike](#creo-review). It has the same motor/battery system that I love from the Creo, and is also just an incredible machine. It is essentially all the speed/range/quality of the Creo, but you can put a rack and panniers on it, a bit fatter tires if you want it to really be rugged, etc.
+### [Specialized Turbo Vado SL ("Vado")][Vado SL] <a id="vado"></a>
+This is the "hybrid" (straight handlebars, but fast like a roadbike) version of [my "Creo" electric roadbike](#creo) (part of [the Specialized "Turbo" ebike line discussed above](#specialized-turbo)). It has the same motor/battery system that I love from the Creo, and is also just an incredible machine. It has essentially all the speed/range/quality of the Creo, but you can put a rack and panniers on it and haul stuff / use it around a city a bit more easily.
 
-My sister-in-law has a [Vado 4.0 SL EQ], and my mother-in-law has [a "step-through" version][[Vado 4.0 SL EQ Step-through]. I've been thinking about getting a [Vado 5.0 SL EQ] (newer model, has a couple nice features over the 4.0 (like the "FutureShock" handlebar suspension).
+My sister-in-law has a [Vado 4.0 SL EQ], and my mother-in-law has [a "step-through" version][Vado 4.0 SL EQ Step-through]. I've been thinking about getting a [Vado 5.0 SL EQ] (newer model, has a couple nice features over the 4.0 (like [the "Future Shock" handlebar suspension][Specialized Future Shock]).
 
 ### [RadWagon] <a id="radwagon"></a>
-This is a true cargo e-bike (moreso than [my Vektron Q9](#q9-review), which has less capacity and power) for just $1900. [RadPower is aggressively targeting a mainstream price point][radpower-150mm], seemingly mimicking Tern designs but with less premium components and a more mass-market focus.
+This is a true cargo e-bike (as opposed to [my Vektron Q9](#q9), which has less capacity and power, as a foldability tradeoff) for just $1900. [RadPower is aggressively targeting a mainstream price point][radpower-150mm], seemingly mimicking Tern designs but with less premium components and a more mass-market focus.
 
 This is a leading contender for my 5th e-bike, since I still have occasional cargo/hauling needs beyond what I can accomplish with my Q9, and it is so aggressively priced.
 
@@ -437,6 +446,9 @@ There is a small (but growing), dedicated group of people that love to show off 
 
 [![cargo bike loaded with potting soil and a roll of chain-link fence](https://user-images.githubusercontent.com/465045/109441109-5a64a280-7a02-11eb-9756-6942cb5d34c4.png)](https://twitter.com/Ollie_Cycles/status/1358866369056563204)
 
+[![Bullitt bakfiet with multiple air conditioners in the front "box"](https://user-images.githubusercontent.com/465045/125380346-12ff0300-e360-11eb-9cbe-07fc4fa993f8.png)
+](https://twitter.com/fighterkites/status/1400141235558432769)
+
 #### Kids <a id="kids"></a>
 Even my X3 (VanMoof's smallest bike) supports [a Yepp child seat][yepp-maxi] (the most popular brand I see used):
 
@@ -447,11 +459,14 @@ Larger bikes can fit 2 on the back easily:
 [![Woman biking in heels with two children facing each other and playing "patty cake" on the back of the bike](https://user-images.githubusercontent.com/465045/109443060-99e1bd80-7a07-11eb-97b7-98d079e9c2e8.png)
 ](https://twitter.com/christineadair/status/1289669201674690560)
 
-There are also front-loading options:
+There are also front-loading options ("bakfiets" or "box bikes"):
 
 ![Woman cargo-biking in NYC with 2 children in a bakfiet](https://user-images.githubusercontent.com/465045/109441210-9f88d480-7a02-11eb-90a3-90065b0b3b85.png)
 
 [![Cargo bike carrying three children and their bikes](https://user-images.githubusercontent.com/465045/109442955-643cd480-7a07-11eb-8097-677d2e7491ad.jpeg)](https://twitter.com/genepedia/status/1272606386401079296)
+
+[![Urban Arrow bakfiet with 2 kids in the front](https://user-images.githubusercontent.com/465045/125380451-3629b280-e360-11eb-8a09-3122f04eec74.png)
+](https://twitter.com/jeffnovich/status/1400549753205800963)
 
 Of course, it's possible to do even more with less:
 
@@ -547,6 +562,9 @@ Cyclists would rather be on roads than on sidewalks, but will always use sidewal
 
 The solution to sidewalk-riding nuisances is to make roads safe for cycling. Pedestrian/Cyclist conflicts are a distraction from cars' being allocated most public space.
 
+[![Comic showing drivers with plenty of space and pedestrians and cyclists fighting for scraps](https://user-images.githubusercontent.com/465045/125380543-56f20800-e360-11eb-9b80-b0a93d904f21.png)
+](https://mobile.twitter.com/_dmoser/status/1405782816386859011)
+
 ![comic showing roads full of cars and parking, a family on bikes on a sidewalk, and a driver saying "If you take this parking for a bike lane, where will I park my car?! You're not considering my needs!"](https://user-images.githubusercontent.com/465045/125346318-96503280-e327-11eb-93df-b407b8b26c99.png)
 
 #### Stopping at stop signs + red lights <a id="stopping-at-stops"></a>
@@ -575,7 +593,7 @@ Lights are definitely useful for safety; "more" is "merrier" as far as I'm conce
 
 Something I like about ebikes is that most of them have integrated lights. Not having to fuss with charging separate lights makes the whole process of riding safely at night much simpler.
 
-[Discussion of specific lights I like in "Gear" below](#lights)
+See [discussion of specific lights I like in "Gear" below](#lights).
 
 #### Hi-Viz Clothing <a id="hi-viz"></a>
 I usually wear [this $15 pink hi-viz vest while riding][amzn pink hi-viz vest]:
@@ -604,11 +622,21 @@ I also used Street View extensively when making https://bit.ly/mellowbikewestche
 I've also been surprised not to find any decent map apps that make it easy to see roads' speed-limits at a glance. I suspect the required data may exist in [OSM], but haven't had a chance to explore it much yet.
 
 #### Ride with GPS <a id="ride-with-gps"></a>
-I haven't used https://ridewithgps.com/ too much, but it seems to be a good place to look up and share routes that others have ridden.
+https://ridewithgps.com/ is one of the best tools for planning/sharing/discovering bike routes.
 
-For example, [here is someone's route up Manhattan's West Side Highway, looping between the George Washington and Tappan Zee bridges][rwgps-bridge-loop]:
+For example, [here's someone's route up Manhattan's West Side Highway and looping between the George Washington and Tappan Zee bridges][rwgps-bridge-loop]:
 
 [![Screenshot of a "Ride with GPS" route, showing a map view, elevation over distance, and summary statistics](https://user-images.githubusercontent.com/465045/110040762-4cb86100-7d11-11eb-8728-96871c71d024.png)][rwgps-bridge-loop]
+
+Here is a route I made (and hope to ride soon) that includes 23 NYC bridges (all Manhattan bridges and a few in Brooklyn and Roosevelt/Randall's Islands) and 1 boat:
+
+[![RideWithGPS screenshot showing route around Manhattan, zig-zagging back and forth over bridges](https://user-images.githubusercontent.com/465045/125381047-3aa29b00-e361-11eb-9d83-de2b1afe96bf.png)
+](https://ridewithgps.com/routes/36753944)
+
+#### Strava <a id="strava-route-planning"></a>
+Strava also has route-planning features that seem decent; [here's the same "23 Bridges 1 Boat" route](https://www.strava.com/routes/2849702787779782978) on Strava.
+
+Both Strava and RideWithGPS make it easy to export and import things in GPX or other formats, so data portability is easy, which is refreshing.
 
 #### "mellow bike maps" <a id="mellow-bike-maps"></a>
 Inspired by [the Chicago "mellow bike map"][mellow-bike-chicago], I made a ["mellow bike Westchester" Google map][mellow-bike-westchester] while staying up there for a few weeks and trying to plan rides (for myself and others less experienced, where it was extra important not to accidentally end up on no-shoulder 45mph roads):
@@ -618,7 +646,7 @@ Inspired by [the Chicago "mellow bike map"][mellow-bike-chicago], I made a ["mel
 ## Starter Packs <a id="starter-packs"></a>
 
 ### VanMoof X3 ($2k; $3k w/ gear) <a id="vanmoof-x3-pack"></a>
-The [VanMoof X3][X3] is the cheapest of my 3 ebikes, but is the best all-around / my go-to e-bike for trips around the city.
+The [VanMoof X3](#x3) is the cheapest of my 3 ebikes, but is the best all-around and my go-to e-bike for trips around greater NYC.
 
 It starts at $2k, but I added:
 - VanMoof's 3yr theft+maintenance plan ($590); 
@@ -627,10 +655,10 @@ It starts at $2k, but I added:
 - [fleece-lined pogies][ODIER fleece] ($47) for toasty hands in below-freezing temps (I've only had it during winter months, so far)
 - [bungee cable set] ($14) for securing items in the front basket
 
-This $2k-$3k package should let you replace/improve a wide class of trips that you'd otherwise use other modes for. [See my more in-depth review below for more info](#x3-review).
+This $2k-$3k package should let you replace/improve a wide class of trips that you'd otherwise use other modes for. [See my more in-depth review below for more info](#x3). Also, the bike + plan can be financed for $83/mo.
 
-### RadPower: <$2k? <a id="radpower"></a>
-I actually have no experience with RadPower, but they are worth mentioning as a popular brand that [is aggressively going after a lower-pricepoint, mainstream audience][radpower-150mm].
+### [RadPower]: <$2k <a id="radpower"></a>
+RadPower are a popular brand that [is aggressively targeting a lower-pricepoint, mainstream audience][radpower-150mm]. [My 5th/next e-bike will likely be a RadWagon](#radwagon); they seem to be easy to order online and shipping reasonably quickly.
 
 ## Reading <a id="reading"></a>
 
@@ -644,7 +672,7 @@ Here's are their reviews of [a Creo similar to mine][ebr-creo] and my [Tern Vekt
 ### [r/ebikes](https://www.reddit.com/r/ebikes/) <a id="r-ebikes"></a>
 Nice forum with encouraging/inspirational stories and examples
 
-You might also find vendor-specific subreddits useful, like [r/vanmoof].
+Vendor-specific subreddits are often, e.g. [r/vanmoof] or [r/brompton].
 
 ## Gear / Accessories <a id="gear"></a>
 The right add-ons might cost 10-20% what your bike cost, but make it 10x more useful. Understanding the types of gear and accessories – let alone specific models – can be overwhelming.
@@ -652,7 +680,7 @@ The right add-ons might cost 10-20% what your bike cost, but make it 10x more us
 Before I e-biked, I lived out of a backpack while in+around the city. Getting that weight off of me and onto the bike while in transit has been a huge improvement. The options for letting the bike roll things along with you – from "a purse" up to "several suitcases" – are worth exploring.
 
 ### Helmets <a id="helmets"></a>
-(See [discussion of helmets from a safety PoV above][#helmets-safety])
+(See [discussion of helmets from a safety PoV above](#helmets-safety))
 
 I wear [a Lumos light-up helmet][lumos helmet] on all my rides. In the past, I used [this more compact+lightweight Giro helmet][amzn Giro helmet], which I would clip onto a backpack and take on the subway, into the office, etc.
 
@@ -669,7 +697,7 @@ There are a lot of incredible bags you can put on your bike. Panniers are the wo
 ![Revelate image of a dirty touring bike with may bags attached all over](https://user-images.githubusercontent.com/465045/110191019-79917480-7df4-11eb-9b2a-44f7b6a64135.png)
 *this is the bike version of SUV commercials that show ridiculous off-roading the average SUV-owner will never do*
 
-I bought 1 (or [6][revelate feedbag]) of nearly every bag they offer, and typically mix-and-match which bags make the most sense on which bikes for a given ride.
+I bought 1 (or [6][revelate feedbag]) of nearly every bag they offer (see [my Creo bikepacking setup above](#creo-bikepacking)), and typically mix-and-match which bags make the most sense on which bikes for a given ride.
 
 Getting weight off of you (esp. your back!) and onto the bike – where it just rolls – is an amazing part of getting around by bike (as opposed to walking or other transit modes where you may sometimes wind up standing).
 
@@ -682,8 +710,8 @@ Panniers are bags you can attach to a rack on the back of your bike, and are a g
 
 I've tested a few kinds:
 - [Ortlieb Back-Roller Classics] ($190/pair, 40L ea) are [a well-regarded set][wirecutter-ortlieb] that I've had the best experience with.
-- I have [Tern-brand panniers][tern bucketload panniers] ($200/pair, 24L ea) for [my Tern](#q9-review), and they work well.
-- I ordered [VanMoof panniers][vanmoof-small-panniers] (€78/pair, 18L ea) for [my VanMoof](#x3-review), but they haven't arrived yet, and the Ortliebs fit and work well (and are larger), so I'm not sure I'll need them.
+- I have [Tern-brand panniers][tern bucketload panniers] ($200/pair, 24L ea) for [my Tern](#q9), and they work well.
+- I ordered [VanMoof panniers][vanmoof-small-panniers] (€78/pair, 18L ea) for [my VanMoof](#x3), but they haven't arrived yet, and the Ortliebs fit and work well (and are larger), so I'm not sure I'll need them.
 - I also have a set of [Banjo Brothers Market Panniers] ($120/pair, 24L ea) that I've never really gotten in to using.
 - Finally, I got [this backpack that converts to a pannier][backpack-pannier] ($180, 30L), and it's been very useful.
 
@@ -698,12 +726,14 @@ Between them, I'll carry a battery that charges my phone while riding (and [some
 [The Revelate Mag-Tank 2000][revelate mag-tank 2000] (and earlier/smaller [Mag-Tank][revelate mag-tank]) are great bags that can sit on top of your top tube and hold lots of good stuff. Sometimes I'll have one up front and another at the base of my seat, and between them store wallet/keys, [cable lock][OTTO cable lock], full flat-change kit (tire levers, spare tube, CO₂ cartridge, multi-tool, patch-kit), etc. They're also easily openable/closeable with one hand, and the magnetic clasp is nice.
 
 #### Back-Rack / Seat Bags <a id="back-bags"></a>
-TODO
+I have used Revelate's [8L "Terrapin"] bag and [16L "Spinelock"] bag; both are great, especially for bulky but lightweight items like clothes.
+
+I've also used a Topeak [Aero Wedge seat bag][Topeak Aero Wedge seat bag] and [MTX Trunk Bag Dx][Topeak MTX Trunk Bag Dx].
 
 ### Phone Mounts <a id="phone-mounts"></a>
 Having my phone mounted up front on my handlebars has been surprisingly useful. I typically have Google Maps' turn-by-turn directions or [Strava's](#strava) speedometer up while riding:
 
-[![chest-cam shot of phone mounted on handlebars displaying a Google Map, another e-biker is in front, and the George Washington Bridge is in the background](https://user-images.githubusercontent.com/465045/110153857-948ec500-7db1-11eb-8fd9-3b13e3d68e5d.png)][strava-ebike-day]
+[![Chest-cam shot of phone mounted on handlebars displaying a Google Map, another e-biker is in front, and the George Washington Bridge is in the background](https://user-images.githubusercontent.com/465045/110153857-948ec500-7db1-11eb-8fd9-3b13e3d68e5d.png)][strava-ebike-day]
 
 When getting started, you're mostly riding in areas you're less familiar with. Having the map handy helps to not feel lost or get lost, as well as to e.g. find detours if a road doesn't feel safe.
 
@@ -716,6 +746,9 @@ You want a white "headlight" facing forward and a red taillight facing backward.
 - [Vont 'Pyro' (set)][amzn vont pyro light] ($14): front+rear, good+cheap
 - [KNOG (set)][amzn knog lights] ($29): front+rear, very convenient; plug lights directly in to any USB-A port to charge, easy to clip them to things. Good backups to keep in [a bag](#cockpit-bags)
 
+[My Lumos light-up helmet](#helmets) is also a good light to have (at a higher, more visible location).
+
+#### Party lights <a id="party-lights"></a>
 I've also thrown [party][amzn party light] [lights][amzn party light 2] and [wheel lights][amzn wheel lights] on bikes:
 
 ![bike with disco lights illuminating pavement around it](https://user-images.githubusercontent.com/465045/110817750-95fd3900-825a-11eb-8547-1e085421fb26.png)
@@ -732,7 +765,7 @@ There's no substitute for [secure bike parking infrastructure](#bike-vs-car-stor
 
 Other lock systems worth noting:
 - [ABUS frame locks] stay on the bike and seem like a convenient and secure option
-- [VanMoofs](#x3-review) have [an internal lock](#x3-internal-locking) that provides added security.
+- [VanMoofs](#x3) have [an internal lock](#x3-internal-locking) that provides added security.
 - [The Wirecutter has a more comprehensive review of the bike lock market][wirecutter bike locks].
 
 People that have to lock bikes outside in cities can use stronger locks – like [Kryptonite's "New York Fahgettaboudit" line][amzn kryptonite new york] – and [heavy chains][kryptonite chain]. However, these are heavy, and [can still be cut][twitter vanmoof theft] by thieves with angle-grinders and time (especially overnight, having observed bikes locked in the same place every night).
@@ -740,10 +773,11 @@ People that have to lock bikes outside in cities can use stronger locks – like
 Bike theft is clearly organized crime in many cities, but is not something law enforcement seems to spend much energy on. Increasing cooperation between [national bike registries][bike index], [bike insurers](#insurance), and bike- and lock-manufacturers (adding location-tracking to bikes and even [sending their own teams to find them][vanmoof bike hunters]) will hopefully improve this in the future.
 
 #### Insurance <a id="insurance"></a>
-A friend whose family e-bikes in Jersey City recommends [Velosurance]:
+I got [Velosurance], on a recommendation from a friend whose family e-bikes in Jersey City; he said:
+
 > I fear theft but I purchased an insurance policy from Velosurance. This helps me sleep at night; as long as I've locked the bike to a fixed object, I'm covered. You should think about it.
 
-Plugging in my bikes' info, the monthly quotes are around 1/300th the bike's cost, or 4% / 1/25th per year. That's cheaper than I expected! If I end up frequently needing to leave bikes locked outside / out of sight, I will probably get this.
+My monthly quotes were around 1/300th the bike's cost, or 4% / 1/25th per year, which was cheaper than I expected! Thankfully, I haven't had to use it yet, but having it has given me peace of mind.
 
 ### Misc. Accessories <a id="misc-accessories"></a>
 - Bells: [this $6 Amazon bell][amzn bell] has worked well for me 3x. I also got [a Spurcycle][spurcycle-bell] ($49) after hearing that it is the best, but I think I prefer the Amazon one 🤷🏼‍♂️.
@@ -799,9 +833,15 @@ I've bought heated socks from [Binnice](https://www.amazon.com/gp/product/B08DKR
 I have [a 40-pair box of disposable hand warmers][hand-warmers-box], and keep 3 pairs in a side pocket of my [handlebar bags](#cockpit-bags) when it's cold out (just in case). They're a good fail-safe if [heated gloves](#heated-gloves) or [socks](#heated-socks) aren't enough (or you didn't think you'd need them). Supposedly you can "recharge" them with boiling water, so as to avoid single-use waste, though I've not tried that.
 
 ### Action Cameras <a id="action-cameras"></a>
-I film basically all my rides. It's mostly a nice-to-have safety thing (though potentially only useful if something truly horrible happens 😔). Some of my rides feel like incredible ways to see the city, and [I am working on processing+sharing them](#post-processing) in ways that convey that. It's also useful for [mundane documentation of road conditions][SCF 10th st pothole], [filing 311 tickets][hoboken xwalk tweet], etc.
+I film basically all my ride with 2 GoPros: [one chest-mounted, one rear-facing, seat-rail mounted](#camera-mounts). They're mostly a nice-to-have safety measure (though presumably only useful if something truly horrible happens 😔), but some of my rides also feel like incredible ways to see the city, and [I am working on processing+sharing them](#post-processing) in ways that convey that. They're also useful for [mundane documentation of road conditions][SCF 10th st pothole], [filing 311 tickets][hoboken xwalk tweet], etc. One day last winter, I lost a glove on a ride, and [was able to find on my tapes where it had popped out of my front basket](https://www.strava.com/activities/4638483151).
 
-I use a [GoPro Hero 9 Black], mounted in a chest harness that came in [this $30, 50pc gear kit][amzn gopro kit]. It's the latest GoPro, and seems noticeably better than the [Hero 8][GoPro Hero 8 Black] I had previously; it has a bigger battery, and supposedly better stabilization. Both are much better than the [Hero 5 Session][GoPro Hero 5 Session] I started with.
+[![Cockpit view showing extra glove falling out of basket onto road while hitting a pothole](https://user-images.githubusercontent.com/465045/125384395-dda9e380-e366-11eb-9c89-48c16df8fdf6.png)
+](https://photos.app.goo.gl/gDTbMgUbVnxDDBv4A)
+
+We went back the next day, and someone had put it up more visibly:
+![Lost glove on a mailbox near where it was lost](https://user-images.githubusercontent.com/465045/125384578-1fd32500-e367-11eb-878b-72497a0fa48c.png)
+
+My GoPros are a [Hero 9][GoPro Hero 9 Black] and a [Hero 8][GoPro Hero 8 Black], and I choose which one faces forward vs. backward each ride (rear-cam gets good front-on shots of people I'm riding with, so sometimes I'll put the higher-quality Hero 9 back there, otherwise I face it forward to get the best shots of what I'm seeing). The Hero 9 is the latest GoPro, and seems noticeably better than the [Hero 8][GoPro Hero 8 Black]; it has a bigger battery, supposedly better stabilization, and can sit on my desk with no battery in for longer before [resetting its date+time to 1/1/2016](https://community.gopro.com/t5/Cameras/Hero-9-Date-amp-amp-Time-defaults-to-1-1-2016/td-p/783025). Both are much better than the [Hero 5 Session][GoPro Hero 5 Session] I started with.
 
 #### Batteries <a id="camera-batteries"></a>
 I have ended up with 5 batteries and 2 2-battery chargers for each of my GoPros:
@@ -809,7 +849,7 @@ I have ended up with 5 batteries and 2 2-battery chargers for each of my GoPros:
 ![GoPro Hero 8 and 9 cameras and 5 batteries – including 2 2-battery chargers – for each](https://user-images.githubusercontent.com/465045/110830639-6dc80700-8267-11eb-855f-6f949a376f5d.png)
 (*[this 3x-USB-C cable][amzn 3xUSB-C cable] is handy*)
 
-I get ≈90mins of film time per battery at 1080p24, so swapping batteries on longer rides is normal.
+I get ≈90mins of film time per battery at 1080p24, so swapping batteries on longer rides is common. It's a bit annoying to have to pay attention to, but I guess it also ensures I don't go too long without a break / sip of water.
 
 #### Camera Mounting <a id="camera-mounting"></a>
 I keep one of [these quick-release "J-hooks" on each camera][amzn j-hooks]:
@@ -820,16 +860,34 @@ I keep one of [these quick-release "J-hooks" on each camera][amzn j-hooks]:
 
 [![quick-release plate with screws underneath](https://user-images.githubusercontent.com/465045/110822710-54bb5800-825f-11eb-9f05-45d5727e0fa4.png)][amzn tripod adapter]
 
-The chest harness already has this interface, but I have several tripods for stationary filming ([small][amzn small tripod], [large][amzn large tripod], [foldy][amzn foldy tripod]).
+My chest harness came in [this $30, 50pc gear kit][amzn gopro kit], and my seat-rail mount [involves several more adapters than one might hope](https://www.reddit.com/r/gopro/comments/ntq8nv/rgopro_weekly_questions_thread_ask_all_of_your/h1vtohq):
+
+![Schematic of a seat-rail GoPro mount and various adapters to give me a permanent "quick-release" buckle on my bikes, that I can quickly clip cameras into and out of](https://user-images.githubusercontent.com/465045/125383366-4beda680-e365-11eb-889c-8c841c4a7dca.png)
+
+I also have several tripods for stationary filming ([small][amzn small tripod], [large][amzn large tripod], [foldy][amzn foldy tripod]).
 
 ### Padded Shorts <a id="padded-shorts"></a>
 I often wear [BALEAF padded bike shorts][amzn BALEAF shorts] ($29); padded shorts seemed a little silly at first, but they're pretty good for biking but also misc other outdoor activities. I got some baggy swimsuit-style padded shorts and some spandex-y ones like this, and liked the latter better. The pockets on these are great as well. As it cooled down, I would wear them over tights.
 
 ## Documenting Rides <a id="documenting-rides"></a>
-TODO
+I've enjoyed tracking and documenting my rides on a few services:
 
 ### Strava <a id="strava"></a>
-TODO
+I really like [Strava](strava.com) for recording and sharing rides. I pay them an annual fee, the app is well built, and they don't try to own my data in any way. It is also serves as a nice shared-interest-driven social network.
+
+### [wandrer.earth](https://wandrer.earth/) <a id="wandrer.earth"></a>
+This is an app I love that lives on top of Strava's API, imports your Strava history, and gives you cool statistics and visualizations about where you've been.
+
+The "[Big Map](https://wandrer.earth/dashboard/map#7.75/40.618/-73.792)" is one of the main attractions:
+
+![Map of places I've explored in NYC, NJ, Westchester County, and Connecticut](https://user-images.githubusercontent.com/465045/125385676-f1564980-e368-11eb-95c0-0f844dbedaae.png)
+
+I have a shortcut to this page on my phone home screen. On some rides I leave it open and use it to navigate in real-time, trying to ride as many new/unexplored roads as possible. It's really fun and a cool way to explore an area.
+
+wandrer.earth also showcases some good open-data norms in the apps people use for these purposes; it sits on top of Strava and provides some additional, more niche features that I also pay for (separate from my underlying Strava subscription). After all the perversity of consumers' relationships to big, ad-driven tech co's, there's something nice about having these clear, transactional relationships with developers making useful apps but not trying to own me or my data or my eyeballs!
+
+### YouTube <a id="youtube"></a>
+I've posted a few ride videos to [a Neighbor Ryan YouTube channel](https://www.youtube.com/channel/UCUEDi4kDGExvmx0g0gkVwkA/videos).
 
 ### Post-Processing Videos <a id="post-processing"></a>
 When you start filming rides (cf. ["Action Cameras"](#action-cameras)), you'll quickly generate huge amounts of data. My GoPro can shoot 4K60, but I learned the hard way to ratchet down to 1080p24. GoPros cut shots into 4GB "chapters" (≈11mins at that resolution). My laptop's 1TB SSD could hold ≈45hrs of this "low"-res video (if I had nothing else on it).
@@ -855,12 +913,12 @@ https://goprotelemetryextractor.com/ seems good and able to deal with GoPro GPS/
 
 I used to use GoPro's "Quik" app just for an auto-import when I plug my SIM in; I never found the VFX features usable. I've since given up on it altogether.
 
-## Favorite Rides <a id="favorite-rides"></a>
+<!-- ## Favorite Rides <a id="favorite-rides"></a>
 TODO
-
+ -->
 -------
 
-## Proselytization
+<!-- ## Proselytization
 
 ### War on Cars <a id="war-on-cars"></a>
 
@@ -871,7 +929,7 @@ TODO
 sonyc
 horns are loud
 (and buck all other social norms around acceptable levels of noise pollution) of The obnoxiousness-radius honks are disruptive
-
+ -->
 
 [Q9]: https://www.ternbicycles.com/us/bikes/471/vektron-q9
 [X3]: https://www.vanmoof.com/en-US/x3
@@ -1001,6 +1059,7 @@ horns are loud
 [Quad Lock]: https://www.quadlockcase.com/
 
 [r/vanmoof]: https://www.reddit.com/r/VanMoof/
+[r/brompton]: https://www.reddit.com/r/Brompton/
 [tern atlas rack]: https://www.ternbicycles.com/us/tech/471/atlas-v-rack
 [topeak explorer rack]: https://www.topeak.com/us/en/products/247-MTB-&-700C-Touring-Racks/151-EXPLORER-(DISC)-(W--SPRING)
 [Revelate]: https://revelatedesigns.com/
@@ -1075,7 +1134,7 @@ horns are loud
 [nextcity.org paris women biking]: https://nextcity.org/daily/entry/how-new-york-and-paris-got-women-into-the-bike-saddle
 [NYT women biking covid]: https://www.nytimes.com/2020/10/07/nyregion/nyc-biking-covid-women.html
 
-[Specialized Creo Comp Carbon]: https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435
+[Specialized Turbo Creo SL Comp Carbon]: https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435
   
 [Creo]: https://www.specialized.com/turbo-creo
 [Levo]: https://www.specialized.com/turbo-levo
@@ -1086,5 +1145,14 @@ horns are loud
 [Vado SL]: https://www.specialized.com/turbo-vado-sl
 [Como SL]: https://www.specialized.com/turbo-como-sl
 [range extender]: https://www.specialized.com/us/en/sl-range-extender-battery/p/173733
-
+[Specialized Future Shock]: https://www.specialized.com/us/en/future-shock
+  
 [Harbor Ring]: https://harborring.org/
+[RadPower]: https://www.radpowerbikes.com/collections/electric-bikes
+  
+[8L "Terrapin"]: https://www.revelatedesigns.com/index.cfm/store.catalog/seat-bags/Terrapin8L
+[16L "Spinelock"]: https://www.revelatedesigns.com/index.cfm/store.catalog/seat-bags/Spinelock16
+[Topeak Aero Wedge seat bag]: https://www.amazon.com/Topeak-TC2261B-Wedge-Strap-Medium/dp/B000FIE45O
+[Topeak MTX Trunk Bag Dx]: https://www.amazon.com/gp/product/B0187ZRLX8/
+
+[Neighbor Ryan YouTube]: https://www.youtube.com/channel/UCUEDi4kDGExvmx0g0gkVwkA/videos
