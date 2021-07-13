@@ -34,6 +34,9 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
   - [Bike Shares](#bike-shares): try some rental bikes (or scooters, etc.)
   - [Renting](#renting): rent a few types of bikes before buying one
   - [Safety](#safety)
+    - [Stats](#stats)
+    - [Speed](#safety-speed)
+    - [Fear](#fear)
     - [Riding on Sidewalks](#riding-on-sidewalks)
     - [Stopping at Stop Signs / Red Lights](#stopping-at-stops)
     - [Braking](#braking): [Sheldon Brown on front brakes][front brakes]
@@ -43,13 +46,15 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
   - [Route Planning](#route-planning)
     - [Street View](#street-view)
     - [Ride with GPS](#ride-with-gps)
-  - [Reading](#reading)
-    - [ElectricBikeReview.com](#ebr)
-    - [r/ebikes](#r-ebikes)
+    - [Strava](#strava-route-planning)
   - [Starter Packs](#starter-packs)
     - [VanMoof X3 + Gear](#vanmoof-x3-pack): $83/mo (incl. maintenance/theft/insurance coverage), $3k outright (incl. all the gear you could want)
     - [RadPower](#radpower): popular under $2k
+  - [Reading](#reading)
+    - [ElectricBikeReview.com](#ebr)
+    - [r/ebikes](#r-ebikes)
 - [Gear](#gear): 10-20% a bike's cost in add-ons can make it 10x more useful
+  - [Helmets](#helmets): I use [a Lumos "Kickstart"][lumos helmet] helmet with lights built in
   - [Racks, Baskets](#racks-baskets): starting point for carrying bags' worth of stuff on rides
   - [Bags](#bags): get weight off of you and onto the bike, where it *rolls*
     - [Panniers](#panniers): bags that hang from sides of back rack; can be quite large, very useful
@@ -58,7 +63,6 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
     - [Back-Rack / Seat Bags](#back-bags): medium bags on top of back rack or behind+underneath seat
   - [Phone Mounts](#phone-mounts): phone mounted up front (e.g. w/ turn-by-turn directions) is surprisingly useful; I use [Quad Lock].
   - [Lights](#lights): [front][amzn cygolite metro plus], [rear][amzn cygolite hotrod], [party][amzn party light], [Vont 'Pyro' (set)][amzn vont pyro light], [KNOG (set)][amzn knog lights]
-  - [Helmets](#helmets): [Lumos Kickstart][lumos helmet]
   - [Locks](#locks): [Kryptonite U-lock + cable][amzn kryptonite evolution set] (medium weight, decent security), [OnGuard U-Lock][amzn onguard] (lighter / more clearance but weaker), [OTTO cable lock] (compact+light extra security layer)
   - [Misc. Accessories](#misc-accessories): [bell][amzn bell], rear-view mirrors ([1][amzn mirror] [2][amzn mirror 2]), [kickstand][amzn kickstand], [hand pump][amzn pump]
   - [Gloves](#gloves): [padded gloves][amzn MOREOK gloves], [light but warm winter gloves][Brooks gloves]
