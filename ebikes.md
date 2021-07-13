@@ -112,12 +112,12 @@ The COVID "bike boom" hit me hard:
 - **November 2020**:
   - Still want to try an e-bike.
   - Ideally a hauler, that could also fold up for easy storage (my office already had two wall-mounted bikes, but e-bikes are generally too heavy for that).
-  - Bought a [Tern Vektron Q9][Q9] (folding + cargo bike).
+  - Bought a [Tern Vektron Q9] (folding + cargo bike).
 - **December → January 2021**:
   - E-bikes are revolutionary and I need more 🤩.
   - Helping friends+family try+buy.
   - Market moving quickly; many fascinating takes on what an "electric bike" can be.
-  - Bought [an electric roadbike][Creo] and a [VanMoof X3][X3] (all-purpose city e-bike).
+  - Bought [an electric roadbike](#creo) and a [VanMoof X3](#x3) (all-purpose city e-bike).
 - **June 2021**:
   - Got a [Brompton Electric](#e-brompton); small fold + portable, nice for little errands, bringing it inside buildings/restaurants
   - 3k total miles, mix of errands, recreation, and longer/overnight trips
@@ -135,7 +135,7 @@ Each is useful in different contexts, and together they cost less than half [the
 
 I'll probably [end up with 1 or 2 more](#other-ebikes). In particular, I want the ability to take people+cargo on rides that would otherwise require an SUV (which might still be worse in various ways, and would definitely cost much more), so [I'm eyeing a RadWagon](#radwagon).
 
-### [VanMoof X3][X3] <a id="x3"></a>
+### [VanMoof X3] <a id="x3"></a>
 - Excellent all-around / starter e-bike
 - [$83/mo includes theft replacement, insurance, maintenance][VanMoof financing].
 - You may want to be within range of a VanMoof shop (I recommend [booking a test ride][VanMoof test ride] if you are!)
@@ -187,7 +187,7 @@ I take it to Central Park pretty regularly, with picnic/Aerobie gear:
 I also occasionally do [grocery runs](#pov-grocery-runs) with it:
 ![VanMoof with 2 cases of Wild Basin bungeed into the front rack, panniers on the back](https://user-images.githubusercontent.com/465045/125368650-b93f0e80-e348-11eb-8f72-e6250f2fa63d.png)
 
-### Brompton Electric <a id="e-brompton"></a>
+### [Brompton Electric] <a id="e-brompton"></a>
 I got this one most recently from [Redbeard] in Brooklyn. Bromptons are a classic/famous British folding bike, and they did a decent job engineering a motor and battery onto the front.
 
 ![Brompton Electric, with lights around the frame, at ferry terminal as boat comes in](https://user-images.githubusercontent.com/465045/125362410-db329400-e33c-11eb-88b6-2f70175dc69b.png)
@@ -215,7 +215,7 @@ Folded into "shopping cart" mode inside a CVS:
 ![Brompton, folded in "shopping cart" mode inside a CVS](https://user-images.githubusercontent.com/465045/125362821-8ba09800-e33d-11eb-8bbb-48303f047e4b.png)
 
 
-### Tern Vektron Q9 <a id="q9"></a>
+### [Tern Vektron Q9] <a id="q9"></a>
 This was my first ebike, from [Bfold], a delightful bike store in the East Village (David was really helpful at talking me through the market when I was starting from zero).
 
 I also test rode a Vektron at [Propel][Propel BK] in Brooklyn, who had a very slick appointment-booking flow and beautiful inventory of Reise & Muller bikes. [Their YouTube channel][Propel YouTube] is also an excellent source of ebike info; [here's their review of the Vektron](https://www.youtube.com/watch?v=FWhOQxky0lo).
@@ -931,10 +931,9 @@ horns are loud
 (and buck all other social norms around acceptable levels of noise pollution) of The obnoxiousness-radius honks are disruptive
  -->
 
-[Q9]: https://www.ternbicycles.com/us/bikes/471/vektron-q9
-[X3]: https://www.vanmoof.com/en-US/x3
-[e-brompton]: https://us.brompton.com/bikes/brompton-electric
-[Creo]: https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435?color=300465-184435
+[Tern Vektron Q9]: https://www.ternbicycles.com/us/bikes/471/vektron-q9
+[VanMoof X3]: https://www.vanmoof.com/en-US/x3
+[Brompton Electric]: https://us.brompton.com/bikes/brompton-electric
 
 [VanMoof financing]: https://www.vanmoof.com/en-US/payment-plans
 [VanMoof test ride]: https://www.vanmoof.com/en-US/test-rides
