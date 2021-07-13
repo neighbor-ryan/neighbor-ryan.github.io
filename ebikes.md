@@ -1137,8 +1137,8 @@ horns are loud
 [nextcity.org paris women biking]: https://nextcity.org/daily/entry/how-new-york-and-paris-got-women-into-the-bike-saddle
 [NYT women biking covid]: https://www.nytimes.com/2020/10/07/nyregion/nyc-biking-covid-women.html
 
-[Specialized Turbo Creo SL Comp Carbon]: https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435
-  
+[Specialized Turbo Creo SL Comp Carbon]: https://www.specialized.com/us/en/turbo-creo-sl-comp-carbon/p/184435?color=300465-184435
+
 [Creo]: https://www.specialized.com/turbo-creo
 [Levo]: https://www.specialized.com/turbo-levo
 [Vado]: https://www.specialized.com/turbo-vado
@@ -1149,10 +1149,10 @@ horns are loud
 [Como SL]: https://www.specialized.com/turbo-como-sl
 [range extender]: https://www.specialized.com/us/en/sl-range-extender-battery/p/173733
 [Specialized Future Shock]: https://www.specialized.com/us/en/future-shock
-  
+
 [Harbor Ring]: https://harborring.org/
 [RadPower]: https://www.radpowerbikes.com/collections/electric-bikes
-  
+
 [8L "Terrapin"]: https://www.revelatedesigns.com/index.cfm/store.catalog/seat-bags/Terrapin8L
 [16L "Spinelock"]: https://www.revelatedesigns.com/index.cfm/store.catalog/seat-bags/Spinelock16
 [Topeak Aero Wedge seat bag]: https://www.amazon.com/Topeak-TC2261B-Wedge-Strap-Medium/dp/B000FIE45O
