@@ -129,7 +129,7 @@ The COVID "bike boom" hit me hard:
 
 ## E-bike Inventory <a id="my-ebikes"></a>
 My current e-bikes are:
-1. [VanMoof X3](#x3): great all-around/starter city bike. One size fits all, automatic shifting, "turbo" button for quick starts. $83/mo includes theft replacement, insurance, maintenance.
+1. [VanMoof X3](#x3): great all-around/starter city bike. One size fits all, [automatic shifting](#x3-shifting), ["boost" button](#boost-button) for quick starts. [$83/mo][VanMoof financing] includes [theft replacement, insurance, maintenance](#x3-plan).
 2. [Brompton Electric](#e-brompton): most compact fold, easy to bring into buildings/stores, great all-around city bike, one size fits all.
 3. [Tern Vekton Q9](#q9): folding cargo bike, one size fits all.
 4. [Specialized Creo](#creo): electric road-bike; light and fast, long range.
