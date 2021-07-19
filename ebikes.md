@@ -11,6 +11,7 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
 ## Contents <a id="toc"></a>
 - [Background](#background): bike-sharer → bike-owner → e-bike maniac
 - [My e-bikes](#my-ebikes)
+  - [Overview/Specs](#specs): weights between 35-60lbs, ranges from 25-130mi, prices from $1900-$7000 ($2500-$8000 incl. gear)
   - [VanMoof X3](#x3): great all-around / starter / city e-bike
   - [Brompton Electric](#e-brompton): smallest fold, most portable, great all around
   - [Tern Vektron Q9](#q9): large cargo capacity, folds up for easy storage
@@ -31,7 +32,7 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
   - [Fun](#fun)
   - [Car sewers](#car-sewers): cars make streets miserable for everyone not in a car; doing this to 100% of streets is extreme, and terrible policy.
 - [Getting Started](#getting-started)
-  - [Bike Shares](#bike-shares): try some rental bikes (or scooters, etc.)
+  - [Bike Shares](#bike-shares): easy way to get used to city biking/scooting (if unfamiliar)
   - [Renting](#renting): rent a few types of bikes before buying one
   - [Safety](#safety)
     - [Stats](#stats)
@@ -43,10 +44,8 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
     - [Helmets](#helmets-safety): can't hurt, but often used to blame/criminalize cyclists for infrastructure/engineering problems
     - [Lights](#lights-safety): the more the better
     - [Hi-Viz Clothing](#hi-viz): similar to helmets; good practice, but often discussed unfairly
-  - [Route Planning](#route-planning)
-    - [Street View](#street-view)
-    - [Ride with GPS](#ride-with-gps)
-    - [Strava](#strava-route-planning)
+  - [Route Planning](#route-planning): [Street View](#street-view), [Ride with GPS](#ride-with-gps), [Strava](#strava-route-planning) all useful
+  - [Traveling with E-bikes](#travel): [flying](#flying) generally not possible (might work with e-brompton); [trains/boats](#trains-boats) generally easy/possible
   - [Starter Packs](#starter-packs)
     - [VanMoof X3 + Gear](#vanmoof-x3-pack): $83/mo (incl. maintenance/theft/insurance coverage), $3k outright (incl. all the gear you could want)
     - [RadPower](#radpower): popular under $2k
@@ -73,7 +72,7 @@ I'm documenting my journey and reflections about the e-bike space in the hope it
     - [Pogies](#pogies)
     - [Heated Socks](#heated-socks)
     - [Hand Warmers](#hand-warmers)
-  - [Action Cameras](#action-cameras): I use a [GoPro Hero 9 Black] in a [chest harness][amzn gopro kit] to [film rides][washington bridge tweet]
+  - [Action Cameras](#action-cameras): I use a [GoPro Hero 9 Black] and [GoPro Hero 8 Black], in [a chest harness and seat-rail mount](#camera-mounts), to [film rides][washington bridge tweet]
   - [Padded Shorts](#padded-shorts): [good all-around active shorts w/ pockets][amzn BALEAF shorts]
 - [Documenting Rides](#documenting-rides)
   - [Strava](#strava): robust recording app (can resume after phone crashes), good small-circle social network, good open data posture
@@ -139,6 +138,19 @@ Each is useful in different contexts, and together they cost less than half [the
 
 I'll probably [end up with 1 or 2 more](#other-ebikes). In particular, I want the ability to take people+cargo on rides that would otherwise require an SUV (which might still be worse in various ways, and would definitely cost much more), so [I'm eyeing a RadWagon](#radwagon).
 
+### Specs <a id="specs"></a>
+A rough overview of the specs on my e-bikes (and a few other models I've looked at):
+
+| Bike | Weight (lbs) | (add-ons during weighing) | Battery Wh | Range (max boost, no extra battery) | Range (min boost, extra battery | Price (base) | Gear / add-ons | Price (total) | One size fits all? |
+| ---- | ------ | ------------------------- | ---------- | ----------------------------------- | ------------------------------- | ------------ | -------------- | ------------- | -- |
+| VanMoof X3 | 50.2 | front+rear racks, handlebar bags | 504 (+378=882) | 30mi | 70-90mi? | $2300 | Theft/maintenance plan ($690), extra battery ($350), front basket ($90), rear rack ($70), panniers ($190), basic bags/mounts ($300) | $4000 | ✅ |
+| Brompton Electric | 40.6 | party lights, bags, battery | 300 (+300=600) | 25mi | 60-80mi? | $3800 | Extra battery ($800), city bag ($250), basic bags/mounts ($300) | $5150 | ✅ |
+| Specialized Creo SL Comp Carbon | 35.2 | handlebar bags, flat kit | 320 (+160=480) | 30mi | 130mi | $7000 | Extra battery ($450), Y-cable ($65), bottle cages ($50), basic bags/mounts ($300), egress pocket ($70), flat kit (hand pump, tubes, levers; $60) | $8000 | ❌ |
+| Tern Vektron Q9 | 56.6 | battery, panniers, basic gear | 400 (+500=900) | 30mi | 100mi | $3200 | Panniers ($100), basic bags/mounts ($200); 400Wh/500Wh extra batteries cost $629 ($777) but I've not bought one yet | $3500 | ✅ |
+| Specialized Vado 4.0 SL EQ | 41 (estimate, relative to Creo) |  | 320 (+160=480) | 30mi | 130mi | $3750 | Similar to Creo, ≈$1000 | $4750 | ❌ |
+| RadWagon 4 | 78 | basket, bag, front rack | 672 (+672=1344) | 25mi | 100mi | $1900 | Extra battery ($550), bags/seats could total $300-$600? |  | ✅ |
+| Fiido D11 | 41 |  | 418 | 25mi | 60mi | $1000 |  |  | ✅ |
+
 ### [VanMoof X3] <a id="x3"></a>
 - Excellent all-around / starter e-bike
 - [$83/mo includes theft replacement, insurance, maintenance][VanMoof financing].
@@ -192,12 +204,12 @@ I also occasionally do [grocery runs](#pov-grocery-runs) with it:
 ![VanMoof with 2 cases of Wild Basin bungeed into the front rack, panniers on the back](https://user-images.githubusercontent.com/465045/125368650-b93f0e80-e348-11eb-8f72-e6250f2fa63d.png)
 
 ### [Brompton Electric] <a id="e-brompton"></a>
-I got this one most recently from [Redbeard] in Brooklyn. Bromptons are a classic/famous British folding bike, and they did a decent job engineering a motor and battery onto the front.
+Bromptons are a classic/famous British folding bike, and they did a decent job engineering a motor and battery onto the front. I bought mine from [Redbeard Bikes] in Brooklyn (delightful store run by a couple who have been very helpful through my process). 
 
 ![Brompton Electric, with lights around the frame, at ferry terminal as boat comes in](https://user-images.githubusercontent.com/465045/125362410-db329400-e33c-11eb-88b6-2f70175dc69b.png)
 
 #### Pros
-- Most compact fold of all bikes (electric or not!); relatively portable ([fits in an airplane overhead bin!](https://www.google.com/search?q=brompton+overhead+bin&tbm=isch)).
+- Most compact fold of all bikes (electric or not!); relatively portable ([fits in an airplane overhead bin!][brompton overhead bin], though [flying with ebike batteries either requires special permission or is impossible](#flying)).
 - [Half-folded "shopping cart" mode can be pushed around in stores](https://www.youtube.com/watch?v=m91tfT4AMLY).
 - Surprisingly nice ride / feels like a normal bike (despite looking a bit flimsy/silly due to small 16" wheels).
 - Decent extra battery story for increased range; currently my 2nd highest range ebike (after the [Creo](#creo)) as a result.
@@ -402,7 +414,7 @@ Some of the darkest images of the failed state of American governance as well as
 ### Space <a id="space"></a>
 E-bikes take up very little space for the mobility they provide. Mode shift from private cars to e-bikes directly improves a large class of congestion and parking issues in cities.
 
-Taking up less space also means you can bring your bike with you on other modes when necessary (trains, buses, even ride-shares), store it easily, etc.
+Taking up less space also means you can bring your bike with you on other modes when necessary ([trains](#trains), buses, even ride-shares), store it easily, etc.
 
 #### Bike vs. Car Storage <a id="bike-vs-car-storage"></a>
 A critical area where American cities fail in enabling biking – and especially e-biking – is providing secure bike parking infrastructure.
@@ -647,6 +659,45 @@ Inspired by [the Chicago "mellow bike map"][mellow-bike-chicago], I made a ["mel
 
 [![Screenshot of Google map of greater Westchester County, NY, with streets color-coded by bike-friendliness](https://user-images.githubusercontent.com/465045/110040245-78871700-7d10-11eb-93fd-e64988be65c9.png)][mellow-bike-westchester]
 
+### Traveling with E-bikes <a id="travel"></a>
+
+#### Flying with Ebikes <a id="flying"></a>
+This is mostly a non-starter as ebike batteries are generally larger than the FAA and commercial airlines' allowable limits.
+
+[TSA says][TSA battery limit]:
+> **Lithium batteries with more than 100 watt hours**
+> Carry On Bags: ⚠️ Yes (Special Instructions)
+> Checked Bags: ❌ No
+> Lithium batteries with more than 100 watt hours may be allowed in carry-on bags with airline approval. One spare battery, not exceeding 300 watt hours, or two spare batteries, not exceeding 160 watt hours each, are permitted in carry-on bags. For more information, see the [FAA regulations on batteries](https://www.faa.gov/hazmat/packsafe/more_info/?hazmat=7).
+> 
+> [For more prohibited items, please go to the 'What Can I Bring?' page.](https://www.tsa.gov/travel/security-screening/whatcanibring)
+> ⚠️ The final decision rests with the TSA officer on whether an item is allowed through the checkpoint.
+
+I *think* [the electric Brompton](#e-brompton) is within the limit here, as its battery is 300Wh, and the bike itself [folds up small enough to fit in an overhead compartment][brompton overhead bin] (and can also be checked).
+
+A folded [Vektron](#q9) can fit into a large checked bag, in principle, but I don't know of a way to fly with the 400Wh battery.
+
+The [VanMoof](#x3) and [Creo](#creo) don't fold, and would basically have to be taken apart to be shipped, and their 504Wh and 320Wh internal batteries are too large to fly commercially.
+
+#### Trains, Boats <a id="trains-boats"></a> <a id="trains"></a> <a id="boats"></a>
+Other modes are generally friendly to multi-modal travel that includes e-bikes:
+- [Amtrak's Bike FAQ][amtrak bike faq] says:
+  > Electric bicycles under 50 lbs. are allowed in checked baggage and on trains with walk-on bicycle service.
+  > Gas-powered motorized bicycles are prohibited.
+  
+  That means all my e-bikes should be allowed (the [Vektron](#q9) weighs in at 49lbs, without anything on it; [with bags/etc. mine is in the mid/high 50's](#specs), but since it folds up I am optimistic it would be allowed)
+- I frequently bring ebikes on the NY Waterway ferry (between NYC and NJ)
+
+![Electric Brompton inside a NY Waterway ferry from NJ to NYC](https://user-images.githubusercontent.com/465045/126188182-15df6c10-f7b5-47e3-9f8a-076f4854a2e9.png)
+
+I've run in to a couple of grey areas:
+- [The Port Authority recently banned e-bikes on PATH trains at all times][Port Authority e-bike ban], though there's been a lot of pushback and [some signaling][Port Authority ebike ambiguity] that they are not planning to enforce it (at least not very strictly).
+- [Metro North Railroad's bike policy seems to prohibit electric bikes][metro-north bike policy], though we've taken the [Creo](#creo) and [Vado](#vado) on them without a problem:
+
+![Creo and Vado ebikes on a Metro North train](https://user-images.githubusercontent.com/465045/126187693-64091d34-932e-4a11-8a2c-257f69a6fdd6.png)
+
+In general, some e-bike prohibitions seem aimed at heavier-duty (esp. throttle) e-bikes; my pedal-assist bikes generally look/weigh/fit similarly to regular bicycles, and get a pass.
+
 ## Starter Packs <a id="starter-packs"></a>
 
 ### VanMoof X3 ($2k; $3k w/ gear) <a id="vanmoof-x3-pack"></a>
@@ -837,7 +888,7 @@ I've bought heated socks from [Binnice](https://www.amazon.com/gp/product/B08DKR
 I have [a 40-pair box of disposable hand warmers][hand-warmers-box], and keep 3 pairs in a side pocket of my [handlebar bags](#cockpit-bags) when it's cold out (just in case). They're a good fail-safe if [heated gloves](#heated-gloves) or [socks](#heated-socks) aren't enough (or you didn't think you'd need them). Supposedly you can "recharge" them with boiling water, so as to avoid single-use waste, though I've not tried that.
 
 ### Action Cameras <a id="action-cameras"></a>
-I film basically all my ride with 2 GoPros: [one chest-mounted, one rear-facing, seat-rail mounted](#camera-mounts). They're mostly a nice-to-have safety measure (though presumably only useful if something truly horrible happens 😔), but some of my rides also feel like incredible ways to see the city, and [I am working on processing+sharing them](#post-processing) in ways that convey that. They're also useful for [mundane documentation of road conditions][SCF 10th st pothole], [filing 311 tickets][hoboken xwalk tweet], etc. One day last winter, I lost a glove on a ride, and [was able to find on my tapes where it had popped out of my front basket](https://www.strava.com/activities/4638483151).
+I film basically all my ride with 2 GoPros: [one chest-mounted and one rear-facing, seat-rail mounted](#camera-mounts). They're mostly a nice-to-have safety measure (though presumably only useful if something truly horrible happens 😔), but some of my rides also feel like incredible ways to see the city, and [I am working on processing+sharing them](#post-processing) in ways that convey that. They're also useful for [mundane documentation of road conditions][SCF 10th st pothole], [filing 311 tickets][hoboken xwalk tweet], etc. One day last winter, I lost a glove on a ride, and [was able to find on my tapes where it had popped out of my front basket](https://www.strava.com/activities/4638483151).
 
 [![Cockpit view showing extra glove falling out of basket onto road while hitting a pothole](https://user-images.githubusercontent.com/465045/125384395-dda9e380-e366-11eb-9c89-48c16df8fdf6.png)
 ](https://photos.app.goo.gl/gDTbMgUbVnxDDBv4A)
@@ -864,7 +915,7 @@ I keep one of [these quick-release "J-hooks" on each camera][amzn j-hooks]:
 
 [![quick-release plate with screws underneath](https://user-images.githubusercontent.com/465045/110822710-54bb5800-825f-11eb-9f05-45d5727e0fa4.png)][amzn tripod adapter]
 
-My chest harness came in [this $30, 50pc gear kit][amzn gopro kit], and my seat-rail mount [involves several more adapters than one might hope](https://www.reddit.com/r/gopro/comments/ntq8nv/rgopro_weekly_questions_thread_ask_all_of_your/h1vtohq):
+My chest harness came in [this $30, 50pc gear kit][amzn gopro kit], and [my seat-rail mount][amzn seat-rail mount] involves [several more adapters than one might hope](https://www.reddit.com/r/gopro/comments/ntq8nv/rgopro_weekly_questions_thread_ask_all_of_your/h1vtohq):
 
 ![Schematic of a seat-rail GoPro mount and various adapters to give me a permanent "quick-release" buckle on my bikes, that I can quickly clip cameras into and out of](https://user-images.githubusercontent.com/465045/125383366-4beda680-e365-11eb-889c-8c841c4a7dca.png)
 
@@ -1104,7 +1155,8 @@ horns are loud
 [amzn 3xUSB-C cable]: https://www.amazon.com/gp/product/B08GY7FBHZ/
 [amzn pink hi-viz vest]: https://www.amazon.com/gp/product/B06VTPF73Z/
 [amzn custom hi-viz vest]: https://www.amazon.com/gp/product/B07VQ1HBVV/
-
+[amzn seat-rail mount]: https://www.amazon.com/gp/product/B07SRXFG2Q
+  
 [SCF 10th st pothole]: https://seeclickfix.com/issues/9320300#comment-29145140
 [hoboken xwalk tweet]: https://twitter.com/RunsAsCoded/status/1363511098562011137
 
@@ -1120,7 +1172,7 @@ horns are loud
 [Wiki bicycle safety]: https://en.wikipedia.org/wiki/Bicycle_safety
 [curbed helmet mandates]: https://www-curbed-com.cdn.ampproject.org/v/s/www.curbed.com/amp/2021/06/bicycle-helmet-laws-new-york-felder.html?amp_gsa=1&amp_js_v=a6&usqp=mq331AQFKAGwASA%3D#amp_tf=From%20%251%24s&aoh=16233527802479&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.curbed.com%2F2021%2F06%2Fbicycle-helmet-laws-new-york-felder.html
   
-[Redbeard]: https://g.page/RedbeardBikes
+[Redbeard Bikes]: https://g.page/RedbeardBikes
 [Bfold]: https://goo.gl/maps/BTfhfQWMpm5BVMt97
 [Propel BK]: https://g.page/propel-bikes-brooklyn
 [Propel YouTube]: https://www.youtube.com/user/LIElectricBikes
@@ -1159,3 +1211,10 @@ horns are loud
 [Topeak MTX Trunk Bag Dx]: https://www.amazon.com/gp/product/B0187ZRLX8/
 
 [Neighbor Ryan YouTube]: https://www.youtube.com/channel/UCUEDi4kDGExvmx0g0gkVwkA/videos
+
+[TSA battery limit]: https://www.tsa.gov/travel/security-screening/whatcanibring/items/lithium-batteries-more-100-watt-hours
+[brompton overhead bin]: https://www.google.com/search?q=brompton+overhead+bin&tbm=isch
+[amtrak bike faq]: https://www.amtrak.com/bike-faqs
+[Port Authority e-bike ban]: https://nyc.streetsblog.org/2021/06/23/the-path-train-just-quietly-banned-e-bikes-at-all-times/
+[metro-north bike policy]: https://new.mta.info/guides/bikes/bike-permit-regulations-mnr
+[Port Authority ebike ambiguity]: https://twitter.com/PATHTrain/status/1407700154325606404
