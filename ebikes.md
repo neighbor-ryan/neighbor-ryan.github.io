@@ -141,33 +141,50 @@ I'll probably [end up with 1 or 2 more](#other-ebikes). In particular, I want th
 ### Specs <a id="specs"></a>
 A rough overview of the specs on my e-bikes (and a few other models I've looked at):
 
-| Bike | Weight (lbs) | (add-ons during weighing) | Battery Wh | Range (max boost, no extra battery) | Range (min boost, extra battery | Price (base) | Gear / add-ons | Price (total) | One size fits all? |
-| ---- | ------ | ------------------------- | ---------- | ----------------------------------- | ------------------------------- | ------------ | -------------- | ------------- | -- |
-| VanMoof X3 | 50.2 | front+rear racks, handlebar bags | 504 (+378=882) | 30mi | 70-90mi? | $2300 | Theft/maintenance plan ($690), extra battery ($350), front basket ($90), rear rack ($70), panniers ($190), basic bags/mounts ($300) | $4000 | ✅ |
-| Brompton Electric | 40.6 | party lights, bags, battery | 300 (+300=600) | 25mi | 60-80mi? | $3800 | Extra battery ($800), city bag ($250), basic bags/mounts ($300) | $5150 | ✅ |
-| Specialized Creo SL Comp Carbon | 35.2 | handlebar bags, flat kit | 320 (+160=480) | 30mi | 130mi | $7000 | Extra battery ($450), Y-cable ($65), bottle cages ($50), basic bags/mounts ($300), egress pocket ($70), flat kit (hand pump, tubes, levers; $60) | $8000 | ❌ |
-| Tern Vektron Q9 | 56.6 | battery, panniers, basic gear | 400 (+500=900) | 30mi | 100mi | $3200 | Panniers ($100), basic bags/mounts ($200); 400Wh/500Wh extra batteries cost $629 ($777) but I've not bought one yet | $3500 | ✅ |
-| Specialized Vado 4.0 SL EQ | 41 (estimate, relative to Creo) |  | 320 (+160=480) | 30mi | 130mi | $3750 | Similar to Creo, ≈$1000 | $4750 | ❌ |
-| RadWagon 4 | 78 | basket, bag, front rack | 672 (+672=1344) | 25mi | 100mi | $1900 | Extra battery ($550), bags/seats could total $300-$600? |  | ✅ |
-| Fiido D11 | 41 |  | 418 | 25mi | 60mi | $1000 |  |  | ✅ |
+| Bike | Weight (lbs) | (add-ons during weighing) | Battery Wh | Range (max boost, no extra battery) | Range (min boost, extra battery | Price (base) | Gear / add-ons | Price (total) | One size fits all? | Top speed |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| [VanMoof X3](#x3) | 50.2 | front+rear racks, handlebar bags | 504 (+378=882) | 30mi | 70-90mi? | $2300 | [Theft/maintenance plan][VanMoof peace of mind] ($690), [extra battery][VanMoof PowerBank] ($350), [front basket][vanmoof front basket] ($90), [rear rack][vanmoof rear carrier] ($70), [panniers][Ortlieb Back-Roller Classics] ($190), [basic bags/mounts](#basic-bags-mounts) ($250) | $4000 | ✅ | 20mph (US class 1) |
+| [Brompton Electric](#e-brompton) | 40.6 | party lights, bags, battery | 300 (+300=600) | 25mi | 60-80mi? | $3800 | [Extra battery][Brompton extra battery] ($690), [city bag][Brompton city bag] ($250), [basic bags/mounts](#basic-bags-mounts) ($250), [rack][Brompton rack] ($185), [panniers][Ortlieb Sport-Roller Classics] ($170) | $5400 | ✅ | 20mph (US class 1) |
+| [Specialized Creo SL Comp Carbon](#creo) | 35.2 | handlebar bags, flat kit | 320 (+160=480) | 30mi | 130mi | $7000 | [Extra battery][range extender] ($450) + [cable][Specialized range extender cable] ($35), ["Y" charger cable][Specialized Y-cable] ($65), [bottle cages][Specialized bottle cage] (2x$25), [basic bags/mounts](#basic-bags-mounts) ($250), ["egress" pocket][Revelate egress pocket] ($70), flat kit ([hand pump][amzn pump], [tubes+levers][Conti tubes]; $60) | $8000 | ❌ | 28mph (US class 3) |
+| [Tern Vektron Q9](#q9) | 56.6 | battery, panniers, basic gear | 400 (+500=900) | 30mi | 100mi | $3200 | [Panniers][Tern bucketload panniers] (2x$100), [basic bags/mounts](#basic-bags-mounts) ($150); [400Wh][propel bosch powerpack 400]/[500Wh][propel bosch powerpack 400] extra batteries cost $629 ($777) but I've not bought one yet | $3600 | ✅ | 20mph (US class 1) |
+| [Specialized Vado 4.0 SL EQ](#vado) | 41 (estimate, relative to Creo) |  | 320 (+160=480) | 30mi | 130mi | $3750 | Similar to Creo, ≈$1000 | $4750 | ❌ | 28mph (US class 3) |
+| [RadWagon 4](#radwagon) | 78 | basket, bag, front rack | 672 (+672=1344) | 25mi | 100mi | $1900 | [Extra battery][Rad battery] ($550), [bags/seats][Rad accessories] could total $300-$600? |  | ✅ | (20mph) (US class 1) |
+| [Fiido D11] | 41 |  | 418 | 25mi | 60mi | $1000 |  |  | ✅ | 16mph (EU class 1), throttle |
 
 ### [VanMoof X3] <a id="x3"></a>
 - Excellent all-around / starter e-bike
+- Many great/unique features:
+  - ["Boost" button](#x3-boost-button): extra pedal assist, makes starting+stopping easy+fast
+  - [Automatic shifting](#x3-shifting): very convenient in urban settings with frequent starts/stops
+  - ["Peace of Mind" plan](#x3-plan): theft protection/replacement, insurance, maintenance
+  - [Internal lock + alarm](#x3-lock): nice first line of defense; coupled with [a "Peace of Mind" plan](#x3-plan), makes it easier to take+leave places
 - [$83/mo includes theft replacement, insurance, maintenance][VanMoof financing].
 - You may want to be within range of a VanMoof shop (I recommend [booking a test ride][VanMoof test ride] if you are!)
 
 ![VanMoof + gear parked in Sheep's Meadow in Central Park, NYC](https://user-images.githubusercontent.com/465045/125368539-682f1a80-e348-11eb-8fe4-52089212e8bc.png)
 
+#### "Boost button" <a id="boost-button"></a>
+When you press or hold this button on the handlebar, the pedal assist is amplified for a few seconds. It's great for accelerating from a stop, or holding a line in traffic.
+
+It's one of my favorite features on all my ebikes; I've noticed I am an extra curteous rider on my VanMoof because stopping and starting again is no sweat, thanks to the boost button.
+
 #### Automatic Shifting <a id="x3-shifting"></a>
-VanMoofs automatically shift gears for you, based on your speed, which makes for a simpler/carefree riding experience. I first tried it in a very hilly place, and it took some getting used to, but now I love it for casual city riding.
+VanMoofs automatically shift gears for you, based on your speed, which makes for a simpler/carefree riding experience. I really appreciate it when city riding; on my other bikes I shift down and then up again, sometimes by multiple gears (usually 6 on my Creo!), every time I stop and start again. Less experienced riders can also be intimidated by gear-shifting, so it's a nice accessibility feature as well.
 
-Some advice about it:
-- Use the "turbo" button liberally on uphills, and when starting from a stop.
+It took a bit of getting used to; I first tried it in a very hilly place, and it was especially confusing. Some tips:
+- Use [the "boost" button](#x3-boost-button) liberally on uphills, and when starting from a stop.
 - The gears shift based on your speed (not cadence, or torque).
-  - In the beginning I got frustrated not knowing why it wasn't shifting, or when it would, as I spun the pedals or slowed down while starting a climb.
-  - I spent some time in the app micro-managing the speeds at which it would shift into each gear. After a bunch of thrashing, I think I ended up back at almost exactly the factory defaults 😂 (having also learned the glory of the turbo button).
+  - Sometimes you'll have started slowing down on an uphill, pressing hard on the pedals and making little progress turning them, and it won't have down-shifted yet, which can be frustrating.
+  - Eventually, you will slow down enough, and it will shift down
+  - Also, reiterating: I recommend just laying on the boost button when climbing.
+- I spent some time in the app micro-managing the speeds at which it would shift into each gear. After a bunch of thrashing, I think I ended up back at almost exactly the factory defaults 😂 (having also learned the glory of the turbo button).
 
-#### Internal Locking <a id="x3-internal-locking"></a>
+#### "Peace of Mind" plan: theft protection, insurance, maintenance <a id="x3-plan"></a>
+[VanMoof's "Peace of Mind" plan][VanMoof peace of mind] gives you 3 years of theft protection, insurance, and maintenance for $690. It's not the cheapest, but knowing that I have backup if anything goes wrong is very reassuring, and it's the kind of offering I expect other brands to move toward as well.
+
+If your bike gets stolen, [VanMoof's "bike hunters"][VanMoof bike hunters] will try to recover it in 2wks, or replace it for you.
+
+#### Internal Locking <a id="x3-lock"></a>
 VanMoofs have a lock inside the bike. You engage it by pushing a button on the frame, and disengage it from the app on your phone.
 
 It doesn't stop someone from picking the bike up and throwing it in the back of a truck, but the bike does make an alarm sound if moved while locked, and VanMoofs have a few other forms of DRM (including a tracking chip and ["bike hunters" team][VanMoof bike hunters]) that hopefully make them less attractive to thieves.
@@ -175,15 +192,10 @@ It doesn't stop someone from picking the bike up and throwing it in the back of 
 #### Reliability / Shop Proximity <a id="x3-reliability"></a>
 A common refrain on [r/vanmoof] is that you should be prepared to take it to the shop for tune-ups or troubleshooting.
 
-I've had to go in once because we transferred ownership of the bike between VanMoof accounts, and it ended up stuck in "EU mode" with a top speed of 20kph (instead of the US's 20mph). It was easy enough to fix in the shop, and I definitely endorse buying the theft+maintenance plan for peace of mind.
+I've had to go in once because we transferred ownership of the bike between VanMoof accounts, and it ended up stuck in "EU mode" (with a top speed of 20kph, instead of the US's 20mph). It was easy enough to fix in the shop. I've popped in a few times when I was in the neighborhood to have them try to make my brakes less squeaky (with mixed results), or just to top up my charge a bit.
 
 #### Shipping <a id="x3-shipping"></a>
 I've observed them to quote a 2-3mo timeframe for shipping, only to have the bike show up in a couple weeks!
-
-#### "Boost button" <a id="boost-button"></a>
-When you press or hold this button on the handlebar, the pedal assist is amplified for a few seconds. It's great for accelerating from a stop, or holding a line in traffic.
-
-It's one of my favorite features on all my ebikes; I've noticed I am an extra curteous rider on my VanMoof because stopping and starting again is no sweat, thanks to the boost button.
 
 #### Range <a id="vanmoof-range"></a>
 - I get ≈30mi to a charge, using the "boost button" liberally.
@@ -352,7 +364,7 @@ This is a leading contender for my 5th e-bike, since I still have occasional car
 ### [Gocycle] <a id="gocycle"></a>
 Cool sporty/design-y folding ebikes. They seemed a bit expensive and lacking in hauling capacity for what I needed when I demo'd them, but could be good commuter bikes.
 
-### [Qualisports Dolphin] <a id="fiido"></a>
+### [Qualisports Dolphin] <a id="qualisports-dolphin"></a>
 A friend recently got one; it seems like a good commuter bike: cheap ($1400), powerful, has a throttle.
 
 ### [Carbo Model X] <a id="carbo-model-x"></a>
@@ -738,6 +750,14 @@ The right add-ons might cost 10-20% what your bike cost, but make it 10x more us
 
 Before I e-biked, I lived out of a backpack while in+around the city. Getting that weight off of me and onto the bike while in transit has been a huge improvement. The options for letting the bike roll things along with you – from "a purse" up to "several suitcases" – are worth exploring.
 
+### Basic Bags+Mounts <a id="basic-bags-mounts"></a>
+Here are a few bags/mounts I put on basically every bike:
+- [QuadLock "Out Front Pro" phone mount][quadlock-out-front-mount] ($60) + [black plastic "lever"][quadlock-lever] ($10)
+- 2x [Revelate "Mountain Feedbag"][revelate feedbag] handlebar bags ($49 ea)
+- [Revelate "Magtank"][revelate mag-tank] ($59) or ["Jerrycan"][revelate jerrycan] ($46) top-tube bag
+- [Topeak multi-tool] ($16)
+- [Seat-rail GoPro clamp mount][amzn seat-rail mount] ($14)
+
 ### Helmets <a id="helmets"></a>
 (See [discussion of helmets from a safety PoV above](#helmets-safety))
 
@@ -782,7 +802,7 @@ I love [Revelate's "Mountain Feedbags"][revelate feedbag]; I've put a pair on mo
 Between them, I'll carry a battery that charges my phone while riding (and [sometimes other fun lights](https://user-images.githubusercontent.com/465045/110158221-17fee500-7db7-11eb-96bf-cd8e55165742.png), [GoPro batteries](#camera-batteries), etc.), a glasses case, tissues/chapstick/[hand-warmers](#hand-warmers)/snacks ("it's like a deli up here", someone who borrowed my bike said recently), airpods, extra masks, [resealable zip ties][zip ties 8"], etc. They are easily opened and closed with one hand, work on pretty much any bike, and are easy to transfer b/t bikes). Very useful.
 
 #### Top-Tube Bags <a id="top-tube-bags"></a>
-[The Revelate Mag-Tank 2000][revelate mag-tank 2000] (and earlier/smaller [Mag-Tank][revelate mag-tank]) are great bags that can sit on top of your top tube and hold lots of good stuff. Sometimes I'll have one up front and another at the base of my seat, and between them store wallet/keys, [cable lock][OTTO cable lock], full flat-change kit (tire levers, spare tube, CO₂ cartridge, multi-tool, patch-kit), etc. They're also easily openable/closeable with one hand, and the magnetic clasp is nice.
+[The Revelate Mag-Tank 2000][revelate mag-tank 2000] (and earlier/smaller [Mag-Tank][revelate mag-tank]) are great bags that can sit on top of your top tube and hold lots of good stuff. Sometimes I'll have one up front and another at the base of my seat, and between them store wallet/keys, [cable lock][OTTO cable lock], full flat-change kit ([tire levers + spare tubes][Conti tubes], [CO₂ cartridge][CO2 cartridges], [multi-tool][Topeak multi-tool], patch-kit), etc. They're also easily openable/closeable with one hand, and the magnetic clasp is nice.
 
 #### Back-Rack / Seat Bags <a id="back-bags"></a>
 I have used Revelate's [8L "Terrapin"] bag and [16L "Spinelock"] bag; both are great, especially for bulky but lightweight items like clothes.
@@ -824,7 +844,7 @@ There's no substitute for [secure bike parking infrastructure](#bike-vs-car-stor
 
 Other lock systems worth noting:
 - [ABUS frame locks] stay on the bike and seem like a convenient and secure option
-- [VanMoofs](#x3) have [an internal lock](#x3-internal-locking) that provides added security.
+- [VanMoofs](#x3) have [an internal lock](#x3-lock) that provides added security.
 - [The Wirecutter has a more comprehensive review of the bike lock market][wirecutter bike locks].
 
 People that have to lock bikes outside in cities can use stronger locks – like [Kryptonite's "New York Fahgettaboudit" line][amzn kryptonite new york] – and [heavy chains][kryptonite chain]. However, these are heavy, and [can still be cut][twitter vanmoof theft] by thieves with angle-grinders and time (especially overnight, having observed bikes locked in the same place every night).
@@ -998,6 +1018,7 @@ horns are loud
 [VanMoof test ride]: https://www.vanmoof.com/en-US/test-rides
 [VanMoof bike hunters]: https://www.vanmoof.com/en-US/test-rides
 [VanMoof PowerBank]: https://www.vanmoof.com/en-US/electric-bikes/powerbank
+[VanMoof peace of mind]: https://www.vanmoof.com/en-US/peace-of-mind
 
 [hybrid]: https://www.cyclingweekly.com/group-tests/hybrid-bikes-buyers-guide-206065
 [citibike]: https://www.citibikenyc.com/
@@ -1050,6 +1071,7 @@ horns are loud
 [bungee cable set]: https://www.amazon.com/gp/product/B00S7HKJ1I/
 
 [Ortlieb Back-Roller Classics]: https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair
+[Ortlieb Sport-Roller Classics]: https://www.ortlieb.com/usa_en/sport-roller-classic+F6310
 [wirecutter-ortlieb]: https://www.nytimes.com/wirecutter/reviews/best-bike-rack-basket-panniers/#a-tough-as-nails-gear-hauler-ortlieb-back-roller-classic
 [tern bucketload panniers]: https://www.ternbicycles.com/us/accessories/472/bucketload-pannier
 [tern holdem basket]: https://www.ternbicycles.com/us/accessories/471/hold-em-basket
@@ -1222,3 +1244,21 @@ horns are loud
 [Port Authority e-bike ban]: https://nyc.streetsblog.org/2021/06/23/the-path-train-just-quietly-banned-e-bikes-at-all-times/
 [metro-north bike policy]: https://new.mta.info/guides/bikes/bike-permit-regulations-mnr
 [Port Authority ebike ambiguity]: https://twitter.com/PATHTrain/status/1407700154325606404
+[Fiido D11]: https://www.fiido.com/products/fiido-d11
+  
+[propel bosch powerpack 400]: https://propelbikes.com/product/bosch-powerpack-400wh-performance-line-downtube-battery-html/
+[propel bosch powerpack 500]: https://propelbikes.com/product/bosch-powerpack-500wh/
+[Brompton extra battery]: https://www.condorcycles.com/products/brompton-8-55ah-battery-for-electric-bike
+[Brompton city bag]: https://us.brompton.com/catalogue/bags/electric-bags/city-bag-for-brompton-electric
+[Specialized Y-cable]: https://www.specialized.com/us/en/turbo-sl-y-charger-cable/p/173737
+[Specialized bottle cage]: https://www.specialized.com/us/en/zee-cage-ii--left/p/171461
+[Specialized range extender cable]: https://www.specialized.com/us/en/sl-range-extender-cable-220mm-road/p/173736
+[Revelate egress pocket]: https://www.revelatedesigns.com/index.cfm/store.catalog/Handlebar/EgressPocket
+[Conti tubes]: https://www.amazon.com/Continental-Bicycle-700x20-25-Presta-Bundle/dp/B01FG3PJ24
+[Tern bucketload panniers]: https://www.ternbicycles.com/us/accessories/472/bucketload-pannier
+[Rad battery]: https://www.radpowerbikes.com/products/rad-battery-pack-2021
+[Rad accessories]: https://www.radpowerbikes.com/collections/accessories
+[Brompton rack]: https://www.clevercycles.com/brompton-rack-complete-with-4-rollers-and-15785114.html
+[Topeak multi-tool]: https://www.amazon.com/gp/product/B000FIE49A
+
+[CO2 cartridges]: https://www.amazon.com/Gorilla-Force-Cartridges-Threaded-Pack/dp/B07GVS8JYF/
