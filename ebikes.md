@@ -666,12 +666,16 @@ This is mostly a non-starter as ebike batteries are generally larger than the FA
 
 [TSA says][TSA battery limit]:
 > **Lithium batteries with more than 100 watt hours**
-> Carry On Bags: ⚠️ Yes (Special Instructions)
+>
+> Carry On Bags: ❗️ Yes (Special Instructions)
+>
 > Checked Bags: ❌ No
+> 
 > Lithium batteries with more than 100 watt hours may be allowed in carry-on bags with airline approval. One spare battery, not exceeding 300 watt hours, or two spare batteries, not exceeding 160 watt hours each, are permitted in carry-on bags. For more information, see the [FAA regulations on batteries](https://www.faa.gov/hazmat/packsafe/more_info/?hazmat=7).
 > 
 > [For more prohibited items, please go to the 'What Can I Bring?' page.](https://www.tsa.gov/travel/security-screening/whatcanibring)
-> ⚠️ The final decision rests with the TSA officer on whether an item is allowed through the checkpoint.
+>
+> ❗️ The final decision rests with the TSA officer on whether an item is allowed through the checkpoint.
 
 I *think* [the electric Brompton](#e-brompton) is within the limit here, as its battery is 300Wh, and the bike itself [folds up small enough to fit in an overhead compartment][brompton overhead bin] (and can also be checked).
 
