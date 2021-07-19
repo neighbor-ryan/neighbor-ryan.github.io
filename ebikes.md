@@ -847,7 +847,7 @@ I've also thrown [party][amzn party light] [lights][amzn party light 2] and [whe
 There's no substitute for [secure bike parking infrastructure](#bike-vs-car-storage), but some locks I use that I think are basically good enough for occasional, short, daytime outdoor parking in NYC:
 - [Kryptonite U-lock + Cable][amzn kryptonite evolution set]: medium weight, decent security
 - [OnGuard U-Lock][amzn onguard]: lighter / more clearance but weaker
-- [OTTO cable lock]: compact+light extra security layer, easy to keep a spare in a [tube bag](#top-tube-bags).
+- [OTTO cable lock][OTTO cable lock]: compact+light extra security layer, easy to keep a spare in a [tube bag](#top-tube-bags).
 
 Other lock systems worth noting:
 - [ABUS frame locks] stay on the bike and seem like a convenient and secure option
