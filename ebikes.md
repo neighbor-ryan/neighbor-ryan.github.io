@@ -160,6 +160,7 @@ A rough overview of the specs on my e-bikes (and a few other models I've looked 
   - [Internal lock + alarm](#x3-lock): nice first line of defense; coupled with [a "Peace of Mind" plan](#x3-plan), makes it easier to take+leave places
 - [$83/mo includes theft replacement, insurance, maintenance][VanMoof financing].
 - You may want to be within range of a VanMoof shop (I recommend [booking a test ride][VanMoof test ride] if you are!)
+- The battery is not removable, so you need to be able to keep the bike somewhere where you also charge it
 
 ![VanMoof + gear parked in Sheep's Meadow in Central Park, NYC](https://user-images.githubusercontent.com/465045/125368539-682f1a80-e348-11eb-8fe4-52089212e8bc.png)
 
@@ -202,6 +203,12 @@ I've observed them to quote a 2-3mo timeframe for shipping, only to have the bik
 - I'll receive [a "PowerBank" extra battery][VanMoof PowerBank] in the next few weeks which I expect will increase my range to ≈50-60mi.
 - A full recharge takes a few hours.
 
+#### Reviews <a id="x3-reviews"></a>
+- [TechCrunch: "Transportation revelation"][TechCrunch VanMoof review]
+- [PC Mag: "A smart commuter bike with a boost"][PC Mag VanMoof review]
+- [Wired: "A great electric bike, all around"][Wired VanMoof review]
+- [r/vanmoof]: lots of more grassroots reviews/discussion here
+
 #### Gallery
 I stayed in a friend's apt for 2wks via VanMoof:
 ![VanMoof + bags: 2 panniers, front grocery bag, backpack](https://user-images.githubusercontent.com/465045/125330516-e1ad1580-e314-11eb-9d2d-99da605c5ff4.png)
@@ -228,7 +235,7 @@ Bromptons are a classic/famous British folding bike, and they did a decent job e
 - Great mix of fun/whimsy with real transportation / portability / overall utility.
 
 #### Cons
-- Expensive ($3800) for relatively small amount of bicycle/machine. They're well-made, so I felt it was worth it (once I'd covered other ebike use cases), but the price point is simply too high to be relevant to most people I talk to.
+- Expensive ($3800) for relatively small amount of bicycle/machine. They're well-made, so I felt it was worth it (once I'd covered other ebike use cases), but the price point is simply too high for most people I talk to.
 - Supply chain has been especially backed up since COVID.
 - Still a bit heavy to lug around (32lbs just the bike, 38 w/ battery, 40 with a rack).
 
@@ -1262,3 +1269,7 @@ horns are loud
 [Topeak multi-tool]: https://www.amazon.com/gp/product/B000FIE49A
 
 [CO2 cartridges]: https://www.amazon.com/Gorilla-Force-Cartridges-Threaded-Pack/dp/B07GVS8JYF/
+
+[TechCrunch VanMoof review]: https://techcrunch.com/2021/07/16/vanmoof-x3-review-e-bike/
+[PC Mag VanMoof review]: https://www.pcmag.com/reviews/vanmoof-x3-electric-bike
+[Wired VanMoof review]: https://www.wired.com/review/vanmoof-s3/
