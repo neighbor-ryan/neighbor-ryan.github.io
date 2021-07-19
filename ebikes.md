@@ -154,7 +154,7 @@ A rough overview of the specs on my e-bikes (and a few other models I've looked 
 ### [VanMoof X3] <a id="x3"></a>
 - Excellent all-around / starter e-bike
 - Many great/unique features:
-  - ["Boost" button](#x3-boost-button): extra pedal assist, makes starting+stopping easy+fast
+  - ["Boost" button](#boost-button): extra pedal assist, makes starting+stopping easy+fast
   - [Automatic shifting](#x3-shifting): very convenient in urban settings with frequent starts/stops
   - ["Peace of Mind" plan](#x3-plan): theft protection/replacement, insurance, maintenance
   - [Internal lock + alarm](#x3-lock): nice first line of defense; coupled with [a "Peace of Mind" plan](#x3-plan), makes it easier to take+leave places
@@ -172,7 +172,7 @@ It's one of my favorite features on all my ebikes; I've noticed I am an extra cu
 VanMoofs automatically shift gears for you, based on your speed, which makes for a simpler/carefree riding experience. I really appreciate it when city riding; on my other bikes I shift down and then up again, sometimes by multiple gears (usually 6 on my Creo!), every time I stop and start again. Less experienced riders can also be intimidated by gear-shifting, so it's a nice accessibility feature as well.
 
 It took a bit of getting used to; I first tried it in a very hilly place, and it was especially confusing. Some tips:
-- Use [the "boost" button](#x3-boost-button) liberally on uphills, and when starting from a stop.
+- Use [the "boost" button](#boost-button) liberally on uphills, and when starting from a stop.
 - The gears shift based on your speed (not cadence, or torque).
   - Sometimes you'll have started slowing down on an uphill, pressing hard on the pedals and making little progress turning them, and it won't have down-shifted yet, which can be frustrating.
   - Eventually, you will slow down enough, and it will shift down
