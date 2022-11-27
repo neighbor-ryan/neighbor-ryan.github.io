@@ -7,7 +7,7 @@ const withVanillaExtract = createVanillaExtractPlugin();
 const createTranspileModulesPlugin = require("next-transpile-modules");
 const withTranspileModules = createTranspileModulesPlugin(["next-utils"]);
 
-// const basePath = "/turnpiketrap"
+// const basePath = "/"
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {

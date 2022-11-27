@@ -1,3 +1,23 @@
 .screenshot {
     max-width: 100%;
 }
+
+.outer {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.parallaxContent1 {
+    min-height: 70em;
+}
+
+.parallaxContent2 {
+    background: transparent;
+    width: 100%;
+    padding: 20px;
+    position: absolute;
+    top: 5vh;
+    left: 50%;
+    transform: translate(-50%,0%);
+
+}
