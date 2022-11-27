@@ -2440,9 +2440,9 @@
   dependencies:
     "enhanced-resolve" "^5.10.0"
 
-"next-utils@https://gitpkg.now.sh/runsascoded/next-utils/dist?20bf3be":
-  "integrity" "sha512-Qr7gOF1sH2d5vxBtM1YUlf/tSyaBNZ5ncxqf2hFJFNGejPnLP/hFQUvM56Hil3ULt/uIdt1oVUnpm9yfnPGaRQ=="
-  "resolved" "https://gitpkg.now.sh/runsascoded/next-utils/dist?20bf3be"
+"next-utils@https://gitpkg.now.sh/runsascoded/next-utils/dist?f1bad9b":
+  "integrity" "sha512-QK6fyXpNBJ0D3TSxGWzUZCNJLZQM+w/5DKaSFIfJ5qWqypFH3SFKYdh9zmf7RMKkRF2jDGzhmAu293V5Le5Maw=="
+  "resolved" "https://gitpkg.now.sh/runsascoded/next-utils/dist?f1bad9b"
   "version" "0.1.0"
   dependencies:
     "@vanilla-extract/css" "^1.9.2"

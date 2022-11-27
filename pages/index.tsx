@@ -1,6 +1,7 @@
 import React, {ReactNode} from "react"
 import type {NextPage} from 'next'
 import {Head} from 'next-utils/head'
+import A from "next-utils/a"
 import styles from '../styles/Home.module.css'
 import css from "./index.module.css"
 import {Parallax} from "react-parallax";
@@ -50,11 +51,6 @@ type Project = {
     children?: ReactNode
 }
 
-type AProps = React.DetailedHTMLProps<React.AnchorHTMLAttributes<HTMLAnchorElement>, HTMLAnchorElement>
-function A({ children, ...attrs }: AProps) {
-    return <a {...attrs} target={"_blank"} rel={"noreferrer"}>{children}</a>
-}
-
 const Home: NextPage = () => {
     const bmpHref = "https://bikejc.github.io/bike-master-plan"
     const bmpPdf = "https://cdn5-hosted.civiclive.com/UserFiles/Servers/Server_6189660/File/Community/Transportation/LetsRideJCMasterPlan-FinalDraft%206.16.19_09_30.pdf"
@@ -70,8 +66,7 @@ const Home: NextPage = () => {
     return (
         <div className={styles.container}>
             <Head
-                title={"neighbor-ryan.org"}
-                description={"Neighbor Ryan's transit and bike advocacy projects"}
+                title={"Neighbor Ryan's transit and bike advocacy projects"}
                 url={"https://neighbor-ryan.org"}
                 thumbnail={"/imgs/bpt.png"}
                 favicon={""}
