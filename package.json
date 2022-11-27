@@ -5,9 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "export": "next build && next export && touch out/.nojekyll"
+    "export": "next build && next export",
+    "gha-export": "next build && next export && touch out/.nojekyll && cp CNAME out/"
   },
   "dependencies": {
     "@mdx-js/loader": "^2.1.5",

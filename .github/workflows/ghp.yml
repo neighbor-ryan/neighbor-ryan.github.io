@@ -17,7 +17,7 @@ jobs:
           cache: 'npm'
           cache-dependency-path: yarn.lock
       - run: npm install
-      - run: npm run export
+      - run: npm run gha-export
       - name: Deploy to GH Pages
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
