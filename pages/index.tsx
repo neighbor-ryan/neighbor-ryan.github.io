@@ -69,11 +69,11 @@ const Home: NextPage = () => {
             <Head
                 title={"Neighbor Ryan's transit and bike advocacy projects"}
                 url={"https://neighbor-ryan.org"}
-                thumbnail={"/imgs/bpt.png"}
+                thumbnail={"/imgs/bpt_50p.png"}
                 favicon={""}
             />
             <div className={css.outer}>
-                <Parallax bgImage={"/imgs/bpt.png"} strength={400}>
+                <Parallax bgImage={"/imgs/bpt_50p.png"} strength={400}>
                     <div className={css.parallaxContent1}>
                         <div className={css.parallaxContent2}>
                             <h1>Projects</h1>
