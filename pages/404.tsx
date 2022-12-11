@@ -2,7 +2,6 @@ import styles from "../styles/Home.module.css";
 import {Head} from "next-utils/head";
 import index from "./index.module.css";
 import React from "react";
-// import {Socials} from "next-utils/socials"
 import {Socials, socials, url} from "../src/socials"
 
 const Home = () => {

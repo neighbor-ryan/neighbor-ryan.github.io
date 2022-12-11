@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "next": "13.0.5",
-    "next-utils": "https://gitpkg.now.sh/runsascoded/next-utils/dist?d158fa8",
+    "next-utils": "https://gitpkg.now.sh/runsascoded/next-utils/dist?f486398",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-parallax": "^3.5.1"
