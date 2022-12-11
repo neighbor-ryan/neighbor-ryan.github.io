@@ -6,6 +6,7 @@ import styles from '../styles/Home.module.css'
 import css from "./index.module.css"
 import {Parallax} from "react-parallax";
 import YouTubeEmbed from "next-utils/youtube";
+import {Socials} from "../src/socials";
 
 const DefaultSocialWidth = 30
 function Social({ href, title, src, alt, width, height }: {
@@ -25,19 +26,6 @@ function Social({ href, title, src, alt, width, height }: {
         <a className="icon" href={href} title={title}>
             <img src={src} alt={alt} width={width} height={height} />
         </a>
-    )
-}
-
-function Socials() {
-    return (
-        <div className="socials">
-            <p>
-                <Social href={"https://twitter.com/runsascoded"} title={"Neighbor Ryan on Twitter"} src={"/imgs/twitter.png"} alt={"Twitter logo"} />
-                <Social href={"https://www.youtube.com/@neighborryan"} title={"Neighbor Ryan on YouTube"} src={"/imgs/youtube.png"} alt={"YouTube logo"} />
-                <Social href={"https://github.com/neighbor-ryan"} title={"Neighbor Ryan on GitHub"} src={"/imgs/github.png"} alt={"GitHub logo"} />
-                <Social href={"https://instagram.com/neighbor_ryan"} title={"Neighbor Ryan on Instagram"} src={"/imgs/insta.png"} alt={"Instagram logo"} />
-            </p>
-        </div>
     )
 }
 
