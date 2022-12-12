@@ -37,6 +37,7 @@ const withMDX = require('@next/mdx')({
 })
 module.exports = withTranspileModules(withVanillaExtract(withMDX({
   ...nextConfig,
+  trailingSlash: true,
   // Append the default value with md extensions
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
 })))
