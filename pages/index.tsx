@@ -1,4 +1,4 @@
-import React, {ReactNode} from "react"
+import React, {Fragment, ReactNode} from "react"
 import type {NextPage} from 'next'
 import {Head} from 'next-utils/head'
 import A from "next-utils/a"
@@ -79,7 +79,7 @@ const Home: NextPage = () => {
                 </Parallax>
                 {
                     projects.map(
-                        ({ id, href, title, yt, src, alt, children, }) => <>
+                        ({ id, href, title, yt, src, alt, children, }) => <Fragment key={id}>
                             <h1 id={id}><A href={href}>{title}</A></h1>
                             {children}
                             <A href={href}>{
@@ -87,7 +87,7 @@ const Home: NextPage = () => {
                                     ?  <YouTubeEmbed video={src} alt={alt} />
                                     : <img className={css.screenshot} src={src} alt={alt} />
                             }</A>
-                        </>
+                        </Fragment>
                     )
                 }
                 <hr/>
