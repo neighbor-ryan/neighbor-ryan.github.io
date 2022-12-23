@@ -1,5 +1,13 @@
+import {Head} from "next-utils/head";
+
 export default function Home() {
     return <div className={"container"}>
+        <Head
+            title={"Why can't you walk or bike between JC and Newark?"}
+            description={"NJ's two biggest cities are ≈6mi apart, and connected by 8 bridges, all of which are highways, none of which are safely passable by foot or bike."}
+            url={"https://neighbor-ryan.org/jc-ewr/"}
+            thumbnail={"https://neighbor-ryan.org/jc-ewr.png"}
+        />
         <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.0 0.0 542.6666666666666 530.2047244094488" fill="none" stroke="none" strokeLinecap="square" strokeMiterlimit="10">
             <clipPath id="p.0">
                 <path d="m0 0l542.6667 0l0 530.2047l-542.6667 0l0 -530.2047z" clipRule="nonzero"/>
