@@ -2949,9 +2949,9 @@
   dependencies:
     "enhanced-resolve" "^5.10.0"
 
-"next-utils@https://gitpkg.now.sh/runsascoded/next-utils/dist?f486398":
-  "integrity" "sha512-xvMsSBtERvLae6i6UpHFvkNYrfzFA4rU0zRxuc+7zWypRdD1DMeH6+6d/m/EJHQ2YoR2G7AdYd7ZEIc2R/ITRw=="
-  "resolved" "https://gitpkg.now.sh/runsascoded/next-utils/dist?f486398"
+"next-utils@https://gitpkg.now.sh/runsascoded/next-utils/dist?648b5cd":
+  "integrity" "sha512-RHCibHX41LfxLxEGqCrMtx0hHzPW0L1tgbovyznYZ/mV84pXX2A+65vUzv34neBP5FgwLDaBsGTNYHhjLNbl9Q=="
+  "resolved" "https://gitpkg.now.sh/runsascoded/next-utils/dist?648b5cd"
   "version" "0.1.0"
   dependencies:
     "@mdx-js/loader" "^2.1.5"
