@@ -40,12 +40,14 @@ type Project = {
 }
 
 const Home: NextPage = () => {
+    const crashesDomain = "crashes.hudcostreets.org"
+    const crashesUrl = `https://${crashesDomain}`
     const bmpHref = "https://bikejc.github.io/bike-master-plan"
     const bmpPdf = "https://cdn5-hosted.civiclive.com/UserFiles/Servers/Server_6189660/File/Community/Transportation/LetsRideJCMasterPlan-FinalDraft%206.16.19_09_30.pdf"
     const bmpChildren = <p><A href={bmpHref}><strong>bikejc.github.io/bike-master-plan</strong></A>: web version of <A href={bmpPdf}>the PDF published (and passed by the JC Planning Board) in 2019</A>.</p>
     const projects: Project[] = [
         { id: "pbls", title: "Jersey City Protected Bike Lane + Ward Map", href: "https://bikejc.github.io/maps", src: "/imgs/pbls-roads.gif", alt: "", children: <p><A href={"https://bikejc.github.io/maps"}><strong>bikejc.github.io/maps</strong></A>: maps of JC ward boundaries, protected bike lanes, possible and planned bike lanes, Citi Bike stations, and roads.</p>, },
-        { id: "njsp", title: "NJ Traffic Crash Data", href: "https://neighbor-ryan.org/nj-crashes/", src: "/imgs/njsp.png", alt: "", children: <p><A href={"https://neighbor-ryan.org/nj-crashes/"}><strong>neighbor-ryan.org/nj-crashes</strong></A>: analysis of NJ State Police and NJDOT crash data</p>, },
+        { id: "njsp", title: "NJ Traffic Crash Data", href: crashesUrl, src: "/imgs/njsp.png", alt: "", children: <p><A href={crashesUrl}><strong>{crashesDomain}</strong></A>: analysis of NJ State Police and NJDOT crash data</p>, },
         { id: "ctbk", title: "Citi Bike Dashboard", href: "https://ctbk.dev", src: "/imgs/ctbk.png", alt: "", children: <p><A href={"https://ctbk.dev"}><strong>ctbk.dev</strong></A>: interactive plots and stats about Citi Bike usage in NYC, Jersey City, and Hoboken.</p>},
         { id: "ebikes", title: "E-Bikes Are a Transportation Revolution", href: "https://ebikes.neighbor-ryan.org", src: "/imgs/ebikes-nyc-skyline.png", alt: "", children: <p><A href={"https://ebikes.neighbor-ryan.org"}><strong>ebikes.neighbor-ryan.org</strong></A>: blog about why you should get an e-bike, the micro-mobility revolution, and why cities should be rushing to help people convert car-trips.</p> },
         { id: "turnpiketrap", title: "Rally opposing NJ Turnpike Expansion", href: "https://neighbor-ryan.org/turnpiketrap", src: "dsLHqLm5C3w", yt: true, alt: "", children: <p><A href={"https://neighbor-ryan.org/turnpiketrap"}><strong>neighbor-ryan.org/turnpiketrap</strong></A>: videos and transcripts from an anti-turnpike-widening rally on November 12, 2022. See also <A href={"https://turnpiketrap.org"}>turnpiketrap.org</A>.</p> },
