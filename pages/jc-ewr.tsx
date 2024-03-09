@@ -1,4 +1,4 @@
-import {Head} from "next-utils/head";
+import {Head} from "@rdub/next-base/head";
 
 export default function Home() {
     return <div className={"container"}>

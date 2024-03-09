@@ -1,11 +1,11 @@
 import React, {Fragment, ReactNode} from "react"
 import type {NextPage} from 'next'
-import {Head} from 'next-utils/head'
-import A from "next-utils/a"
+import {Head} from '@rdub/next-base/head'
+import A from "@rdub/next-base/a"
 import styles from '../styles/Home.module.css'
 import css from "./index.module.css"
 import {Parallax} from "react-parallax";
-import YouTubeEmbed from "next-utils/youtube";
+import YouTubeEmbed from "@rdub/next-base/youtube";
 import {Socials} from "../src/socials";
 
 const DefaultSocialWidth = 30

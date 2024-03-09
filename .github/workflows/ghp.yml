@@ -13,10 +13,13 @@ jobs:
           persist-credentials: false
       - uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 19
           cache: 'npm'
           cache-dependency-path: yarn.lock
-      - run: npm install
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 8
+      - run: pnpm install
       - run: npm run gha-export
       - name: Deploy to GH Pages
         uses: JamesIves/github-pages-deploy-action@4.1.1

@@ -1,4 +1,4 @@
-import {Head} from "next-utils/head";
+import {Head} from "@rdub/next-base/head";
 
 function Home() {
     const title = "NJ Traffic Crash Data"

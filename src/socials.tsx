@@ -1,4 +1,4 @@
-import * as Socs from "next-utils/socials"
+import * as Socs from "@rdub/next-base/socials"
 
 export const url = "https://neighbor-ryan.org"
 

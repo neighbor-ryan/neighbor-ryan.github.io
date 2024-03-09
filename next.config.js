@@ -4,9 +4,6 @@ const {
 } = require('@vanilla-extract/next-plugin');
 const withVanillaExtract = createVanillaExtractPlugin();
 
-const createTranspileModulesPlugin = require("next-transpile-modules");
-const withTranspileModules = createTranspileModulesPlugin(["next-utils"]);
-
 // const basePath = "/"
 
 /** @type {import('next').NextConfig} */
@@ -21,6 +18,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  output: "export",
 }
 
 const withMDX = require('@next/mdx')({
@@ -35,9 +33,9 @@ const withMDX = require('@next/mdx')({
     providerImportSource: "@mdx-js/react",
   },
 })
-module.exports = withTranspileModules(withVanillaExtract(withMDX({
+module.exports = withVanillaExtract(withMDX({
   ...nextConfig,
   trailingSlash: true,
   // Append the default value with md extensions
   pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
-})))
+}))

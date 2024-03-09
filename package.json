@@ -6,11 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "export": "next build && next export",
-    "gha-export": "next build && next export && touch out/.nojekyll && cp CNAME out/"
+    "gha-export": "next build && npm run write-redirects && touch out/.nojekyll && cp CNAME out/",
+    "write-redirects": "./write-redirects.js"
   },
   "dependencies": {
-    "next": "13.0.5",
-    "next-utils": "https://gitpkg.now.sh/runsascoded/next-utils/dist?648b5cd",
+    "@mdx-js/loader": "^3.0.1",
+    "@next/mdx": "^14.1.3",
+    "@rdub/next-base": "^0.1.0",
+    "@vanilla-extract/next-plugin": "^2.3.7",
+    "next": "^14",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-parallax": "^3.5.1"
@@ -21,6 +25,6 @@
     "@types/react-dom": "18.0.9",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.5",
-    "typescript": "4.9.3"
+    "typescript": "^5"
   }
 }

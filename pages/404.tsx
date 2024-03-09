@@ -1,5 +1,5 @@
 import styles from "../styles/Home.module.css";
-import {Head} from "next-utils/head";
+import {Head} from "@rdub/next-base/head";
 import index from "./index.module.css";
 import React from "react";
 import {Socials, socials, url} from "../src/socials"
